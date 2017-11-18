@@ -1,0 +1,16 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/**
+ * Links
+ */
+a {
+  color: #000000;
+  text-decoration: underline; }
+  a:visited {
+    color: #1756a9; }
+  a:hover {
+    color: #111;
+    text-decoration: underline; }
