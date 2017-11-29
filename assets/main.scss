@@ -113,3 +113,48 @@
 .insta-image {
   border: 2px solid white;
 }
+
+.youtube-subscribe {
+  .youtube-subscribe-txt {
+    display: inline;
+    font-size: 14px;
+  }
+}
+
+.site-header {
+  background: {{ site.color.teal }};
+  border-top: none;
+  .site-title {
+    color: white;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  .site-header {
+    .site-nav {
+      .page-link {
+        color: white;
+      }
+    }
+  }
+}
+
+
+/**
+ * Links
+ */
+a {
+  color: {{ site.color.teal-dark }};
+  text-decoration: none; }
+  a:visited {
+    color: {{ site.color.teal-dark }}; }
+  a:hover {
+    color: #111;
+    text-decoration: underline; }
+  .social-media-list a:hover {
+    text-decoration: none; }
+    .social-media-list a:hover .username {
+      text-decoration: underline; }
+
+
+

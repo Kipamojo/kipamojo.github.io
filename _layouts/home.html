@@ -28,24 +28,33 @@ layout: default
 
 </div>
 
-<div class="wrapper" >
 
   <div class="sidebar">
+  
+    <div class="youtube-subscribe" >
+      <p class="youtube-subscribe-txt">Subscribe to us on </p>
+      
+      <script src="https://apis.google.com/js/platform.js"></script>
+      <div class="g-ytsubscribe" data-channelid="UC1k4_eUajFuNQSgSf1MiFXg" data-layout="default" data-count="hidden"></div>
+      
+    </div>
+  
+    {% include youtube-latest.html %}
 
     <div class="insta-follow" >
       <a href="https://instagram.com/{{ site.instagram.username }}">
         <button class="insta-follow-btn" >Follow</button>
       </a>
-      <p class="insta-follow-txt"> us on Instagram </p>
+      <p class="insta-follow-txt"> us on Instagram! </p>
     </div>
   
 
-  {% assign link = '{{link}}' %}
-  {% assign image = '{{image}}' %}
-  {% assign model = '{{model}}' %}
-  <script type="text/javascript" src="assets/script/instafeed.min.js"></script>
-  <script type="text/javascript">
-    var feed = new Instafeed({
+    {% assign link = '{{link}}' %}
+    {% assign image = '{{image}}' %}
+    {% assign model = '{{model}}' %}
+    <script type="text/javascript" src="assets/script/instafeed.min.js"></script>
+    <script type="text/javascript">
+      var feed = new Instafeed({
         get: 'user',
         userId: '{{ site.instagram.user_id }}',
         accessToken: '{{ site.instagram.access_token }}',
@@ -53,12 +62,11 @@ layout: default
         resolution: 'thumbnail',
         template: '<a class="animation" href="{{link}}"><img class="insta-image" src="{{image}}" /></a>'
       });
-    feed.run();
-  </script> 
+      feed.run();
+    </script> 
 
-  <div id="instafeed"></div>
+    <div id="instafeed"></div>
 
-</div>
+  </div>
 
-</div>
 
