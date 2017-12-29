@@ -1,0 +1,48 @@
+<div class="sidebar">
+  
+    <div class="youtube-subscribe" >
+      
+        <p class="youtube-subscribe-txt">Subscribe to us on </p>
+        
+      <span style="display:inline; vertical-align:middle">
+      	{% include youtube-subscribe-btn.html count="hidden" %}
+      </span>
+
+      
+      
+      </br>
+      {% include youtube-latest.html width="200px" height="113px" %}
+      
+      </div>
+      
+    
+  
+    
+
+    <div class="insta-follow" >
+      <a href="https://instagram.com/{{ site.instagram.username }}">
+        <button class="insta-follow-btn" >Follow</button>
+      </a>
+      <p class="insta-follow-txt"> us on Instagram! </p>
+    </div>
+  
+
+    {% assign link = '{{link}}' %}
+    {% assign image = '{{image}}' %}
+    {% assign model = '{{model}}' %}
+    <script type="text/javascript" src="assets/script/instafeed.min.js"></script>
+    <script type="text/javascript">
+      var feed = new Instafeed({
+        get: 'user',
+        userId: '{{ site.instagram.user_id }}',
+        accessToken: '{{ site.instagram.access_token }}',
+        limit: '8',
+        resolution: 'thumbnail',
+        template: '<a class="animation" href="{{link}}"><img class="insta-image" src="{{image}}" /></a>'
+      });
+      feed.run();
+    </script> 
+
+    <div id="instafeed"></div>
+
+  </div>

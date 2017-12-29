@@ -4,6 +4,7 @@ title:  "Things to do in Singapore on a tight budget"
 date:   2017-11-23 00:10:28 +0800
 categories: blog
 image: "assets/img/baybynight.jpg"
+alt: "Marina Bay by night"
 ---
 There is a lot to see in the city center of Singapore that doesn’t require a budget, with Marina Bay situated at its core. A walk along the 3.5 km-long Marina Bay Promenade offers you some amazing views. The Marina Bay Sands resort can be seen from all around the Bay, which is great for some beautiful photos. The skyscrapers in the financial district on the south side of the Bay are also great for some breathtaking shots. In the evening, all the buildings around the Bay light up resulting in some beautiful reflections in the water of Marina Bay.
 
