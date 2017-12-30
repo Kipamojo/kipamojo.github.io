@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Things to do in Singapore on a tight budget by MRT"
+date:   2017-12-30 19:16:28 +0800
+tags: Singapore budget
+---
+Outside the city center of Singapore there is also lots to do and to see. If you're staying in the city center of Singapore, getting to these places requires you an MRT ticket, but the activities itself are all free of charge. 
+
+The Singapore Botanic Gardens are easily accessible from the MRT Station Botanic Gardens. Just follow the exit to the Botanic Gardens and you will find yourself at the entrance of the Gardens. In the Gardens there is a lot of tropical flora to be found. The Gardens are not only worth a visit if you're a nature enthusiast, but it also offers a calm and relaxed atmosphere to stroll through the green park and be amazed by some very beautiful plants. 
+
+Mt. Faber Park is a hill and its peak offers great views over the city, the harbor and the sea. The Park is accessible from HarbourFront MRT Station, which is located under the largest shopping mall of Singapore: VivoCity. Take exit D from the MRT Station and the shopping mall, cross the street and you will get to the Merang Trail. It really feels like you're in a rainforest and if you're lucky you will even spot some monkeys! There are a lot of mosquitos though, so don't forget to bring mosquito spray. At the Mt. Faber peak is a cable car that leads to Sentosa, which is relatively expensive. The other parks Telok Blangah Hill and Kent Ridge are accessible from Mt. Faber Park through the Southern Ridges Park Connector. 
+
+The Southernmost Point of Continental Asia can be found on the island of Sentosa. The MRT Station to get to Sentosa is also HarbourFront Station. From there you can either take the Sentosa Boardwalk or the Sentosa Express (a monorail train), which you can find by following the signs. Taking the Sentosa Express costs SGD 4, but you will get unlimited use of the monorail services. When we were there, the Boardwalk was free of charge. However, this was only for a limited period, so it could be that you have to pay an entrance fee to visit the island. If you're taking the Sentosa Express, exit the train at the Beach Station and follow the signs to Palawan Beach. If you're walking, you can immediately follow the signs to Palawan Beach. At Palawan Beach, take the bridge to Palawan Island where you can enjoy an impressive view over the sea. Visiting Sentosa can be fun, but try to avoid the weekends as it can be very crowded. Sentosa is one big attraction park so if you're not into that, it's not worth visiting. 
+
+Getting to the Chinese Garden by MRT is not a short ride, but it's definitely worth a visit if you're in Singapore. Still in the MRT you will already be able to see a large red pagoda in the sky. From the MRT Station Chinese Garden, it's a short walk to the park. It's a tranquil place and not touristic at all. Be amazed by the beautiful architecture found in the Garden and there are a lot of animals too. You will see eagles flying in the sky, you will hear a lot of birds chirping from the trees and lizards can be found all over the place!
