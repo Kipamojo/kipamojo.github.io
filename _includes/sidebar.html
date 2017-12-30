@@ -20,7 +20,7 @@
     
 
     <div class="insta-follow" >
-      <a href="https://instagram.com/{{ site.instagram.username }}">
+      <a target="_blank" href="https://instagram.com/{{ site.instagram.username }}">
         <button class="insta-follow-btn" >Follow</button>
       </a>
       <p class="insta-follow-txt"> us on Instagram! </p>
@@ -38,7 +38,7 @@
         accessToken: '{{ site.instagram.access_token }}',
         limit: '8',
         resolution: 'thumbnail',
-        template: '<a class="animation" href="{{link}}"><img class="insta-image" src="{{image}}" /></a>'
+        template: '<a class="animation" target="_blank" href="{{link}}"><img class="insta-image" src="{{image}}" /></a>'
       });
       feed.run();
     </script> 

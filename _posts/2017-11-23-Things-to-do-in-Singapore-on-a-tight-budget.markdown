@@ -2,7 +2,7 @@
 layout: post
 title:  "Things to do in Singapore on a tight budget"
 date:   2017-11-23 00:10:28 +0800
-categories: blog
+tags: Singapore budget
 image: "assets/img/baybynight.jpg"
 alt: "Marina Bay by night"
 ---

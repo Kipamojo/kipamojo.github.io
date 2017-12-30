@@ -26,12 +26,20 @@ url: "https://kipamojo.world" # the base hostname & protocol for your site, e.g.
 paginate: 1
 paginate_path: "/:num/"
 
+tag_page: '/tags'
+
 
 color:
+  grey: >-
+    #828282
+  teal-light: >-
+    #80d5d4
   teal: >- 
     #00aba9
   teal-dark: >-
     #007b7a
+    
+    
 
 github_username:  kipamojo
 # youtube_username: kipamojo
@@ -63,6 +71,8 @@ social:
     - https://instagram.com/kipamojo
     - https://youtube.com/UC1k4_eUajFuNQSgSf1MiFXg
 
+disqus:
+    shortname: kipamojo
 
 
 # Paths
