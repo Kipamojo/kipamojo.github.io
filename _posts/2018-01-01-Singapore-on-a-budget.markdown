@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Things to do in Singapore on a tight budget"
-date:   2017-11-23 00:10:28 +0800
-tags: Singapore budget
+title:  "Singapore: things to do on a budget"
+date:   2018-01-01 14:43:28 +0800
+tags: Singapore
 image: "assets/img/baybynight.jpg"
+banner: "assets/img/baybynight-large.jpg"
 alt: "Marina Bay by night"
 ---
 There is a lot to see in the city center of Singapore that doesn’t require a budget, with Marina Bay situated at its core. A walk along the 3.5 km-long Marina Bay Promenade offers you some amazing views. The Marina Bay Sands resort can be seen from all around the Bay, which is great for some beautiful photos. The skyscrapers in the financial district on the south side of the Bay are also great for some breathtaking shots. In the evening, all the buildings around the Bay light up resulting in some beautiful reflections in the water of Marina Bay.
@@ -26,7 +27,7 @@ The Singapore river is located on the west side of Marina Bay. Walking along the
 
 {% include embed-instagram.html id="BbT0nA2Bkuy" maxwidth=400 %}
 
-The Fullerton Building, which is located at the other side of the rives, used to be the General Post Office but currently houses a five-star hotel. It is one of the oldest buildings you can find in this part of the city. Walking further along the river will get you to Clarke Quay where you can find various restaurants and nightclubs. The colorful warehouses are lovely to look at!
+The Fullerton Building, which is located at the other side of the river, used to be the General Post Office but currently houses a five-star hotel. It is one of the oldest buildings you can find in this part of the city. Walking further along the river will get you to Clarke Quay where you can find various restaurants and nightclubs. The colorful warehouses are lovely to look at!
 
 {% include embed-instagram.html id="BbgFCqihhkf" maxwidth=400 %}
 

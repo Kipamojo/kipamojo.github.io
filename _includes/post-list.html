@@ -17,7 +17,9 @@
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
         {% if include.image %}
-          <img class="post-image" src="{{ post.image | escape }}" alt="{{ post.alt }}"/>
+          <a href="{{ post.url | relative_url }}">
+            <img class="post-image" src="{{ post.image | escape }}" alt="{{ post.alt }}"/>
+          </a>
         {% endif %}
       </li>
     {% endfor %}
