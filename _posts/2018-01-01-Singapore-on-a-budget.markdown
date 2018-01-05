@@ -34,3 +34,7 @@ The Fullerton Building, which is located at the other side of the river, used to
 A 15-minute walk from Clarke Quay will bring you to Singaporean Chinatown. Chinatown offers some cute houses and lovely streets, which are all – of course – in Chinese style. You will find shops and stalls and even some pagodas. Pagoda Street is one of the most photogenic streets of Chinatown: a Chinese looking street with colorful lanterns and – as a finishing touch – a beautiful skyline in the background.
 
 {% include embed-instagram.html id="BbjXxs1B06C" maxwidth=400 %}
+
+Be sure to check out more of our visual experiences on our [Instagram][instagram]{:target="_blank"}!
+
+[instagram]: https://instagram.com/kipamojo
