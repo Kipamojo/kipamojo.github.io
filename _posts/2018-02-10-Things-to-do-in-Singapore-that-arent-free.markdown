@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Things to do in Singapore that cost money"
+title:  "Things to do in Singapore (that aren't free)"
 date:   2018-02-10 12:05:00 +0100
 tags: Singapore
 image: "assets/img/singapore-sunset.jpg"
