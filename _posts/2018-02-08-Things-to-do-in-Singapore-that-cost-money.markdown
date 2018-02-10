@@ -60,7 +60,8 @@ Price: SGD 33 (adult - Mount Faber Line + Sentosa Line)
 SGD 29 (adult - Mount Faber Line)  
 SGD 13 (adult - Sentosa Line)
 
-![Sentosa cable car]({{ "/assets/img/sentosa-cable-car.jpg" | absolute_url }}){:class="inpost"}
+{% include img-center.html path="/assets/img/sentosa-cable-car.jpg" alt="Sentosa cable car" %}
+
 <br><br>
 Are you planning on visiting Singapore? Let us know in the comment section below! 
 
