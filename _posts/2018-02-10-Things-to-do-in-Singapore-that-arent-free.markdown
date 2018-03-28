@@ -3,7 +3,7 @@ layout: post
 title:  "Things to do in Singapore (that aren't free)"
 date:   2018-02-10 12:05:00 +0100
 tags: Singapore
-image: "assets/img/singapore-sunset kopie.jpg"
+image: "assets/img/singapore-sunset-kopie.jpg"
 banner: "assets/img/singapore-sunset-large.jpg"
 alt: "Singapore sunset"
 ---
