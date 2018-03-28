@@ -4,7 +4,7 @@ title:  "Places to eat in Singapore"
 date:   2018-02-12 12:50:00 +0900
 tags: Singapore
 image: "assets/img/satay-bay-banner.jpg"
-banner: "assets/img/satay-bay-banner.jpg"
+banner: "assets/img/satay-bay-banner-large.jpg"
 alt: "Satay by the Bay"
 ---
 

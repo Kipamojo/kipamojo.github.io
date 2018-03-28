@@ -4,7 +4,7 @@ title:  "Things to do in Singapore (that aren't free)"
 date:   2018-02-10 12:05:00 +0100
 tags: Singapore
 image: "assets/img/singapore-sunset.jpg"
-banner: "assets/img/singapore-sunset.jpg"
+banner: "assets/img/singapore-sunset-large.jpg"
 alt: "Singapore sunset"
 ---
 Since (unfortunately) not everything in Singapore is free, here are a few worthwhile attractions that cost some dollars.
