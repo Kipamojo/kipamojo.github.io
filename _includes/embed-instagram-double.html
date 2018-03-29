@@ -9,59 +9,61 @@ Variables:
 -->
 
 
-<div style="overflow:auto; text-align: center;">
+<center>
+<div style="overflow:hidden; text-align: center;">
+	{% assign id-left = include.id-left %}
+	{% assign id-right = include.id-right %}
+	{% assign margin-left = include.margin %}
+	{% assign margin-right = include.margin %}
+	{% assign width-left = include.width %}
+	{% assign width-right = include.width %}
+	
 	
 	<style scoped>
-		div.embed-instagram-double-left {
+		div.{{ id-left }} {
 			float:left;
-			margin-left:50px;
-			transform: translateY({{ include.adjust-left-percentage | default: 0 }}%);
+			width: {{ width-left | default: 350 }}px;
+			margin-left:{{ margin-left | default: 0 }}px;
+			
 		}
-		div.embed-instagram-double-right {
+		div.{{ id-right }} {
 			float:right;
-			margin-right:50px;
-			transform: translateY({{ include.adjust-right-percentage | default: 0 }}%);
+			width: {{ width-right | default: 350 }}px;
+			margin-right:{{ margin-right | default: 0 }}px;
 		}
 			
 		@media (max-width: 750px) {
-    		div.embed-instagram-double-left {
+    		div.{{ id-left }} {
 				float:inherit;
-				margin-left:0px;
-				transform: translateY(0%);
+				margin-left:auto;
+				margin-right:auto;
 			}
-			div.embed-instagram-double-right {
+			div.{{ id-right }} {
 				float:inherit;
-				margin-right:0px;
-				transform: translateY(0%);
+				margin-left:auto;
+				margin-right:auto;
 			}
 		}
 	</style>
 
-	{% assign id-left = include.id-left %}
-	{% assign maxwidth-left = include.maxwidth-left | default: 658 %}
 	{% assign caption-left = include.caption-left | default: 1 %}
-	<div class="embed-instagram-double-left" > 
-		{% if caption-left==1 %}
-        	{% include embed-instagram.html id=id-left maxwidth=maxwidth-left %}
-        {% else %}
-        	{% include embed-instagram-nocaption.html id=id-left maxwidth=maxwidth-left %}
-      	{% endif %}
-		
-	</div>
-
-	{% assign id-right = include.id-right %}
-	{% assign maxwidth-right = include.maxwidth-right | default: 658 %}
 	{% assign caption-right = include.caption-right | default: 1 %}
-	<div class="embed-instagram-double-right" > 
-		{% if caption-right==1 %}
-			{% include embed-instagram.html id=id-right maxwidth=maxwidth-right %}
+    <div class="{{ id-left }}" >    
+    	{% if caption-left==1 %}
+			{% include embed-instagram-new.html id=id-left %}        
 		{% else %}
-			{% include embed-instagram-nocaption.html id=id-right maxwidth=maxwidth-right %}
-		{% endif %}
+        	{% include embed-instagram-nocaption-new.html id=id-left %}
+      	{% endif %}
 	</div>
-	
+    <div class="{{ id-right }}" >    
+		{% if caption-right==1 %}
+			{% include embed-instagram-new.html id=id-right %}        
+		{% else %}
+        	{% include embed-instagram-nocaption-new.html id=id-right %}
+      	{% endif %}
+	</div>	
 </div>
-
+</center>
 
 
 <!--
