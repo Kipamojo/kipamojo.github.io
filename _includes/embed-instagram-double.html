@@ -37,11 +37,17 @@ Variables:
 				float:inherit;
 				margin-left:auto;
 				margin-right:auto;
+				width: 100%;
+				height: auto;
+				max-width: {{ width-left | default: 350 }}px;
 			}
 			div.{{ id-right }} {
 				float:inherit;
 				margin-left:auto;
 				margin-right:auto;
+				width: 100%;
+				height: auto;
+				max-width: {{ width-right | default: 350 }}px;
 			}
 		}
 	</style>
