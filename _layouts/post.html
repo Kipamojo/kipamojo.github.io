@@ -32,12 +32,14 @@ layout: default
   
   <p class="post-meta-below">
     {% if page.tags %}
-        <span class="tags">
+        <span class="tags" style="display: block;">
       	  {% for tag in page.tags %}
   		    <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">#{{ tag }}</a>
   		  {% endfor %}
   		</span>  
       {% endif %}
+      
+      <!--{% include prevnext-post.html %}-->
   </p>
 
   {% if site.disqus.shortname %}
