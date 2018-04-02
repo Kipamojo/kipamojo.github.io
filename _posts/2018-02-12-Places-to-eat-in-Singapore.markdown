@@ -35,7 +35,7 @@ If you're tired of Asian food and you're looking for a nice and affordable place
 
 {% include img-center.html path="/assets/img/marche-movenpick.jpg" alt="Marché Mövenpick" %}
 
-Be sure to check out more of our visual experiences on our [Instagram][instagram]{:target="_blank"}!
+Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
 [instagram]: https://instagram.com/kipamojo
 

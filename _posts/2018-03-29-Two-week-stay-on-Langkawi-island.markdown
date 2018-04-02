@@ -63,7 +63,7 @@ Planning your stay on Langkawi? Click [here][booking.com]{:target="_blank"} to g
 <br><br>
 Are you planning on visiting Langkawi? Let us know in the comment section below! 
 
-Be sure to check out more of our visual experiences on our [Instagram][instagram]{:target="_blank"}!
+Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916

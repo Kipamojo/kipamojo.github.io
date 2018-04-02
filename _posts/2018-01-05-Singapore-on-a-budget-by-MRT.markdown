@@ -25,6 +25,6 @@ To even out the crowdedness of Sentosa, here’s another relaxing spot: the Chin
 
 {% include embed-instagram.html id="BblpTwdhYmh" maxwidth=400 %}
 
-Be sure to check out more of our visual experiences on our [Instagram][instagram]{:target="_blank"}!
+Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
 [instagram]: https://instagram.com/kipamojo

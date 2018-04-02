@@ -70,7 +70,7 @@ SGD 13 (adult - Sentosa Line)
 <br><br>
 Are you planning on visiting Singapore? Let us know in the comment section below! 
 
-Be sure to check out more of our visual experiences on our [Instagram][instagram]{:target="_blank"}!
+Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
 [instagram]: https://instagram.com/kipamojo
 
