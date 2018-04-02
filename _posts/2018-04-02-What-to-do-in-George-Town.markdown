@@ -43,7 +43,7 @@ Costs adult: RM 68
 
 {% include caption.html text="Penang Bridge in the distance" size=15 %}
 
-Planning your stay on Langkawi? Click [here][booking.com]{:target="_blank"} to get a 10% cashback reward on Booking.com! 
+Planning your stay in George Town? Click [here][booking.com]{:target="_blank"} to get a 10% cashback reward on Booking.com! 
 
 Have you ever been to Penang or are you planning to go? Let us know in the comment section below! 
 
