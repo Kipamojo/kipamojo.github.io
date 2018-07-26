@@ -3,7 +3,6 @@ layout: post
 title:  "Two-week stay on Langkawi island - what did we do?"
 date:   2018-03-29 14:20:00 +0800
 tags:
-    - "Langkawi"
     - "Malaysia"
 image: "assets/img/langkawi-sunset.jpg"
 banner: "assets/img/langkawi-sunset-large.jpg"

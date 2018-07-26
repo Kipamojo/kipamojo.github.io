@@ -3,7 +3,6 @@ layout: post
 title:  "Kuala Lumpur sightseeing guide"
 date:   2018-07-24 12:00:00 +0200
 tags:
-    - "Kuala Lumpur"
     - "Malaysia"
 image: "assets/img/titiwangsa-lake-banner.jpg"
 banner: "assets/img/titiwangsa-lake-banner-large.jpg"

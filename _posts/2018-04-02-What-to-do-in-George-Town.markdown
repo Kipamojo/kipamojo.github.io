@@ -3,7 +3,6 @@ layout: post
 title:  "What to do in George Town?"
 date:   2018-04-02 09:15:00 +0800
 tags:
-    - "George Town"
     - "Malaysia"
 image: "assets/img/george-town-banner.jpg"
 banner: "assets/img/george-town-banner-large.jpg"
