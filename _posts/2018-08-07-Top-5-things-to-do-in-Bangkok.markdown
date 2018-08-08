@@ -19,7 +19,7 @@ Back in the 15th century, today’s Bangkok was but a village located at the wes
 
 ### Temples (Wat Arun)
 
-The most well-known temples in Bangkok are located along the Chao Phraya River, which makes it easy to visit them on the same day. These temples are [Wat Arun][wat arun], [Wat Pho][wat pho], [Wat Phra Kaew][wat phra kaew], [Wat Prayoon][wat prayoon] and [Wat Mahatat][wat mahatat], from which the first three are the most famous. Local ferries will get you from one side of the river to the other. It doesn’t really matter whether you visit early in the morning or in the afternoon, it’ll always be very crowded.
+The most well-known temples in Bangkok are located along the Chao Phraya River, which makes it easy to visit them on the same day. These temples are [Wat Arun][wat arun]{:target="_blank"}, [Wat Pho][wat pho]{:target="_blank"}, [Wat Phra Kaew][wat phra kaew]{:target="_blank"}, [Wat Prayoon][wat prayoon]{:target="_blank"} and [Wat Mahatat][wat mahatat]{:target="_blank"}, from which the first three are the most famous. Local ferries will get you from one side of the river to the other. It doesn’t really matter whether you visit early in the morning or in the afternoon, it’ll always be very crowded.
 
 {% include embed-instagram-nocaption.html id="BeXxwmmBqVy" maxwidth=400 %}
 
@@ -29,25 +29,25 @@ We only visited Wat Arun, as we didn’t really feel like going to the other tem
 
 ### Lumphini Park
 
-[Lumphini Park][lumphini park] is a beautiful city park in Bangkok. It was created in the 1920s by King Rama VI. It’s a very nice place to take a break from the hectic city life of Bangkok. Despite the hot and humid weather, you’ll see many people doing various sports in the park. There are even huge groups doing aerobics classes, with teachers, music and microphones included. We were in the park when the clock ticked 6:00 PM and suddenly loud music came from the speakers and everyone just stood frozenly still (and so did we, surprised). After a minute or two, the music had stopped, and everyone went on with their lives. This was all very sudden and surprising to us, but after doing some research, it turned out that this happens every day. At 8:00 AM and 6:00 PM the Thai national anthem is played on every local and national television and radio channel and on speakers in public places (train stations, parks etc.) and government buildings. So when visiting Thailand, be prepared if you find yourself in one of these places at 8:00 AM or 6:00 PM. Be sure to stop what you’re doing for a while and stand up if you were sitting. 
+[Lumphini Park][lumphini park]{:target="_blank"} is a beautiful city park in Bangkok. It was created in the 1920s by King Rama VI. It’s a very nice place to take a break from the hectic city life of Bangkok. Despite the hot and humid weather, you’ll see many people doing various sports in the park. There are even huge groups doing aerobics classes, with teachers, music and microphones included. We were in the park when the clock ticked 6:00 PM and suddenly loud music came from the speakers and everyone just stood frozenly still (and so did we, surprised). After a minute or two, the music had stopped, and everyone went on with their lives. This was all very sudden and surprising to us, but after doing some research, it turned out that this happens every day. At 8:00 AM and 6:00 PM the Thai national anthem is played on every local and national television and radio channel and on speakers in public places (train stations, parks etc.) and government buildings. So when visiting Thailand, be prepared if you find yourself in one of these places at 8:00 AM or 6:00 PM. Be sure to stop what you’re doing for a while and stand up if you were sitting. 
 
 {% include embed-instagram-nocaption.html id="BdRrWBwhu69" maxwidth=400 %}
 
 ### Themed café hopping
 
-As there are many themed cafés in Bangkok, we spent quite some time visiting them. Click [here][bangkok café article] to read which cafés we visited and which ones we’d still like to visit.
+As there are many themed cafés in Bangkok, we spent quite some time visiting them. Click [here][bangkok café article]{:target="_blank"} to read which cafés we visited and which ones we’d still like to visit.
 
 {% include embed-instagram-nocaption.html id="BdNMycqBr8r" maxwidth=400 %}
  
 ### Chinatown
 
-We didn’t really plan on going here but suddenly ended up in [Chinatown][chinatown] while walking from Wat Arun to our hotel (which was a very, very long walk). Chinatown in Bangkok is definitely the craziest we’ve ever been to. Every few meters there’s a small stall selling all kinds of dildos, sex tapes, condoms and other sex related toys. There are many shops selling dried goods (we still don’t know whether it was animal-skin or -organs or maybe both), coffins (?) and small, livinganimals (like chicks), which were with way too many crammed in small cages. Let’s just say it was quite an experience for us westerners having just spent 1.5 months in South East Asia.
+We didn’t really plan on going here but suddenly ended up in [Chinatown][chinatown]{:target="_blank"} while walking from Wat Arun to our hotel (which was a very, very long walk). Chinatown in Bangkok is definitely the craziest we’ve ever been to. Every few meters there’s a small stall selling all kinds of dildos, sex tapes, condoms and other sex related toys. There are many shops selling dried goods (we still don’t know whether it was animal-skin or -organs or maybe both), coffins (?) and small, livinganimals (like chicks), which were with way too many crammed in small cages. Let’s just say it was quite an experience for us westerners having just spent 1.5 months in South East Asia.
 
 {% include img-center.html path="/assets/img/bangkok-chinatown.jpg" alt="Bangkok Chinatown" %}
 
 ### K Village
 
-We were in Bangkok during Christmas and we read that there was a Christmas market at the [K Village mall][k village mall], so we wanted to check that out. Christmas in the tropical heat and humidity doesn’t feel like the freezing Christmas we’re used to at home, but the market was actually lots of fun. Everything was decorated in Christmas style and there were some fun games to play to try and win Christmas hats and cute small Christmas teddy bears. Not entirely sure whether the mall itself is worth visiting as we didn’t really check it out, but if you’re in Bangkok during Christmas time, the K Village Christmas market is definitely worth a visit!
+We were in Bangkok during Christmas and we read that there was a Christmas market at the [K Village mall][k village mall]{:target="_blank"}, so we wanted to check that out. Christmas in the tropical heat and humidity doesn’t feel like the freezing Christmas we’re used to at home, but the market was actually lots of fun. Everything was decorated in Christmas style and there were some fun games to play to try and win Christmas hats and cute small Christmas teddy bears. Not entirely sure whether the mall itself is worth visiting as we didn’t really check it out, but if you’re in Bangkok during Christmas time, the K Village Christmas market is definitely worth a visit!
 
 {% include embed-instagram-nocaption.html id="BdJ4HDPhRnd" maxwidth=400 %}
 
