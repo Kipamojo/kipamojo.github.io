@@ -43,7 +43,7 @@ Keep in mind that there’s a high chance you won’t have warranty at home, but
 
 Did you ever buy electronics abroad and what was your experience? Let us know in the comments below.
 
-Click [here][blogpost HK itinerary]{:target="_blank"} for our full Hong Kong itinerary and click [here][blogpost HK must do's]{:target="_blank"} for 5 must do's in Hong Kong.
+Click [here for our full Hong Kong itinerary][blogpost HK itinerary]{:target="_blank"} and click [here for 5 must do's in Hong Kong][blogpost HK must do's]{:target="_blank"}.
 
 Planning your stay in Hong Kong? Click [here][booking.com]{:target="_blank"} to get a 10% cashback reward on Booking.com! 
 
