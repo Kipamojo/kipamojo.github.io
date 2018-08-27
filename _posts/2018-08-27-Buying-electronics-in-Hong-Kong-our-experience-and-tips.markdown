@@ -9,7 +9,7 @@ banner: "assets/img/hong-kong-electronics-mong-kok-banner-large.jpg"
 alt: "Hong Kong Mong Kok buying electronics"
 ---
 
-Hong Kong is a well-known destination to buy electronics. There’s no sales tax, it’s usually cheaper and it’s OK to bargain. We were looking for a camera quite some time already and decided to finally buy one in Hong Kong. 
+Hong Kong is a well-known destination to buy electronics. There’s no sales tax, it’s usually cheaper and it’s okay to bargain. We were looking for a camera quite some time already and decided to finally buy one in Hong Kong. 
 
 ### Mong Kok
 
