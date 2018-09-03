@@ -9,7 +9,7 @@ banner: "assets/img/tokyo-mori-art-museum-view-banner-large.jpg"
 alt: "Tokyo Itinerary Mori Art Museum view"
 ---
 
-We spent seven days in Tokyo and did so many things that we decided to split our itinerary in two posts. This is the first one outlining our first three days in the Japanese capital. 
+We spent seven days in Tokyo and did so many things that we decided to split our itinerary in two posts. This is the first one outlining our first three days in the Japanese capital. Click [here to read part two][blog post part two]{:target="_blank"}.
 
 ### Day one
 
@@ -76,7 +76,7 @@ Daily: 09.00-23.00
 
 {% include img-center.html path="/assets/img/tokyo-tower.jpg" alt="Tokyo Tower" %}
 
-Stay tuned for part two of our full Tokyo itinerary!
+CLick [here to read part two of our full Tokyo itinerary][blog post part two]{:target="_blank"}!
 
 Have you ever been to Tokyo? Let us know in the comments below! 
 
@@ -97,3 +97,4 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [mori art museum prices]: https://art-view.roppongihills.com/en/info/ 
 [tokyo tower]: https://goo.gl/maps/r6nm3EbLAbF2 
 [tokyo tower prices]: https://www.tokyotower.co.jp/price/en.html 
+[blog post part two]: https://kipamojo.world/2018/09/03/Our-full-Tokyo-itineray-part-two.html 
