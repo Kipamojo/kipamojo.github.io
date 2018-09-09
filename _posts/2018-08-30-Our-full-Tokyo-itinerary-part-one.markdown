@@ -76,7 +76,7 @@ Daily: 09.00-23.00
 
 {% include img-center.html path="/assets/img/tokyo-tower.jpg" alt="Tokyo Tower" %}
 
-CLick [here to read part two of our full Tokyo itinerary][blog post part two]{:target="_blank"}!
+Click [here to read part two of our full Tokyo itinerary][blog post part two]{:target="_blank"}!
 
 Have you ever been to Tokyo? Let us know in the comments below! 
 
