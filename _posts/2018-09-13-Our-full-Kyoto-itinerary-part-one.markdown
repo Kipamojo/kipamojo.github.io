@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Our full Kyoto itinerary - part one"
-date:   2018-09-10 19:00:00 +0200
+date:   2018-09-13 19:00:00 +0200
 tags:
     - "Japan"
 image: "assets/img/kyoto-hokanji-banner.jpg"
