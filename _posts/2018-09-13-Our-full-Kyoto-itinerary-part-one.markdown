@@ -9,7 +9,7 @@ banner: "assets/img/kyoto-hokanji-banner-large.jpg"
 alt: "Kyoto Hokanji Gion"
 ---
 
-Kyoto is the former capital of Japan and is home to 1600 Buddhist temples and 400 Shinto shrines. We stayed in Kyoto for seven days and visited a lot of them. As we did so much in Kyoto, we decided to split our itinerary in two posts. 
+Kyoto is the former capital of Japan and is home to 1600 Buddhist temples and 400 Shinto shrines. We stayed in Kyoto for seven days and visited a lot of them. As we did so much in Kyoto, we decided to split our itinerary in two posts. Click [here to read the second part of our Kyoto itinerary][blog post two]{:target="_blank"}.
 
 ### Day one
 
@@ -87,7 +87,7 @@ The [Pokémon Center in Kyoto][pokemon center kyoto]{:target="_blank"} is locate
 
 {% include caption.html text="Our shopping basket filled with Pokémon goods - we bought it all!" size=15 %}
 
-Stay tuned for the second part of our Kyoto itinerary!
+Click [here to read the second part of our Kyoto itinerary][blog post two]{:target="_blank"}!
 
 Have you been to Kyoto? Let us know in the comments below!
 
@@ -109,3 +109,5 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [pokemon center kyoto]: https://goo.gl/maps/R5tDrXHiSmt
 [takashiyama kyoto store]: https://goo.gl/maps/miKnTtPDznq 
 [bell tower]: https://bulbapedia.bulbagarden.net/wiki/Bell_Tower#Origin 
+
+[blog post two]: https://kipamojo.world/2018/09/17/Our-full-Kyoto-itinerary-part-two.html 
