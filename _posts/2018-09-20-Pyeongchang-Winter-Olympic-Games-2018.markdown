@@ -31,7 +31,9 @@ The speed skating event was amazing and we were so glad that we bought last-minu
 
 It was very late at night and we took the last bus to our Airbnb. We usually book entire apartments at Airbnb, but it was quite a struggle to find accommodation during the Olympics in Gangneung and the only thing we could find was a room in someone’s house. We had the loveliest host we could wish for and it was no problem at all that we checked-in after midnight, she even made hot ginger tea for us to warm ourselves up. The next morning our host served us a delicious breakfast. As we were staying very close to the beach, we wanted to see what Korean beaches are like. (It turns out that beaches are no different in Korea, haha.) We packed our camera and drone and headed to the beach. It was almost freezing, but it was a nice sunny morning and the area looked amazing! 
 
-{% include img-center.html path="/assets/img/gangneung-beach.jpg" alt="Drone shot of Gangneung Beach" %}
+{% include img-center.html path="/assets/img/gangneung-beach.jpg" alt="Drone shot of Songjeong Beach" %}
+
+{% include caption.html text="Drone shot of Songjeong Beach" size=15 %}
 
 ### Holland Heineken House
 
