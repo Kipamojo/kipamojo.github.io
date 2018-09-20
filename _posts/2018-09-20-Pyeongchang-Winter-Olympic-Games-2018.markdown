@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pyeongchang Winter Olympic Games 2018"
-date:   2018-09-17 12:00:00 +0200
+date:   2018-09-20 22:00:00 +0200
 tags:
     - "Korea"
 image: "assets/img/gangneung-pyeongchang-winter-olympics-2018-banner.jpg"
