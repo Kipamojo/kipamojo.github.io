@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "E-sports in Seoul"
+title:  "E-sports in Seoul: Everything you need to know"
 date:   2018-10-04 21:00:00 +0200
 tags:
     - "Korea"
