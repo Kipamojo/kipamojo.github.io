@@ -52,7 +52,7 @@ In the evening, we went to see a football match of Brisbane Roar against Adelaid
 
 Late at night, we went to the [Wilson Outlook Reserve][wilson outlook reserve]{:target="_blank"} to watch the [Story Bridge][story bridge]{:target="_blank"}. The Story Bridge lights up every night and the colors change from time to time. From the Wilson Outlook Reserve you have a perfect view over the bridge as well as the skyscrapers in the bridge’s background. We loved this city view a lot. 
 
-{% include img-center.html path="/assets/img/brisbane-wilson-outlook-reserve.jpg" alt="View of the Story Bridge from the Wilson Outlook Reserve in Brisbane" %}
+{% include img-center.html path="/assets/img/brisbane-wilson-outlook-reserve.jpg" alt="Wilson Outlook Reserve in Brisbane" %}
 
 ### Day three
 
