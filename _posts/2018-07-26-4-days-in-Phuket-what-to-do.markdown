@@ -29,6 +29,22 @@ Have you ever visited Phuket? Let us know in the comments below!
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+### More [Thailand][thailand]{:target="_blank"}
+
+[What to do and see in Koh Yao Yai?][koh yao yai]{:target="_blank"}
+
+[Koh Yao Yai photo guide - including mapped locations][koh yao yai photo]{:target="_blank"}
+
+[What we did in Krabi Town][krabi town]{:target="_blank"}
+
+[Top 5 things to do in Bangkok][bangkok]{:target="_blank"}
+
+[thailand]: https://kipamojo.world/tags.html#thailand
+[koh yao yai]: https://kipamojo.world/2018/07/27/What-to-do-and-see-in-Koh-Yao-Yai.html
+[koh yao yai photo]: https://kipamojo.world/2018/07/28/Koh-Yoa-Yai-photo-guide.html
+[krabi town]: https://kipamojo.world/2018/07/30/What-we-did-in-Krabi-Town.html
+[bangkok]: https://kipamojo.world/2018/08/07/Top-5-things-to-do-in-Bangkok.html
+
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [maps bangtao beach]: https://www.google.nl/maps/place/Bangtao/@7.9874379,98.2877853,18z/data=!4m16!1m8!3m7!1s0x305039c1b1cd528b:0xf32c22989dc8e4a4!2sArinara+Bangtao+Beach+Resort!5m1!1s2018-07-26!8m2!3d7.9865136!4d98.2903575!3m6!1s0x305039c12127be63:0x1a0045f380127461!5m1!1s2018-07-26!8m2!3d7.9894732!4d98.2898618

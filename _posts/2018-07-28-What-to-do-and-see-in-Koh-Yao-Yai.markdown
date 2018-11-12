@@ -41,6 +41,22 @@ Planning your stay in Koh Yao Yai? Click [here][booking.com]{:target="_blank"} t
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+### More [Thailand][thailand]{:target="_blank"}
+
+[4 days in Phuket - what to do?][phuket]{:target="_blank"}
+
+[Koh Yao Yai photo guide - including mapped locations][koh yao yai photo]{:target="_blank"}
+
+[What we did in Krabi Town][krabi town]{:target="_blank"}
+
+[Top 5 things to do in Bangkok][bangkok]{:target="_blank"}
+
+[thailand]: https://kipamojo.world/tags.html#thailand
+[phuket]: https://kipamojo.world/2018/07/26/4-days-in-Phuket-what-to-do.html
+[koh yao yai photo]: https://kipamojo.world/2018/07/28/Koh-Yoa-Yai-photo-guide.html
+[krabi town]: https://kipamojo.world/2018/07/30/What-we-did-in-Krabi-Town.html
+[bangkok]: https://kipamojo.world/2018/08/07/Top-5-things-to-do-in-Bangkok.html
+
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 

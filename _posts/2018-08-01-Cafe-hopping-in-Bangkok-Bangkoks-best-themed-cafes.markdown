@@ -85,6 +85,22 @@ Planning your stay in Bangkok? Click [here][booking.com]{:target="_blank"} to ge
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+### More [Thailand][thailand]{:target="_blank"}
+
+[4 days in Phuket - what to do?][phuket]{:target="_blank"}
+
+[What to do and see in Koh Yao Yai?][koh yao yai]{:target="_blank"}
+
+[Bangkok photo spots - including mapped locations][bangkok photo]{:target="_blank"}
+
+[Top 5 things to do in Bangkok][bangkok]{:target="_blank"}
+
+[thailand]: https://kipamojo.world/tags.html#thailand
+[phuket]: https://kipamojo.world/2018/07/26/4-days-in-Phuket-what-to-do.html
+[koh yao yai]: https://kipamojo.world/2018/07/27/What-to-do-and-see-in-Koh-Yao-Yai.html
+[bangkok photo]: https://kipamojo.world/2018/08/10/Bangkok-photo-spots.html
+[bangkok]: https://kipamojo.world/2018/08/07/Top-5-things-to-do-in-Bangkok.html
+
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [caturday]: https://www.google.nl/maps/place/Caturday+Cat+Cafe/@13.7513885,100.5298949,17z/data=!3m1!4b1!4m5!3m4!1s0x30e29ecc86a5f0f7:0x434ff2fb95d0ed26!8m2!3d13.7513833!4d100.532089 

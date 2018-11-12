@@ -35,6 +35,22 @@ Planning your stay in Krabi Town? Click [here][booking.com]{:target="_blank"} to
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+### More [Thailand][thailand]{:target="_blank"}
+
+[4 days in Phuket - what to do?][phuket]{:target="_blank"}
+
+[What to do and see in Koh Yao Yai?][koh yao yai]{:target="_blank"}
+
+[Koh Yao Yai photo guide - including mapped locations][koh yao yai photo]{:target="_blank"}
+
+[Top 5 things to do in Bangkok][bangkok]{:target="_blank"}
+
+[thailand]: https://kipamojo.world/tags.html#thailand
+[phuket]: https://kipamojo.world/2018/07/26/4-days-in-Phuket-what-to-do.html
+[koh yao yai]: https://kipamojo.world/2018/07/27/What-to-do-and-see-in-Koh-Yao-Yai.html
+[koh yao yai photo]: https://kipamojo.world/2018/07/28/Koh-Yoa-Yai-photo-guide.html
+[bangkok]: https://kipamojo.world/2018/08/07/Top-5-things-to-do-in-Bangkok.html
+
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [may and mark's]: https://www.google.nl/maps/place/May+and+Mark's+House/@8.0651014,98.9138761,17z/data=!3m1!4b1!4m7!3m6!1s0x305194997340395d:0xee97a1bfe6a4c8de!5m1!1s2018-07-30!8m2!3d8.0650961!4d98.9160648

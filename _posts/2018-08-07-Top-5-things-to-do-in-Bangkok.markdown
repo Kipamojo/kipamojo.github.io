@@ -63,6 +63,22 @@ Planning your stay in Bangkok? Click [here][booking.com]{:target="_blank"} to ge
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+### More [Thailand][thailand]{:target="_blank"}
+
+[4 days in Phuket - what to do?][phuket]{:target="_blank"}
+
+[What to do and see in Koh Yao Yai?][koh yao yai]{:target="_blank"}
+
+[Bangkok photo spots - including mapped locations][bangkok photo]{:target="_blank"}
+
+[Café hopping in Bangkok - Bangkok's best themed cafés][bangkok cafe]{:target="_blank"}
+
+[thailand]: https://kipamojo.world/tags.html#thailand
+[phuket]: https://kipamojo.world/2018/07/26/4-days-in-Phuket-what-to-do.html
+[koh yao yai]: https://kipamojo.world/2018/07/27/What-to-do-and-see-in-Koh-Yao-Yai.html
+[bangkok photo]: https://kipamojo.world/2018/08/10/Bangkok-photo-spots.html
+[bangkok cafe]: https://kipamojo.world/2018/08/01/Cafe-hopping-in-Bangkok-Bangkoks-best-themed-cafes.html
+
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [bangkok café article]: https://kipamojo.world/2018/08/01/Cafe-hopping-in-Bangkok-Bangkoks-best-themed-cafes.html
