@@ -123,6 +123,19 @@ Let us know in the comments if you've ever visited any of these places and which
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+### More [Malaysia][malaysia]{:target="_blank"}
+
+[Two-week stay on Langkawi island - what did we do?][langkawi]{:target="_blank"}
+
+[What to do in George Town?][george town]{:target="_blank"}
+
+[New Year's Eve in Kuala Lumpur][nye kuala lumpur]{:target="_blank"}
+
+[malaysia]: https://kipamojo.world/tags.html#malaysia
+[langkawi]: https://kipamojo.world/2018/03/29/Two-week-stay-on-Langkawi-island.html
+[george town]: https://kipamojo.world/2018/04/02/What-to-do-in-George-Town.html
+[nye kuala lumpur]: https://kipamojo.world/2018/08/14/New-Years-Eve-in-Kuala-Lumpur.html
+
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [tickets petronas]: https://www.petronastwintowers.com.my/tickets#ticket_price

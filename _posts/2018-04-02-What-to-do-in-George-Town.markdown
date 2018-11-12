@@ -49,5 +49,18 @@ Have you ever been to Penang or are you planning to go? Let us know in the comme
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+### More [Malaysia][malaysia]{:target="_blank"}
+
+[Two-week stay on Langkawi island - what did we do?][langkawi]{:target="_blank"}
+
+[Kuala Lumpur sightseeing guide][kuala lumpur]{:target="_blank"}
+
+[New Year's Eve in Kuala Lumpur][nye kuala lumpur]{:target="_blank"}
+
+[malaysia]: https://kipamojo.world/tags.html#malaysia
+[langkawi]: https://kipamojo.world/2018/03/29/Two-week-stay-on-Langkawi-island.html
+[kuala lumpur]: https://kipamojo.world/2018/07/24/Kuala-Lumpur-sightseeing-guide.html
+[nye kuala lumpur]: https://kipamojo.world/2018/08/14/New-Years-Eve-in-Kuala-Lumpur.html
+
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916

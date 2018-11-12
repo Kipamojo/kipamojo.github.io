@@ -66,5 +66,18 @@ Are you planning on visiting Langkawi? Let us know in the comment section below!
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
+### More [Malaysia][malaysia]{:target="_blank"}
+
+[What to do in George Town?][george Town]{:target="_blank"}
+
+[Kuala Lumpur sightseeing guide][kuala lumpur]{:target="_blank"}
+
+[New Year's Eve in Kuala Lumpur][nye kuala lumpur]{:target="_blank"}
+
+[malaysia]: https://kipamojo.world/tags.html#malaysia
+[george town]: https://kipamojo.world/2018/04/02/What-to-do-in-George-Town.html
+[kuala lumpur]: https://kipamojo.world/2018/07/24/Kuala-Lumpur-sightseeing-guide.html
+[nye kuala lumpur]: https://kipamojo.world/2018/08/14/New-Years-Eve-in-Kuala-Lumpur.html
+
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
