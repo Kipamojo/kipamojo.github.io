@@ -37,4 +37,16 @@ A 15-minute walk from Clarke Quay will bring you to Singaporean Chinatown. China
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
+### More [Singapore][singapore]{:target="_blank"}
+
+[Places to eat in Singapore][singapore eat]{:target="_blank"}
+
+[Things to do in Singapore (that aren't free)][singapore not free]{:target="_blank"}
+
+[Singapore on a budget by MRT][singapore mrt]{:target="_blank"}
+
 [instagram]: https://instagram.com/kipamojo
+[singapore]: https://kipamojo.world/tags.html#singapore
+[singapore eat]: https://kipamojo.world/2018/02/12/Places-to-eat-in-Singapore.html
+[singapore not free]: https://kipamojo.world/2018/02/10/Things-to-do-in-Singapore-that-arent-free.html
+[singapore mrt]: https://kipamojo.world/2018/01/05/Singapore-on-a-budget-by-MRT.html

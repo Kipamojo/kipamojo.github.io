@@ -72,6 +72,18 @@ Are you planning on visiting Singapore? Let us know in the comment section below
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
+### More [Singapore][singapore]{:target="_blank"}
+
+[Places to eat in Singapore][singapore eat]{:target="_blank"}
+
+[Singapore: things to do on a budget][singapore budget]{:target="_blank"}
+
+[Singapore on a budget by MRT][singapore mrt]{:target="_blank"}
+
 [instagram]: https://instagram.com/kipamojo
+[singapore]: https://kipamojo.world/tags.html#singapore
+[singapore eat]: https://kipamojo.world/2018/02/12/Places-to-eat-in-Singapore.html
+[singapore budget]: https://kipamojo.world/2018/01/01/Singapore-on-a-budget.html 
+[singapore mrt]: https://kipamojo.world/2018/01/05/Singapore-on-a-budget-by-MRT.html 
 
 [budget-post]: {{ "/2018/01/05/Singapore-on-a-budget-by-MRT.html" | absolute_url }}

@@ -27,4 +27,16 @@ To even out the crowdedness of Sentosa, here’s another relaxing spot: the Chin
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
+### More [Singapore][singapore]{:target="_blank"}
+
+[Places to eat in Singapore][singapore eat]{:target="_blank"}
+
+[Things to do in Singapore (that aren't free)][singapore not free]{:target="_blank"}
+
+[Singapore: things to do on a budget][singapore budget]{:target="_blank"}
+
 [instagram]: https://instagram.com/kipamojo
+[singapore]: https://kipamojo.world/tags.html#singapore
+[singapore eat]: https://kipamojo.world/2018/02/12/Places-to-eat-in-Singapore.html
+[singapore not free]: https://kipamojo.world/2018/02/10/Things-to-do-in-Singapore-that-arent-free.html
+[singapore budget]: https://kipamojo.world/2018/01/01/Singapore-on-a-budget.html 

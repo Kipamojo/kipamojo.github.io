@@ -37,5 +37,16 @@ If you're tired of Asian food and you're looking for a nice and affordable place
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
-[instagram]: https://instagram.com/kipamojo
+### More [Singapore][singapore]{:target="_blank"}
 
+[Singapore: things to do on a budget][singapore budget]{:target="_blank"}
+
+[Singapore on a budget by MRT][singapore mrt]{:target="_blank"}
+
+[Things to do in Singapore (that aren't free)][singapore not free]{:target="_blank"}
+
+[instagram]: https://instagram.com/kipamojo
+[singapore]: https://kipamojo.world/tags.html#singapore
+[singapore budget]: https://kipamojo.world/2018/01/01/Singapore-on-a-budget.html 
+[singapore mrt]: https://kipamojo.world/2018/01/05/Singapore-on-a-budget-by-MRT.html 
+[singapore not free]: https://kipamojo.world/2018/02/10/Things-to-do-in-Singapore-that-arent-free.html 
