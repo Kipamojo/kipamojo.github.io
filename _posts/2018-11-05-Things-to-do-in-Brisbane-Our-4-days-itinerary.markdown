@@ -30,7 +30,7 @@ Opened 24/7 and there’s no entrance fee.
 
 #### Vapiano
 
-We discovered a [Vapiano restaurant][vapiano]{:target="_blank"} in Brisbane. We often go to Vapiano back home and really missed their pizza’s so of course we had to eat there that evening. If you haven’t heard of Vapiano before, you have to check it out. It’s not anything fancy, but the food is good and not expensive which makes it perfect!
+We discovered a [Vapiano restaurant][vapiano]{:target="_blank"} in Brisbane. We often go to Vapiano back home and really missed their pizzas so of course we had to eat there that evening. If you haven’t heard of Vapiano before, you have to check it out. It’s not anything fancy, but the food is good and not expensive which makes it perfect!
 
 {% include img-center.html path="/assets/img/brisbane-vapiano.jpg" alt="Vapiano in Brisbane" %}
 
@@ -124,7 +124,7 @@ Planning your stay in Brisbane? Click [here][booking.com]{:target="_blank"} to g
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
 [instagram]: https://instagram.com/kipamojo 
-[booking.com]: https://www.booking.com/s/11_6/joop9916
+[booking.com]: https://www.booking.com/s/35_6/joshsn24
 [south bank]: https://goo.gl/maps/iJLF9ByybQH2
 [wheel of brisbane]: https://goo.gl/maps/3Lm31iJVa6D2
 [south bank parklands]: https://goo.gl/maps/x73gCX9o6iK2
