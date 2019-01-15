@@ -42,9 +42,9 @@ If you’re lucky, you might catch a sunset without a huge cruise ship blocking 
 The [Museum of Contemporary Art][mca]{:target="_blank"} has a rooftop bar which offers a beautiful view of the Sydney Opera House. Try to catch the sunset on a Wednesday evening, the only evening the rooftop bar is open.
 There’s no entrance fee (and there’s no need to order anything if you just want to take photos).
 
-Opening hours:
-Thursdays – Tuesdays: 10.00-17.00
-Wednesdays: 10.00-21.00
+Opening hours:  
+Thursdays – Tuesdays: 10.00-17.00  
+Wednesdays: 10.00-21.00  
 
 {% include img-center.html path="/assets/img/sydney-opera-house-mca-rooftop.jpg" alt="Rooftop of the Museum of Contemporary Art Sydney" %}
 
