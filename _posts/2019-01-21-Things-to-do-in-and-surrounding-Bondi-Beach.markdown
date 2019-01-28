@@ -82,7 +82,7 @@ You need to take the [bus][bus]{:target="_blank"} to get to [Watsons Bay][watson
 
 Have you ever been to any of these places? Let us know in the comments below!
 
-Planning your stay in Sydney? Click [here][booking.com]{:target="_blank"} to get a 10% cashback reward on Booking.com! 
+Planning your stay in Bondi Beach? Click [here][booking.com]{:target="_blank"} to get a 10% cashback reward on Booking.com! 
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
