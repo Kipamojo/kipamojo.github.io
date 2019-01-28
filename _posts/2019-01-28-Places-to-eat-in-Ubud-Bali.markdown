@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Places to eat in Ubud, Bali"
-date:   2019-01-27 19:00:00 +0100
+date:   2019-01-28 07:00:00 +0100
 tags:
     - "Indonesia"
 image: "assets/img/ubud-lazy-cats-cafe-banner.jpg"
