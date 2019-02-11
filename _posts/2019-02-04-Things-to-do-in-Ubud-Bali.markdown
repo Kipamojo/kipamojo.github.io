@@ -6,7 +6,7 @@ tags:
     - "Indonesia"
 image: "assets/img/ubud-campuhan-ridge-walk-banner.jpg"
 banner: "assets/img/ubud-campuhan-ridge-walk-banner-large.jpg"
-alt: "Camphun Ridge Walk, things to do in Ubud, Bali, Indonesia"
+alt: "Campuhan Ridge Walk, things to do in Ubud, Bali, Indonesia"
 ---
 
 Ubud and its surroundings have many different things to offer. The city center of Ubud is bustling and very crowded. Just outside the city center, though, you can find peaceful places among the rice fields. Here’s what we did during our stay in Ubud.  
