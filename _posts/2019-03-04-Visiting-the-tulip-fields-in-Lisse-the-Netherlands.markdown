@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Visiting the tulip fields in Lisse, the Netherlands"
+title:  "Visiting the tulip fields in Lisse"
 date:   2019-03-04 17:00:00 +0100
 tags:
     - "The Netherlands"
