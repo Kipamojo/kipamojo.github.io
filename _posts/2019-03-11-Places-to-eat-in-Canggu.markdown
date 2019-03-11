@@ -69,7 +69,7 @@ The interior of The Loft is pretty, with lots of whites. There’s a small outsi
  
 [Paletas Wey][paletas wey]{:target="_blank"} is another ice cream shop in Canggu selling ice cream popsicles. Their popsicles are colorful and they have a few very pretty walls that serve as a great backdrop for photos. It’s the perfect place for having a nice popsicle and taking a pretty photo for the Gram!
 
-{% include embed-instagram-nocaption.html id="BjO0tV2n3s_" maxwidth=400 %}
+{% include img-center.html path="/assets/img/canggu-eat-paletas-wey.jpg" alt="Ice cream popsicle at Paletas Wey in Canggu, Bali, Indonesia" %}
  
 Four days isn’t nearly enough to check out all the amazing food Canggu has to offer, but it’s the perfect amount of time to recharge after 1,5 weeks of [exploring Bali][things ubud]{:target="_blank"} and [Nusa Penida][things nusa penida]{:target="_blank"} while enjoying some good food.
  
