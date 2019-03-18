@@ -55,7 +55,7 @@ The interior of The Loft is pretty, with lots of whites. There’s a small outsi
  
 ### Luigi’s Hot Pizza
  
-[Luigi’s Hot Pizza][luigis]{:target="_blank"} is a huge open-air space with picnic tables, which kind of makes it feel like you’re at a festival. You have to order and pay your food and drinks at the specific counters and have to pick up your food when it’s ready (you’ll get a timer, so you know when it’s ready). We always like this concept as it makes it possible to have a quick bite without feeling like you’re really going out for a fancy dinner. The pizzas were good and the atmosphere was great. During the night this place is bustling with many groups of friends having drinks and pizzas.
+[Luigi’s Hot Pizza][luigis]{:target="_blank"} is a huge open-aired space with picnic tables, which kind of makes it feel like you’re at a festival. You have to order and pay your food and drinks at the specific counters and have to pick up your food when it’s ready (you’ll get a timer, so you know when it’s ready). We always like this concept as it makes it possible to have a quick bite without feeling like you’re really going out for a fancy dinner. The pizzas were good and the atmosphere was great. During the night this place is bustling with many groups of friends having drinks and pizzas.
 
 {% include img-center.html path="/assets/img/canggu-eat-luigis-hot-pizza.jpg" alt="Pizza at Luigi's in Canggu, Bali, Indonesia" %}
  
