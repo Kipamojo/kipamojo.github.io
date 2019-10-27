@@ -11,7 +11,7 @@ alt: "Bangkok photo spots - road traffic"
 
 The bustling city of Bangkok is the perfect place to take very nice photos. In this post we share our favorite photo spots in Bangkok and include their locations so you can easily find them. Click [here][blogpost]{:target="_blank"} to read about our Top 5 things to do in Bangkok.
 
-### Wat Arun
+## Wat Arun
 
 {% include img-center.html path="/assets/img/bangkok-wat-arun-1.jpg" alt="Wat Arun Bangkok" %}
 
@@ -25,7 +25,7 @@ The bustling city of Bangkok is the perfect place to take very nice photos. In t
 
 {% include caption.html text="<a target='_blank' href='https://www.google.nl/maps/place/Wat+Arun,+Bangkok+Yai,+Bangkok+10600,+Thailand/@13.7420658,100.477232,15z/data=!3m1!4b1!4m5!3m4!1s0x30e29900caef320d:0x40100b25de28b80!8m2!3d13.7437024!4d100.4860282'>Click here for the location of Wat Arun</a>" size=15 %}
 
-### Wat Pho
+## Wat Pho
 
 {% include img-center.html path="/assets/img/bangkok-wat-pho-2.jpg" alt="Wat Pho Bangkok" %}
 
@@ -35,7 +35,7 @@ The bustling city of Bangkok is the perfect place to take very nice photos. In t
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/8yuZBHfBdXT2'>Click here for the location</a>" size=15 %}
 
-### The roads of Bangkok
+## The roads of Bangkok
 
 {% include img-center.html path="/assets/img/bangkok-roads-2.jpg" alt="Roads of Bangkok" %}
 
@@ -53,7 +53,7 @@ The bustling city of Bangkok is the perfect place to take very nice photos. In t
 
 {% include caption.html text="<a target='_blank' href='https://www.google.com/maps?q=Henri+Dunant+Rd,+Khwaeng+Pathum+Wan,+Khet+Pathum+Wan,+Krung+Thep+Maha+Nakhon+10330,+Thailand&ftid=0x30e29ed41b4c81d3:0xe1e226dd9d937476&hl=nl&gl=nl&shorturl=1'>Click here for the location</a>" size=15 %}
 
-### Lumphini Park
+## Lumphini Park
 
 {% include img-center.html path="/assets/img/bangkok-lumphini-park-1.jpg" alt="Lumphini Park Bangkok" %}
 
@@ -69,7 +69,7 @@ Planning your stay in Bangkok? Click [here][booking.com]{:target="_blank"} to ge
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Thailand][thailand]{:target="_blank"}
+## More [Thailand][thailand]{:target="_blank"}
 
 [4 days in Phuket - what to do?][phuket]{:target="_blank"}
 

@@ -13,13 +13,13 @@ The flower fields attract many people to the Netherlands every year during Sprin
  
 You can find these iconic fields everywhere in the Netherlands. We drove to the northern part of the South-Holland province to explore the area for pretty fields. The first town we drove to was [Lisse][lisse]{:target="_blank"}, which is where the [Keukenhof][keukenhof maps]{:target="_blank"} is located.
  
-### Lisse
+## Lisse
  
 As we didn’t know if we could easily park the car next to the fields, we decided to park the car in a nearby neighbourhood and walked to the bulb fields. The fields near Lisse often have ditches around them, which makes it impossible to enter them. The few fields without surrounding ditches in this area all have very explicit signs stating that it's not allowed to enter the fields. Moreover, because of the proximity of the Keukenhof it was pretty crowded in the area. We did find a beautiful red tulip field surrounded by a ditch. Click [here for the location of this field][field lisse]{:target="_blank"}.
 
 {% include img-center.html path="/assets/img/tulip-fields-lisse.jpg" alt="Tulip field in Lisse, the Netherlands" %}
  
-### Noordwijkerhout
+## Noordwijkerhout
  
 After exploring the area of Lisse, we decided to drive a bit further. In the town of [Noordwijkerhout][noordwijkerhout]{:target="_blank"} we found a few very beautiful uncrowded fields. The one was filled with yellow and white daffodils. We could conveniently park the car right next to the field. As there was no one around, we also decided to fly the drone for a bit. The [location of the field is here][field noordwijkerhout 1]{:target="_blank"}.
 
@@ -31,11 +31,11 @@ On our way back home, we found a colorful tulip field right next to the highway.
 
 {% include img-center.html path="/assets/img/tulip-fields-noordwijkerhout-4.jpg" alt="Tulip field in Noordwijkerhout, the Netherlands" %}
  
-### Best time to go
+## Best time to go
  
 In general, the bulbs bloom from approximately mid-April until mid-May. Daffodils are the first bulbs that bloom from the end of March until mid-April. Hyacinths follow, from the beginning of April until the end of April. Tulips are the last bulbs to bloom and do so from mid-April until the beginning of May. However, the exact blooming periods vary each year depending on the temperatures. We went on April 26 (in 2018) and, even though we should have been too late for the daffodils, we still found a field full of them, blooming beautifully. The majority of the fields we came across were tulip fields though. We didn’t come across any hyacinths, but maybe we just didn’t go to the right places.
  
-### How to get there
+## How to get there
  
 [Lisse][lisse]{:target="_blank"} and [Noordwijkerhout][noordwijkerhout]{:target="_blank"} are around 40 minutes by car from [Amsterdam][amsterdam]{:target="_blank"}. Renting a car is an option which gives you lots of flexibility to drive around and find the perfect field. If you don’t want to rent a car you can also use public transportation to, for instance, [Leiden][leiden]{:target="_blank"} and rent a bike there to cycle around the area. Getting from Amsterdam to Leiden is very convenient: less than 30 minutes by train. Lisse and Noordwijkerhout are both a 45-minute bike ride from Leiden. You can ask the [Tourist Information Center][tourist information center leiden]{:target="_blank"} in Leiden for bike routes along the bulb fields in the area. There are biking lanes everywhere which makes it safe and easy to ride around.
 
@@ -47,7 +47,7 @@ Planning your stay in Lisse? Click [here][booking.com]{:target="_blank"} to get 
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [the Netherlands][the netherlands]{:target="_blank"}
+## More [the Netherlands][the netherlands]{:target="_blank"}
 
 [Visiting the Winter Efteling][winter efteling]{:target="_blank"}
 

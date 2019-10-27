@@ -11,7 +11,7 @@ alt: "Hong Kong Photo Spots Concrete Jungle"
 
 In this post we share our favorite photo spots in Hong Kong and include their locations so you can easily find them. Click [here][blogpost HK itinerary]{:target="_blank"} to read our full Hong Kong itinerary and click [here][blogpost HK must do's]{:target="_blank"} to read about the 5 must do's in Hong Kong.
 
-### Hong Kong Island
+## Hong Kong Island
 
 {% include img-center.html path="/assets/img/hong-kong-photo-spots-hk-island-1.jpg" alt="Hong Kong Island" %}
 
@@ -25,7 +25,7 @@ In this post we share our favorite photo spots in Hong Kong and include their lo
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/GaR3s6V4jaC2'>Click here for the location</a>" size=15 %}
 
-### Mongkok
+## Mongkok
 
 {% include img-center.html path="/assets/img/hong-kong-photo-spots-mongkok-1.jpg" alt="Hong Kong Mongkok" %}
 
@@ -35,7 +35,7 @@ In this post we share our favorite photo spots in Hong Kong and include their lo
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/F1FjxMARNem'>Click here for the location</a>" size=15 %}
 
-### Views of Hong Kong
+## Views of Hong Kong
 
 {% include img-center.html path="/assets/img/hong-kong-photo-spots-victoria-harbour.jpg" alt="Hong Kong Victoria Harbour" %}
 
@@ -49,7 +49,7 @@ In this post we share our favorite photo spots in Hong Kong and include their lo
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/H8yw1mcrYjs'>Click here for the location of Garden Hill</a>" size=15 %}
 
-### Nan Lian Garden
+## Nan Lian Garden
 
 {% include img-center.html path="/assets/img/hong-kong-photo-spots-nan-lian-garden-2.jpg" alt="Hong Kong Nan Lian Garden" %}
 
@@ -57,7 +57,7 @@ In this post we share our favorite photo spots in Hong Kong and include their lo
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/WtzNfojeS3u'>Click here for the location of Nan Lian Garden</a>" size=15 %}
 
-### Shek Kip Mei Estate
+## Shek Kip Mei Estate
 
 {% include img-center.html path="/assets/img/hong-kong-photo-spots-shek-kip-mei-1.jpg" alt="Hong Kong Shek Kip Mei Estate" %}
 
@@ -65,7 +65,7 @@ In this post we share our favorite photo spots in Hong Kong and include their lo
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/bsScmfa4RV32'>Click here for the location of Shek Kip Mei Estate</a>" size=15 %}
 
-### China Ferry Terminal
+## China Ferry Terminal
 
 {% include img-center.html path="/assets/img/hong-kong-photo-spots-china-ferry-terminal-1.jpg" alt="Hong Kong China Ferry Terminal" %}
 
@@ -75,7 +75,7 @@ In this post we share our favorite photo spots in Hong Kong and include their lo
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/cBwZamYp3wB2'>Click here for the location of China Ferry Terminal</a>" size=15 %}
 
-### Hong Kong at night
+## Hong Kong at night
 
 {% include img-center.html path="/assets/img/hong-kong-photo-spots-victoria-harbour-night.jpg" alt="Hong Kong Victoria Harbour at Night" %}
 

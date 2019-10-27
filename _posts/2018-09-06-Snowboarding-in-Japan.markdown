@@ -11,7 +11,7 @@ alt: "Snowboarding in Japan - Ishiuchi Maruyama"
 
 One of our plans on our Asia trip was to go snowboarding in Japan. The choice of ski resorts in Japan is huge. After doing thorough research (mostly on [powderhounds.com][powderhounds]{:target="_blank"}), we decided to go to [Ishiuchi Maruyama][powderhounds ishiuchi]{:target="_blank"}. 
 
-### Accessibility 
+## Accessibility 
 
 [Ishiuchi Maruyama][ishiuchi maruyama]{:target="_blank"} is easily accessible by bullet train from Tokyo. The train ride from Tokyo Station to Echigo-Yuzawa takes 90 minutes. From Echigo-Yuzawa there are multiple buses you can take to the ski resorts in the area. There is a tourist information desk available at the station where they can help you getting to the right ski resort. They even speak some English. 
 
@@ -25,13 +25,13 @@ Please note that it is difficult to get around in the village without a car. We 
 
 {% include caption.html text="We had never seen so much snow!" size=15 %}
 
-### Our experience 
+## Our experience 
 
 The next morning was our first day on the slopes. We got up very early to be on the slopes when they opened at 8 am. The weather was completely different than what we were used to when snowboarding. In the European mountains (Austria, France and Italy), the weather is usually very good with blue skies and lots of sun. Sometimes it’s even so hot that you don’t need to wear a jacket, and you need to wear ski goggles because of the sun’s reflection. However, in Ishiuchi Maruyama, there were clouds on the mountain constantly, that we were literally snowboarding inside of, which led to limited visibility. On top of that, snow storms were regular, sometimes they were so heavy that everyone on the slope had to stop skiing because of the hard winds and near-absence of visibility. It was often difficult to see much more beside white snow. Because it was snowing so often during the day, there was lots of powder snow which many people like a lot. 
 
 {% include img-center.html path="/assets/img/ishiuchi-snow-storm.jpg" alt="Snow storm in Ishiuchi" %}
 
-### The ski area
+## The ski area
 
 The slopes are in good condition and there are slopes for any level of experience. All the ski lifts have seats. There are no tow lifts. There are lots of restaurants on the slopes, with a huge variety in prices. We drank a hot chocolate and a milk tea in an expensive restaurant which cost us JPY 2000 (± €15,40). Luckily, there was another restaurant where you could get two plates of food and drinks for the same price. We decided to stick to the latter restaurant, where the staff was very nice as well! 
 

@@ -37,7 +37,7 @@ A 15-minute walk from Clarke Quay will bring you to Singaporean Chinatown. China
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
-### More [Singapore][singapore]{:target="_blank"}
+## More [Singapore][singapore]{:target="_blank"}
 
 [Places to eat in Singapore][singapore eat]{:target="_blank"}
 

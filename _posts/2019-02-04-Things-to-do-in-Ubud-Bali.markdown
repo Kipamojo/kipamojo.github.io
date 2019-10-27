@@ -11,13 +11,13 @@ alt: "Campuhan Ridge Walk, things to do in Ubud, Bali, Indonesia"
 
 Ubud and its surroundings have many different things to offer. The city center of Ubud is bustling and very crowded. Just outside the city center, though, you can find peaceful places among the rice fields. Here’s what we did during our stay in Ubud.  
 
-### Pura Taman Saraswati
+## Pura Taman Saraswati
 
 [Pura Taman Saraswati][saraswati]{:target="_blank"} (or Ubud Water Palace) is a temple along the main road of Ubud. It’s a beautiful structure, and because it’s so easy to reach, it’s absolutely worth visiting. There’s a lotus pond in front of the temple and if you’re lucky the lotuses might be blooming. The temple is hidden behind the Starbucks. So, it’s a good excuse to grab a coffee after exploring the temple grounds. The entrance to the temple is on the left side of the [Starbucks][starbucks]{:target="_blank"}. There’s no entrance fee to access the temple. There’s a ticket booth selling tickets for a Balinese dance show at the entrance of the temple. 
 
 {% include img-center.html path="/assets/img/ubud-water-temple.jpg" alt="Pura Taman Saraswati, Water Temple, Ubud, Bali, Indonesia" %}
 
-### Campuhan Ridge Walk 
+## Campuhan Ridge Walk 
 
 The [Campuhan Ridge Walk][campuhan]{:target="_blank"} is just minutes away from the city center of Ubud. To get there you have to walk west on the Jalan Raya Ubud. When you see the [Warwick IBAH][warwick ibah]{:target="_blank"} (luxury villas and spa) sign on your right hand, turn right into the IBAH driveway. You’ll come at a crossing with a large IBAH sign and a small sign saying: “Going to the Hill” with an arrow to the left. Take that left turn. There will be another crossing with a bridge on the left and stairs on the right. There will be a sign indicating that the Campuhan Ridge Walk is to the right, so go down the stairs. 
 
@@ -45,13 +45,13 @@ After our lunch we decided to not walk the same way back, but to take another ro
 
 The Campuhan Ridge Walk is 2km long to the Karsa Kafe (one way). It is always recommended to do the walk in the early morning or in the late afternoon as it’ll be too hot otherwise. We did the hike in the middle of the day around 13:00, when the sun was very high. Even though it was hot, there were hardly any people around which we liked a lot. It wasn’t too hot for us, we would walk outside anyway during that time, but if you’re sensitive for it, go in the early morning or late afternoon (be prepared for crowds though). 
 
-### Pont de Campuhan
+## Pont de Campuhan
 
 When walking along the [Jalan Raya Ubud][jalan raya]{:target="_blank"} on our way back from the [Campuhan Ridge Walk][campuhan]{:target="_blank"}, we crossed a [bridge][bridge]{:target="_blank"}. Looking down to the river, its banks seemed pretty cool. We saw spotted some stairs leading down and we felt like we just stepped into the jungle. Apparently, this is a well-known photo spot, but we accidently stumbled upon it. It doesn’t feel like you’re in the bustling center of Ubud at all, even though it’s just a few steps away. It’s absolutely worth stopping by this place on your way to the Campuhan Ridge Walk (or on the way back). 
 
 {% include img-center.html path="/assets/img/ubud-pont-de-campuhan.jpg" alt="Pont de Campuhan in Ubud, Bali, Indonesia" %}
 
-### Tegallalang rice terraces
+## Tegallalang rice terraces
 
 As the [Tegallalang rice terraces][tegallalang]{:target="_blank"} are such a major tourist spot, we decided to go there early. We rented a scooter and left our hotel around 05:15 to arrive at the rice terraces before sunrise. From our hotel in Ubud the drive took us around 30-40 minutes, including stops to check the route. 
 
@@ -73,7 +73,7 @@ Parking: 2,000 IDR (scooter)
 Sometimes donations are required when asked by locals.   
 If you go around sunrise, there are no fees.   
 
-### Handara Gate
+## Handara Gate
 
 The [Handara Gate][handara gate]{:target="_blank"} is one of those iconic Instagrammable spots in Bali. The Gate is an entrance gate to the [Handara Golf & Resort Bali][handara golf resort]{:target="_blank"}. As this place can get really crowded with huge lines to take a photo with the gate, we decided to go before sunrise again. We left our hotel in Ubud around 04:30 and arrived a little before 06:00 at the gate. Luckily, we had the gate all to ourselves. Around 06:30 two other people arrived when we were just finishing our last shots. 
 
@@ -85,7 +85,7 @@ Opening hours: 24/7 accessible
 Selfie ticket fee: 10,000 IDR  
 If you go early (around sunrise), there is no fee.  
 
-### Ulun Danu Beratan 
+## Ulun Danu Beratan 
 
 When we were done at the [Handara Gate][handara gate]{:target="_blank"} we went to the [Pura Ulun Danu Beratan][pura ulun danu]{:target="_blank"}, or also known as Floating Temple. The Handara Gate and the Floating Temple are close to each other so it’s easy to combine both visits. As we were early, we didn’t know for sure whether the temple would be open for visitors already. We arrived at the temple before 07:00 and we were able to purchase a ticket and go inside. 
 
@@ -101,7 +101,7 @@ Opening hours: 07:00-19:00 (according to Google, but this is debatable as we got
 Entrance fee: 50,000 IDR (adult)  
 Parking fee: 2,000 IDR (scooter)  
 
-### Book yourself an Instagrammable hotel
+## Book yourself an Instagrammable hotel
 
 In Ubud (and in Bali in general) you can find many good-looking hotels in different kinds of price ranges. We stayed in [Bertiwi Bisma 2][bertiwi bisma 2]{:target="_blank"} and chose this hotel for its infinity pool overlooking the jungle (click [here][booking.com]{:target="_blank"} to get a 10% cashback reward on Booking.com). This hotel isn’t too expensive and the rooms are clean and tidy. Even though we booked this hotel because of the pool, we didn’t spend much time at the pool as it wasn’t that big, and it was often crowded. We did get up at sunrise one day to get a few killer shots. 
 
@@ -115,7 +115,7 @@ Planning your stay in Ubud? Click [here][booking.com]{:target="_blank"} to get a
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Indonesia][indonesia]{:target="_blank"}
+## More [Indonesia][indonesia]{:target="_blank"}
 
 [Places to eat in Ubud][ubud eat]{:target="_blank"}
 

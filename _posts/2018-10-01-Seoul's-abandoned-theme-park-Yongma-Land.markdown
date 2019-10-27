@@ -23,7 +23,7 @@ For us visiting this abandoned amusement park felt like a once in a lifetime opp
 
 {% include embed-instagram-nocaption.html id="Bh57LNjHJI1" maxwidth=400 %}
 
-### Getting there
+## Getting there
 
 The area where Yongma Land is located, is easily reachable by public transport. However, you can’t get all the way to the entrance of the park by public transport, so you either have to walk or get a taxi. Depending on where you’re coming from, you can take the metro or the bus (or a combination of both). We came from the [Yeouido Station][yeouido station]{:target="_blank"} and went solely by metro. We got out at [Mangu Station][mangu station]{:target="_blank"} and walked about half an hour from there to Yongma Land. The whole trip took us around 1.5 hours. We had some trouble finding the entrance at first, but [this][correct spot]{:target="_blank"} should be the correct spot. You have to walk uphill to reach the entrance. The fence is probably closed, but when you show up, someone will come to you. If not, there should be a piece of paper with a phone number that you can call. Once you paid entrance the fee, you’re free to roam around the park! 
 

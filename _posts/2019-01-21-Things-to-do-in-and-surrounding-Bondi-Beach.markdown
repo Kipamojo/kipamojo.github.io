@@ -11,7 +11,7 @@ alt: "Bondi Beach by drone"
 
 As the hotel prices in Sydney were extremely high, we decided to book a hotel in Bondi Beach. We were reluctant at first, but it didn’t disappoint at all. Bondi Beach is a very nice area to stay in and there is so much to see besides Sydney itself. 
 
-### Bondi Beach
+## Bondi Beach
 
 The beach of [Bondi][bondi beach]{:target="_blank"} is packed on a hot day, especially during the weekends. There’s a small area for swimming and you’ll see many surfers in the sea. We didn’t spend a day at the beach as we were too busy exploring. There’s a lot of art on the walls surrounding the beach, which are fun photo spots.  The [Campbell Parade][campbell parade]{:target="_blank"} also offers some nice clothing shops. Make sure to check out the surrounding streets as well, [Globe][globe store]{:target="_blank"} clothes in Australia are cheaper than in Europe! 
 
@@ -19,19 +19,19 @@ The beach of [Bondi][bondi beach]{:target="_blank"} is packed on a hot day, espe
 
 {% include img-center.html path="/assets/img/bondi-beach-grafitti.jpg" alt="Grafitti art at Bondi Beach" %}
 
-### Bondi Skate Park
+## Bondi Skate Park
 
 Next to the beach there’s the famous [skate park][skate park]{:target="_blank"}. Especially during the weekends you’ll see a lot of skaters in the park. It’s also a nice place to shoot some photos, but make sure to do this early in the morning so you won’t disturb any skaters. 
 
 {% include img-center.html path="/assets/img/bondi-beach-skate-park.jpg" alt="Bondi Skate Park" %}
 
-### Bondi Icebergs Club
+## Bondi Icebergs Club
 
 The [Icebergs Pool][icebergs pool]{:target="_blank"} is an iconic spot in Bondi Beach. It’s a pool located in the ocean. On hot, sunny days the pool is packed. We didn’t go into the pool as we felt it was a little bit too cold and we preferred doing other things, but it’s an absolute must to check this place out when you’re in the area. 
 
 {% include img-center.html path="/assets/img/bondi-beach-icebergs.jpg" alt="Bondi Icebergs Club" %}
 
-### Bondi to Bronte Coastal Walk
+## Bondi to Bronte Coastal Walk
 
 The [Bondi to Bronte Coastal Walk][bondi to bronte]{:target="_blank"} is a beautiful stroll when you’re in Bondi. It’s a walk along the cliffs and the view from up there over the ocean is beautiful. There are many photo spots along the way and at [Mackenzies Point][mackenzies point]{:target="_blank"}. Be careful though when taking pictures close to the edge of the cliffs! 
 
@@ -41,19 +41,19 @@ The [Bondi to Bronte Coastal Walk][bondi to bronte]{:target="_blank"} is a beaut
 
 {% include caption.html text="Mackenzies Point" size=15 %}
 
-### Dudley Page Reserve
+## Dudley Page Reserve
 
 From Bondi Beach you can take the bus to [Dudley Page Reserve][dudley page reserve]{:target="_blank"}. Dudley Page Reserve is located on a hill and offers a beautiful view over Sydney and its skyline. It’s a nice place to stop by on your way to [Watsons Bay][watsons bay]{:target="_blank"}.
 
 {% include embed-instagram-nocaption.html id="BhaltuNHLio" maxwidth=400 %}
 
-### Watsons Bay
+## Watsons Bay
 
 [Watsons Bay][watsons bay]{:target="_blank"} is a beautiful area with a few nice restaurants, a small beach and lots of greenery around. From here you can take the ferry to [Sydney][sydney]{:target="_blank"} (which we did a couple of times). You can also walk up north to the [South Head Heritage Trail][south head heritage trail]{:target="_blank"}, which is highly recommended. 
 
 {% include img-center.html path="/assets/img/bondi-beach-watsons-bay.jpg" alt="Watsons Bay" %}
 
-### South Head Heritage Trail
+## South Head Heritage Trail
 
 Go up north from [Watsons Bay][watsons bay]{:target="_blank"} and walk along the cliffs past various beaches. The [trail][south head heritage trail]{:target="_blank"} is not that long, but you’ll probably stop a few times to take photos. The views are beautiful as well as the beaches you’ll pass. The [Hornby Lighthouse][hornby lighthouse]{:target="_blank"} is located at the South Head. It’s a popular photo spot so there will be many people around taking photos. You can take the same route back along the Heritage Trail or you can take the Lighthouse Road back to Watsons Bay.
 
@@ -70,13 +70,13 @@ Go up north from [Watsons Bay][watsons bay]{:target="_blank"} and walk along the
 {% include caption.html text="Hornby Lighthouse" size=15 %}
 
 
-### Take the ferry to Sydney
+## Take the ferry to Sydney
 
 From [Watsons Bay][watsons bay]{:target="_blank"} there are multiple ferries departing to [Circular Quay][circular quay]{:target="_blank"}. You’ll drive past beautiful towns and cities before reaching Circular Quay. Taking the ferry to Sydney is an absolute must when going to Sydney, the perspective from the water is stunning!
 
 {% include img-center.html path="/assets/img/sydney-opera-house-ferry.jpg" alt="Sydney Opera House from the ferry" %}
 
-### Getting around
+## Getting around
 
 You need to take the [bus][bus]{:target="_blank"} to get to [Watsons Bay][watsons bay]{:target="_blank"} from [Bondi Beach][bondi beach]{:target="_blank"}. If you’re staying in the center of [Sydney][sydney]{:target="_blank"}, you can also take the [ferry][ferry]{:target="_blank"} to Watsons Bay. Using public transport in Sydney and the surrounding cities is very easy. We purchased a public transport pass at the airport of Sydney ([Opal pass][opal pass]{:target="_blank"}) and loaded it with some money. We used Google Maps for routes and time tables which was always very accurate. 
 
@@ -86,7 +86,7 @@ Planning your stay in Bondi Beach? Click [here][booking.com]{:target="_blank"} t
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Australia][australia]{:target="_blank"}
+## More [Australia][australia]{:target="_blank"}
 
 [Things to do in Brisbane: Our 4-day itinerary][brisbane itinerary]{:target="_blank"}
 

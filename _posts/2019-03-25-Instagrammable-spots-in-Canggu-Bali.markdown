@@ -13,7 +13,7 @@ alt: "Instagram spot In the Raw in Canggu, Bali, Indonesia"
  
 Click [here for our favorite places to eat in Canggu][eat canggu]{:target="_blank"} and click [here for the things to do in Canggu][things canggu]{:target="_blank"}.
  
-### Les Basics
+## Les Basics
  
 One of our favorite spots is the pink garage door at the [Les Basics][les basics]{:target="_blank"} shop. You have to come outside of the shop’s opening hours, otherwise the door is opened. Show your outfit in front of this pink backdrop and bring an iced latte as a nice prop. Don’t forget to check out the shop as well during opening hours; we love their clothes!
 
@@ -21,19 +21,19 @@ One of our favorite spots is the pink garage door at the [Les Basics][les basics
 
 {% include embed-instagram-nocaption.html id="Bi1M_zaHzWG" maxwidth=400 %}
  
-### Mad Pops
+## Mad Pops
  
 [Mad Pops][mad pops]{:target="_blank"} is a well-known spot in Bali among Instagrammers. Their neon-signed walls together with their colorful ice cream are the perfect combination for an Instagram photo. Pose in front of the wall with your scoops or get a close-up of your ice cream with the neon sign in the background.
 
 {% include embed-instagram-nocaption.html id="Bu-q03El4CV" maxwidth=400 %}
  
-### Paletas Wey
+## Paletas Wey
  
 A lesser known ice cream shop in Canggu is [Paletas Wey][paletas wey]{:target="_blank"}. Paletas Wey sells colorful popsicles. Get yourself in front of one of the decorated walls and pose! Be quick or your it'll melt!
 
 {% include img-center.html path="/assets/img/canggu-eat-paletas-wey.jpg" alt="Ice cream popsicle at Paletas Wey in Canggu, Bali, Indonesia" %}
  
-### In the Raw
+## In the Raw
  
 [In the Raw][in the raw]{:target="_blank"} not only serves delicious food, the interior offers a few very pretty photo spots with jungle vibes. Get yourself in the little bamboo hut and order a fruit platter and juice. The picnic tables with lots of plants in the background are a perfect spot as well.
 
@@ -43,13 +43,13 @@ A lesser known ice cream shop in Canggu is [Paletas Wey][paletas wey]{:target="_
 
 {% include embed-instagram-nocaption.html id="Bi3kSb-nf_G" maxwidth=400 %}
 
-### Monsieur Spoon
+## Monsieur Spoon
  
 [Monsieur Spoon][monsieur spoon]{:target="_blank"} is a French bakery with delicious food and smoothies. We’d really recommend to get the Monsieur Spoon granola with yoghurt and fruit, some colorful smoothies and the French Breakfast plate. Not only does it look good, it tastes amazing! There are lots of seats with either white walls or plants in the background.
 
 {% include embed-instagram-nocaption.html id="BvBSUQ9FtyT" maxwidth=400 %}
  
-### Cocomo
+## Cocomo
  
 The interior and front yard of [Cocomo][cocomo]{:target="_blank"} are very picturesque. The place is colorfully decorated with lots of pastels. The front yard features lots of flowers, plants and pretty walls. There are multiple spots to take a pretty Instagram shot. Order the smoothie bowl and a juice to add even more color!
 
@@ -57,7 +57,7 @@ The interior and front yard of [Cocomo][cocomo]{:target="_blank"} are very pictu
  
 {% include img-center.html path="/assets/img/canggu-instagram-spot-cocomo-2.jpg" alt="Instagram spot Cocomo in Canggu, Bali, Indonesia" %}
  
-### Book yourself an Instagrammable hotel
+## Book yourself an Instagrammable hotel
  
 In general, Bali has many amazing and affordable hotels and Canggu is no  exception. We got ourselves a room in the [Frii Hotel][frii hotel]{:target="_blank"} with direct access to the pool. We could take a dip straight out of our room. How perfect is that?! We loved sitting in our room with the doors opened and our feet in the water. Together with some drinks and snacks, it was the perfect way to end the day!
 
@@ -69,7 +69,7 @@ Planning your stay in Canggu? Click [here][booking.com]{:target="_blank"} to get
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Indonesia][indonesia]{:target="_blank"}
+## More [Indonesia][indonesia]{:target="_blank"}
 
 [Places to eat in Ubud][ubud eat]{:target="_blank"}
 

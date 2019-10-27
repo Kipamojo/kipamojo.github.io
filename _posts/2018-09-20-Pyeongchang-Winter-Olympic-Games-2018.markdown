@@ -13,7 +13,7 @@ From 14 to 16 February 2018, we visited Pyeongchang, South Korea to watch the Wi
 
 {% include img-center.html path="/assets/img/gangneung-pyeongchang-2018.jpg" alt="Pyeongchang Winter Olympics 2018 Korea" %}
 
-### Women's 1,000m speed skating
+## Women's 1,000m speed skating
 
 A few months earlier we bought tickets for the Men’s 10,000m speed skating event on February 15th. When we arrived in the afternoon (on the 14th) in Gangneung, we decided to see whether there were still tickets available for the Women’s 1,000m speed skating event that night. Fortunately, one of the stewards of the Olympics was so kind to let us leave our luggage in their break room at the station, as all of the lockers were occupied. We left to the ticket box at the Gangneung Oval Stadium as we had to buy the tickets there. (These were so expensive! If you ever go to the Olympics, buy tickets in advance, haha.) We were pretty early and wanted to walk around the Olympic Park to experience the ambience, but unfortunately there was a very strong wind and therefore all the activities, shops and restaurants in the Park were closed. So that left us with only one option: go inside the stadium and look for some food. 
 
@@ -35,7 +35,7 @@ It was very late at night and we took the last bus to our Airbnb. We usually boo
 
 {% include caption.html text="Drone shot of Songjeong Beach" size=15 %}
 
-### Holland Heineken House
+## Holland Heineken House
 
 In the afternoon, we wanted to see whether we could buy tickets for the Holland Heineken House that day. The tickets on the internet were already sold out, but we heard that tickets often become available during the day. The House opened at 15.00 but we were told there were no tickets available yet and they didn’t know whether there would be any. After a while we decided to leave and head to the Olympic Park to spend the afternoon there. While we were on the bus, Joop checked the website of the Holland Heineken House once more and all of a sudden there were some tickets available! We quickly got off the bus (luckily, it wasn’t driving yet), bought the tickets and went back to the Heineken House. A ticket is valid throughout the whole day, so you’re allowed to walk in and out of the House. The place was still very empty as most people come either after the event or to watch the event. We ate some ‘bitterballen’ and drank a coke and then went to the stadium to watch that night’s event: Men’s 10,000m speed skating. 
 
@@ -43,7 +43,7 @@ In the afternoon, we wanted to see whether we could buy tickets for the Holland 
 
 {% include caption.html text="Eating 'bitterballen' at the Holland Heineken House" size=15 %}
 
-### Men's 10,000m speed skating
+## Men's 10,000m speed skating
 
 The stadium was even more packed than it was the day before and there were lots of Korean people attending the event. We loved to see the passion of the Koreans for the speed skating sport and how they often cheered for their favorites of other countries even. Everyone expected this to become the evening of Sven Kramer, but unfortunately it didn’t. Luckily for us, Jorrit Bergsma won the silver medal and it still was an amazing evening. 
 

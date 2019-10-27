@@ -12,7 +12,7 @@ alt: "Langkawi sunset"
 Our second stop of our South-East Asia-trip was the island of Langkawi in Malaysia. Although Langkawi has not much to offer, we stayed there for two weeks. So, what did we do in that time? To be honest, not much.
 <br><br>
 
-### Beach
+## Beach
 
 The main reason for a trip to Langkawi is the beach. We stayed at a hotel near the Pantai Tengah Beach. We were there in November and at that time it was very hot during the day (around 33 degrees Celsius). Therefore, it's a good idea to hit the beach in the morning when the temperature is more bearable (which we never did actually). Since the sea is very warm as well (around 29 degrees Celsius), taking a swim isn't as refreshing as you’d think. What we really missed in Langkawi was a swimming pool to cool down a bit. So be sure to look for a hotel with a pool.
 
@@ -25,7 +25,7 @@ The main reason for a trip to Langkawi is the beach. We stayed at a hotel near t
 
 {% include caption.html text="The beach is perfect for early morning drone flights." size=15 %}
 
-### Langkawi SkyBridge 
+## Langkawi SkyBridge 
 
 The main tourist attraction on the island is the Langkawi SkyBridge. We had the bright idea to go there in the morning to avoid the crowds, but unfortunately, we were far from the only ones. It was way more crowded when we got there in the morning than it was when we left in the afternoon. Apparently, everyone goes in the morning to avoid the afternoon heat. 
 
@@ -39,13 +39,13 @@ RM 5 (entrance SkyBridge - adult)
 
 {% include embed-instagram-double.html id-left='BcC4Z0Ih1s3' id-right='BcU5Vj2BBRZ' caption-left=1 caption-right=1 width=300 margin=50 %}
 
-### Cenang Mall
+## Cenang Mall
 
 The mall closest to where we were staying is Cenang Mall. The mall itself is nothing special at all, but it's the area where the majority of the restaurants (and hotels) are. We particularly loved a burger place just in front of the mall called Burgersmith. They serve delicious burgers, salads and (sweet potato) fries. The area also has a Subway, McDonald's and multiple duty free shops.
 
 {% include img-center.html path="/assets/img/dinner-burgersmith.jpg" alt="Dinner at Burgersmith" %}
 
-### YamYam Restaurant
+## YamYam Restaurant
 
 We spent most of our time at YamYam restaurant. We went there for breakfast almost every morning, as well as very often for lunch and dinner. They have amazing food and coffee, good Wi-Fi and great vibes overall. If you're staying in Langkawi, we would definitely recommend you to check this place out! Did we already mention that the staff is super nice?
 
@@ -66,7 +66,7 @@ Are you planning on visiting Langkawi? Let us know in the comment section below!
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
-### More [Malaysia][malaysia]{:target="_blank"}
+## More [Malaysia][malaysia]{:target="_blank"}
 
 [What to do in George Town?][george Town]{:target="_blank"}
 
