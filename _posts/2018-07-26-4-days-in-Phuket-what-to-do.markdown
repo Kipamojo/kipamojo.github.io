@@ -29,7 +29,7 @@ Have you ever visited Phuket? Let us know in the comments below!
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Thailand][thailand]{:target="_blank"}
+## More [Thailand][thailand]{:target="_blank"}
 
 [What to do and see in Koh Yao Yai?][koh yao yai]{:target="_blank"}
 

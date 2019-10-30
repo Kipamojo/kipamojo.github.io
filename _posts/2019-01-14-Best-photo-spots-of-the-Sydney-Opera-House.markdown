@@ -11,7 +11,7 @@ alt: "Sydney Opera House from the Royal Botanic Gardens"
 
 If you’re as mesmerized by the [Sydney Opera House][opera house]{:target="_blank"} as we were, you probably can’t stop taking pictures from every angle. So, we created this list of the best photo spots of the Opera House and mapped the locations for you!
 
-### Hickson Road Reserve
+## Hickson Road Reserve
 
 The [Hickson Road Reserve][hickson road reserve]{:target="_blank"} is a small park next to the [Sydney Harbour Bridge][harbour bridge]{:target="_blank"}. Besides taking photos of all angles possible of the Harbour Bridge, this place also offers a beautiful view of the Opera House. 
 
@@ -19,7 +19,7 @@ The [Hickson Road Reserve][hickson road reserve]{:target="_blank"} is a small pa
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/8S5hDryFWVs'>Click here for the location</a>" size=15 %}
 
-### Campbell’s Cove Jetty
+## Campbell’s Cove Jetty
 
 Walking from [Hickson Road Reserve][hickson road reserve]{:target="_blank"} to [Circular Quay][circular quay]{:target="_blank"}, you’ll walk along a ledge. The ledge near [Campbell’s Cove Jetty][campbells cove jetty]{:target="_blank"} is a beautiful spot to take a picture of you sitting on the ledge with the Opera House in the background. It’s a beautiful spot during the day, but even better with the stunning Australian sunset sky in the background. 
 
@@ -29,7 +29,7 @@ Walking from [Hickson Road Reserve][hickson road reserve]{:target="_blank"} to [
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/6zfSyqMfwrx'>Click here for the location</a>" size=15 %}
 
-### Overseas Passenger Terminal
+## Overseas Passenger Terminal
 
 If you’re lucky, you might catch a sunset without a huge cruise ship blocking the view of the Opera House from the [Overseas Passenger Terminal][overseas passenger terminal]{:target="_blank"}. Usually there is a cruise ship at the Overseas Passenger Terminal but one evening the cruise ship left the harbor before sunset. The view of the Opera House is beautiful from the Overseas Passenger Terminal.
 
@@ -37,7 +37,7 @@ If you’re lucky, you might catch a sunset without a huge cruise ship blocking 
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/ZaeGb6NmyTL2'>Click here for the location</a>" size=15 %}
 
-### Rooftop of the Museum of Contemporary Art
+## Rooftop of the Museum of Contemporary Art
 
 The [Museum of Contemporary Art][mca]{:target="_blank"} has a rooftop bar which offers a beautiful view of the Sydney Opera House. Try to catch the sunset on a Wednesday evening, the only evening the rooftop bar is open.
 There’s no entrance fee (and there’s no need to order anything if you just want to take photos).
@@ -52,7 +52,7 @@ Wednesdays: 10.00-21.00
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/QJivvRWZYqJ2'>Click here for the location</a>" size=15 %}
 
-### The Sydney Opera House
+## The Sydney Opera House
 
 The stairs in front of the [Sydney Opera House][opera house]{:target="_blank"} are perfect for taking some nice pictures. These stairs can get very crowded though so if you want to take a picture without the crowds, go early.
 
@@ -66,7 +66,7 @@ Besides the stairs, it’s also fun to walk around the Opera House itself and sh
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/n5kTKZ7zvC72'>Click here for the location</a>" size=15 %}
 
-### Royal Botanic Garden
+## Royal Botanic Garden
 
 Walking along the water in the [Royal Botanic Garden][royal botanic garden]{:target="_blank"} will offer many different photo opportunities of the Opera House. You can walk all the way to [Mrs Macquaries Point][mrs macquaries point]{:target="_blank"} for an iconic photo of the Opera House and the Harbour Bridge together. 
 
@@ -74,7 +74,7 @@ Walking along the water in the [Royal Botanic Garden][royal botanic garden]{:tar
 
 {% include caption.html text="<a target='_blank' href='https://goo.gl/maps/dNYUVNq419t'>Click here for the location</a>" size=15 %}
 
-### Take the ferry to Circular Quay
+## Take the ferry to Circular Quay
 
 [Circular Quay][circular quay]{:target="_blank"} is a ferry terminal and all ferries will drive past the Opera House. We took the ferry from [Watsons Bay][watsons bay]{:target="_blank"} multiple times, but there are more places where you can board a ferry to Circular Quay. Shooting the Opera House from the water offers a whole new perspective. We advise to take a ferry that’s approaching east of the Opera House, so you’ll see the Opera House from all sides (except the front). 
 
@@ -88,7 +88,7 @@ Planning your stay in Sydney? Click [here][booking.com]{:target="_blank"} to get
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Australia][australia]{:target="_blank"}
+## More [Australia][australia]{:target="_blank"}
 
 [Things to do in Brisbane: Our 4-day itinerary][brisbane itinerary]{:target="_blank"}
 

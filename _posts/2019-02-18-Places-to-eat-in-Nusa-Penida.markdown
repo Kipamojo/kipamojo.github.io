@@ -11,7 +11,7 @@ alt: "Palm trees at Crystal Bay in Nusa Penida, Bali, Indonesia"
 
 Even though we were mostly on the road while in [Nusa Penida][nusa penida]{:target="_blank"}, we still found some nice places to eat on the island. 
 
-### Krusty Krab
+## Krusty Krab
 
 The [Krusty Krab][krusty krab]{:target="_blank"} was our favorite restaurant by far. We went there almost every day at least once. The food is good, the staff is very nice and, especially in the evening, the atmosphere is amazing! In the evening, playing cards are handed out to all tables. We really liked this idea and it made us stay for a few more drinks. In the evening, the staff plays live music, which makes for a really nice atmosphere. 
 
@@ -21,7 +21,7 @@ Of course, they serve hamburgers (because Krusty Krab!), pizzas (who has seen Sp
 
 {% include img-center.html path="/assets/img/nusa-penida-eat-krusty-krab-2.jpg" alt="Lunch at the Krusty Krab in Nusa Penida, Bali, Indonesia" %}
 
-### Arsa Santhi Penida
+## Arsa Santhi Penida
 
 We were staying at the [Arsa Santhi Penida][arsa santhi penida]{:target="_blank"} and their restaurant served pretty good food and delicious smoothies. When we came back from our early morning adventures ([read about them here][things nusa penida]{:target="_blank"}), we often had lunch at our hotel. The service is a bit slow, but that’s fine. 
 
@@ -29,19 +29,19 @@ We were staying at the [Arsa Santhi Penida][arsa santhi penida]{:target="_blank"
 
 {% include img-center.html path="/assets/img/nusa-penida-eat-arsa-santhi-2.jpg" alt="Lunch at Arsa Santhi Penida in Nusa Penida, Bali, Indonesia" %}
 
-### Warungs at Broken Beach 
+## Warungs at Broken Beach 
 
 During our visit at [Broken Beach][broken beach]{:target="_blank"}, we had some food at one of the huts surrounding the place. We both had Bami Goreng and it was actually pretty good. So, if you get hungry during your visit to [Angel Billabong][angel billabong]{:target="_blank"} and [Broken Beach][broken beach]{:target="_blank"}, you can safely have a good, simple Indonesian dish at one of the Warungs. 
 
 {% include img-center.html path="/assets/img/nusa-penida-eat-broken-beach.jpg" alt="Breakfast at Broken Beach in Nusa Penida, Bali, Indonesia" %}
 
-### Warung Makan Boga Segara
+## Warung Makan Boga Segara
 
 After we couldn’t find the exact location to get down to [Atuh Beach][atuh beach]{:target="_blank"} ([read about that adventure here][things nusa penida]{:target="_blank"}), we went looking for food since we were starving. We drove north along the eastern shore of Nusa Penida and came across a restaurant with cute huts right at the cliff. We chose one of the huts and ordered some drinks and food. The food was not very good, but the view was incredible so that made it better. Apparently, [Warung Makan Boga Segara][warung makan]{:target="_blank"} is specialized in grilled fish, but we didn’t order that. We wouldn’t recommend this place for the food, but it’s a perfect spot for drinks and to enjoy the stunning view. 
 
 {% include img-center.html path="/assets/img/nusa-penida-eat-warung-makan.jpg" alt="Lunch at Warung Makan Boga Segara in Nusa Penida, Bali, Indonesia" %}
 
-### Warungs at Crystal Bay
+## Warungs at Crystal Bay
 
 There are a few different huts at [Crystal Bay][crystal bay]{:target="_blank"} where you can buy drinks, fresh smoothies and snacks. There are also a few places where you can enjoy a small meal, but we didn’t try the food at Crystal Bay. However, we can absolutely recommend getting a fresh smoothie at the fresh smoothie hut. They are served in very cute jars and they’re delicious! 
 
@@ -57,7 +57,7 @@ Planning your stay in Nusa Penida? Click [here][booking.com]{:target="_blank"} t
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Indonesia][indonesia]{:target="_blank"}
+## More [Indonesia][indonesia]{:target="_blank"}
 
 [Places to eat in Ubud][ubud eat]{:target="_blank"}
 

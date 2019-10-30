@@ -33,7 +33,7 @@ Planning your stay in Kuala Lumpur? Click [here][booking.com]{:target="_blank"} 
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Malaysia][malaysia]{:target="_blank"}
+## More [Malaysia][malaysia]{:target="_blank"}
 
 [Two-week stay on Langkawi island - what did we do?][langkawi]{:target="_blank"}
 

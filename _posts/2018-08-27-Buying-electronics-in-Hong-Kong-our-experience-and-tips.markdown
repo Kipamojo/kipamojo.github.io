@@ -11,7 +11,7 @@ alt: "Hong Kong Mong Kok buying electronics"
 
 Hong Kong is a well-known destination to buy electronics. There’s no sales tax, it’s usually cheaper and it’s okay to bargain. We were looking for a camera quite some time already and decided to finally buy one in Hong Kong. 
 
-### Mong Kok
+## Mong Kok
 
 The [Mong Kok area][mong kok]{:target="_blank"} is the place to be for electronics shopping. There are two different kinds of shops: the independent retailers and the retail chains such as Fortress and Broadway. Joop was looking for a phone that wasn’t officially sold in Hong Kong so we had to go to the independent retailers for that. Most independent phone retailers are at the [Sin Tat Plaza mall][sin tat plaza mall]{:target="_blank"}, but you can find them anywhere else in Mong Kok as well. We visited many shops and asked whether they had the phone and if we could see it. They always had the phone but we first had to buy it before we could see it. We didn’t want to take that kind of risk, so we moved on to the camera.
 
@@ -25,19 +25,19 @@ After visiting many different (of the same) Fortress and Broadway shops, we deci
 
 In case you want to buy electronics in Hong Kong, be well aware of scams. Fortress and Broadway are trusted chains and you’ll get the real product, but this isn’t necessarily the case at the independent retailers. 
 
-### Know what you’re buying
+## Know what you’re buying
 
 Make sure you know what you buy. Always open the box and test the product before you buy it, even when you’re buying at Fortress or Broadway. You might buy a broken product. Don’t let the sales assistant leave with the box after you checked it, it happens that they switch the product you want to buy for a different, cheaper type (bait and switch). Make sure you never pay for a product unless you know exactly what you’re going to get.
 
-### Pricing
+## Pricing
 
 At independent stores, you can (and are expected to) bargain the price down a bit. This can lead to some serious discount over chain stores. Chain stores, on the other hand, are usually a bit more generous in giving freebies with your purchase, and you might be successful to ‘bargain’ for one or more two extra freebies. Note that some independent stores might also be willing to give you a freebie or two.
 
-### Compatibility
+## Compatibility
 
 If you’re buying a phone, check beforehand whether your phone will be compatible with the mobile network at home. This isn’t necessarily the case. 
 
-### Warranty
+## Warranty
 
 Keep in mind that there’s a high chance you won’t have warranty at home, but only in Hong Kong. Our camera came with ‘international warranty’, but how well that works remains to be seen. Fortunately, we didn’t have any problems with our camera, yet.
 

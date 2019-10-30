@@ -25,31 +25,31 @@ Mt. Fuji didn’t show itself anymore on our first day during day light, so we c
 
 Our second day was our exploring day. We wanted to tick off as many Mt. Fuji viewing spots as possible. We got up early in the morning and rented bikes at our hotel. 
 
-### Chureito Pagoda
+## Chureito Pagoda
 
 Our first stop of the day was the [Chureito Pagoda][chureito pagoda]{:target="_blank"}, which is around a 6 km bike-ride. After climbing lots of stairs, we got to the view point. It did not disappoint at all! The Chureito Pagoda itself isn’t that special, but the view of the Pagoda with Mt. Fuji in the background is just perfect. This pagoda is an absolute must-go for the best-known Mt. Fuji view. 
 
 {% include embed-instagram-nocaption.html id="Bg6PQJaBiBB" maxwidth=400 %}
 
-### Oishi Park
+## Oishi Park
 
 After having lunch at a 7-Eleven along the road, we continued the journey back to the Kawaguchi Lake. Our next stop was [Oishi Park][oishi park]{:target="_blank"}, which offers a perfectly clear view of Mt. Fuji. Oishi Park has lots of different, colorful flowers which bloom during different seasons of the year. Unfortunately, none of these flowers bloom during winter so everything was just orange/brownish and not very colorful. The view of Mt. Fuji was still beautiful from this spot though! 
 
 {% include img-center.html path="/assets/img/kawaguchiko-oishi-park.jpg" alt="Mt. Fuji from Oishi Park in Fujikawaguchiko" %}
 
-### Rusugaiwa Rock
+## Rusugaiwa Rock
 
 After biking further along the lake, we came to our next spot: [Rusugaiwa Rock][rusugaiwa rock]{:target="_blank"}. The view of Mt. Fuji is beautiful from here and it’s nice to sit on the rocks and soak the beautiful surroundings in. By the time we came here, there was a cloud forming around Mt. Fuji. Luckily, the cloud disappeared again and after an hour there were no clouds blocking the mountain. This is also the perfect place to fly a drone as it’s quite far away from the town and no one actually goes this far.   
 
 {% include img-center.html path="/assets/img/kawaguchiko-rusugaiwa-rock.jpg" alt="Mt. Fuji from Rusugaiwa Rock in Fujikawaguchiko" %}
 
-### In front of the Kozantei Ubuya Hotel
+## In front of the Kozantei Ubuya Hotel
 
 We got back on our bicycles and biked back to the center of Fujikawaguchiko. Our next stop was the [Kozantei Ubuya Hotel][kozantei ubuya hotel]{:target="_blank"}. In front of the hotel there are stairs that lead down to the shore of the lake. This is a very beautiful spot, but as it is close to the town center, it’s likely you won’t have the place to yourself. There’s a very unstable and broken jetty in the water which looks perfect for a photo, but we didn’t dare to go on it. 
 
 {% include img-center.html path="/assets/img/kawaguchiko-kozantei-ubuya-hotel.jpg" alt="Mt. Fuji from the shore across the Kozantei Ubuya Hotel in Fujikawaguchiko" %}
 
-### Ohashi Bridge
+## Ohashi Bridge
 
 We made our last stop in the middle of the [Ohashi Bridge][ohashi bridge]{:target="_blank"}. We were just in time for the sunset and the sun shined its light beautifully on Mt. Fuji. For us, this was the perfect end to our day of exploring Fujiawaguchiko and capturing the mountain from different sights.
 

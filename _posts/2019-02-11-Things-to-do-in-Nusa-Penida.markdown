@@ -11,7 +11,7 @@ alt: "View over Dinosaur Head and Kelingking Beach in Nusa Penida, Indonesia"
 
 We had booked a stay on the island of [Nusa Penida][nusa penida]{:target="_blank"} for 3 nights, but we liked the island so much we ended up staying an extra night. There’s plenty of things to do and to see on the island, which we’ll share with you in this post.
 
-### Kelingking Beach
+## Kelingking Beach
 
 One of the island’s main touristic spots is [Kelingking Beach][kelingking beach]{:target="_blank"} with the famous cliff known as the [Dinosaur Head][dinosaur head]{:target="_blank"}. As we wanted to avoid the crowds, we left our hotel very early and arrived at Kelingking Beach just after sunrise. We were the first ones to arrive at the cliff, which gave us plenty of time to take photos and fly the drone. While we were shooting our content, two other people arrived, but both left pretty quickly again, at least before we were done taking photos and videos. 
 
@@ -27,7 +27,7 @@ The climb up took us a little over 30 minutes. By then, many people were going d
 
 Usually there’s an entrance fee of IDR 10.000 (per person) and a parking fee of IDR 5.000 but when you get there as early as we went, it’s free.
 
-### Angel Billabong and Broken Beach
+## Angel Billabong and Broken Beach
 
 [Angel Billabong][angel billabong]{:target="_blank"} and [Broken Beach][broken beach]{:target="_blank"} are also very popular tourist spots. To avoid the crowds again, we left our hotel very early to get to these spots just after sunrise. The road to these places was a little bit more challenging so it took us a bit longer than expected to get there. You have to drive through many small villages and if you go in the early morning, you’ll see children walking to school.
 
@@ -51,7 +51,7 @@ While we were eating, the area quickly became much more crowded. When we left, w
 
 Usually there’s a parking fee of IDR 5.000 but when you get as early as we went, it’s free. There’s no entrance fee as far as we know.
 
-### Crystal Bay
+## Crystal Bay
 
 [Crystal Bay][crystal bay]{:target="_blank"} was our favorite place in Nusa Penida. We went to this beach every day in the afternoon and stayed there until sunset. We even spent one full day at the beach. Until 15:00 the beach is fairly crowded as many people visit the beach as part of their island tour. After 15:00 the crowds disappear, and it becomes a very relaxed place.
 
@@ -61,13 +61,13 @@ You can rent snorkeling gear at the beach, which we did every time. Snorkeling a
 
 There’s a small parking fee of IDR 2.000 to park your scooter. 
 
-### Palm tree road 
+## Palm tree road 
 
 When you get to Crystal Bay, don’t forget to check out the [Insta-famous palm tree road][palm tree road]{:target="_blank"} which is very close to the beach. The road isn’t busy at all, so it’s easy to take pictures on the road and fly your drone. 
 
 {% include img-center.html path="/assets/img/nusa-penida-palm-tree-road.jpg" alt="Palm tree road in Nusa Penida, Bali, Indonesia" %}
 
-### Atuh Beach
+## Atuh Beach
 
 One spot we tried to reach was [Atuh Beach][atuh beach]{:target="_blank"}. Atuh Beach is on the eastern part of the island, so we had to drive quite some time on the main road. However, we never made it there as we simply couldn’t find it. There were some signs, but they all led us in the wrong direction. The location of [Atuh Beach on Google Maps][atuh beach]{:target="_blank"} was incorrect too. Because we were so hungry, we gave up after a while and went to look for food instead. After having a meal, we never headed back, but drove to [Crystal Bay][crystal bay]{:target="_blank"} instead. 
 
@@ -76,7 +76,7 @@ We believe [this][atuh beach right location]{:target="_blank"} is the right spot
 
 Besides all these sightseeing spots, Nusa Penida is always perfect for scuba diving. There are a few divers’ schools on the island where you can rent gear or get your certificates. It’s also possible to book a boat tour which will take you to beautiful diving and snorkeling spots around the island, where you might even see some Manta Rays. 
 
-### The roads
+## The roads
 
 Nusa Penida is famous for its terrible roads. The island’s main road is actually pretty good. The road leading to [Crystal Bay][crystal bay]{:target="_blank"} is very good too and it looked like that road was recently renovated. It can be very steep at some places though, so make sure your scooter is powerful enough, especially if you’re on one scooter with two people.
 
@@ -84,7 +84,7 @@ The road to [Kelinking Beach][kelingking beach]{:target="_blank"} is overall pre
 
 {% include img-center.html path="/assets/img/nusa-penida-angel-billabong-drone-1.jpg" alt="Drone shot taken from Angel Billabong in Nusa Penida, Bali, Indonesia" %}
 
-### Avoiding the crowds
+## Avoiding the crowds
 
 Key to avoiding the crowds in Nusa Penida is to get up (and arrive) early. Many people go on a day trip from Bali with a hired driver and head to the major spots [Kelingking Beach][kelingking beach]{:target="_blank"}, [Angel Billabong][angel billabong]{:target="_blank"} and [Broken Beach][broken beach]{:target="_blank"} and end their tour in [Crystal Bay][crystal bay]{:target="_blank"} around 14:00/15:00. The crowds start to come in around 09:00 at both Kelingking Beach and Angel Billabong and Broken Beach. 
 
@@ -102,7 +102,7 @@ Planning your stay in Nusa Penida? Click [here][booking.com]{:target="_blank"} t
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Indonesia][indonesia]{:target="_blank"}
+## More [Indonesia][indonesia]{:target="_blank"}
 
 [Places to eat in Ubud][ubud eat]{:target="_blank"}
 

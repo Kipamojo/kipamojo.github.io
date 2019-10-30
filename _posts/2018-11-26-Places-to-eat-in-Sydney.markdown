@@ -11,19 +11,19 @@ alt: "Circular Quay and the Opera House in Sydney, Australia"
 
 In this post, we share with you our favorite places to eat in Sydney. These places are all budget-proof and perfect for 'quick' dinners (nothing too fancy), which we prefer while traveling. 
 
-### Vapiano
+## Vapiano
 
 If you’ve read our [Brisbane itinerary][brisbane itinerary]{:target="_blank"}, you know we were surprised to discover a [Vapiano][vapiano]{:target="_blank"} restaurant in Brisbane. As we often go to Vapiano back home, we decided to try the Vapiano in Sydney as well! We love their pizzas a lot and, even though they’re a bit more expensive in Australia than they are in the Netherlands, it’s still a cheap and easy place to have dinner. Just don’t expect anything fancy, you have to pick up your own drinks and pizzas from the counter. 
 
 {% include img-center.html path="/assets/img/sydney-vapiano.jpg" alt="Vapiano in Sydney, Australia" %}
 
-### Burger Project 
+## Burger Project 
 
 At [Burger Project][burger project]{:target="_blank"} they serve burgers (duh!). You can compose the burgers yourself and add toppings to your own taste. Just like Vapiano, it’s an easy, fast and cheap place to eat and the burgers were very good. When you’re traveling full-time and eating out every day, these are the kind of places you’re looking for (besides McDonald’s, haha). Burger Project is located in a mall filled with restaurants (Gateway Sydney), so you can always choose to eat somewhere else. 
 
 {% include img-center.html path="/assets/img/sydney-burger-project.jpg" alt="Burger Project in Sydney, Australia" %}
 
-### Four Frogs Crêperie
+## Four Frogs Crêperie
 
 All kinds of crepes are served at [Four Frogs Crêperie][four frogs]{:target="_blank"}. We actually ate here twice, because we liked it so much. You can go for a savory or a sweet crepe, or have a savory crepe for dinner and a sweet crepe for dessert like we did! The crepes are just really good, and the staff is also very nice. It’s also a plus that there’s an outdoor seating area. This place is definitely worth checking out!
 
@@ -35,13 +35,13 @@ All kinds of crepes are served at [Four Frogs Crêperie][four frogs]{:target="_b
 
 {% include caption.html text="Sweet crepe for dessert" size=15 %}
 
-### Buckley’s Sydney
+## Buckley’s Sydney
 
 [Buckley’s][buckleys]{:target="_blank"} is located along [Circular Quay][circular quay]{:target="_blank"} and has a huge outdoor seating area. We came here for drinks during happy hour and stayed for food. You have to order and pay at the bar, after which you are handed a number to place on your table. They’ll serve your drinks and food when it’s ready. The prices are very reasonable, especially considering the location of the place. It’s also the perfect spot for people watching!
 
 {% include img-center.html path="/assets/img/sydney-buckleys.jpg" alt="Buckley's in Sydney, Australia" %}
 
-### Gelato Messina
+## Gelato Messina
 
 We ate the most delicious ice cream at [Gelato Messina][gelato messina]{:target="_blank"}. If you’re in the [Circular Quay area][circular quay]{:target="_blank"} on a hot day, it’s a must to order an ice cream here. Try their mint ice cream, it really tastes like mint leaves and it’s so good! 
 
@@ -53,7 +53,7 @@ Planning your stay in Sydney? Click [here][booking.com]{:target="_blank"} to get
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Australia][australia]{:target="_blank"}
+## More [Australia][australia]{:target="_blank"}
 
 [Things to do in Brisbane: Our 4-day itinerary][brisbane itinerary]{:target="_blank"}
 

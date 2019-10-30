@@ -35,7 +35,7 @@ Planning your stay in Krabi Town? Click [here][booking.com]{:target="_blank"} to
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Thailand][thailand]{:target="_blank"}
+## More [Thailand][thailand]{:target="_blank"}
 
 [4 days in Phuket - what to do?][phuket]{:target="_blank"}
 

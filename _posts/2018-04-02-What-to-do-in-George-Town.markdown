@@ -11,7 +11,7 @@ alt: "George Town wall art"
 
 After our stay in Langkawi, we flew to George Town on Penang island. We stayed there for four nights, which is perfect if you'd like to explore just the city. You might want to stay longer if you want to see other places of the island as well. 
 
-### The old part of town
+## The old part of town
 
 The main reason for our visit to George Town was to explore the old part of the city, which is situated at the south-eastern part of the city. The old part has so much to explore, around every corner you'll find amazing wall art and a lot of nice cafés and restaurants around the area. We loved stopping by Ome Space for a much-needed coffee after hours of shooting. We spent an entire day strolling around the old city and we didn't even get to see everything! 
 
@@ -20,7 +20,7 @@ The main reason for our visit to George Town was to explore the old part of the 
 {% include embed-instagram-double.html id-left='BckbIgoB_Il' id-right='BcUVMw-Bw5J' caption-left=0 caption-right=0 width=300 margin=50 %}
 
 
-### Malls
+## Malls
 
 George Town has few very modern malls, among which 1st Avenue Shopping Mall is the largest and our favorite. 1st Avenue offers a large variety of shops and restaurants. If you'd like to watch a movie in the cinema, 1st Avenue is the place to be. The majority of the movies in Malaysian cinemas are in English, which makes it the perfect place for a night out at the movies! 
 
@@ -32,7 +32,7 @@ The Komtar Tower is an iconic, 68-storey building on the island of Penang. The K
 
 {% include caption.html text="The Komtar Tower seen from the streets" size=15 %}
 
-### The Top
+## The Top
 
 The Top is an open-air observatory deck which is situated at the highest floor of the Komtar Tower (level 68). At level 65 there is an air-conditioned windowed observatory deck. Although the view over George Town and Penang is nothing compared to the view over Singapore, it was still very enjoyable! If you like, you can also enjoy lunch or dinner at their restaurant while soaking in the views. 
 Costs adult: RM 68
@@ -49,7 +49,7 @@ Have you ever been to Penang or are you planning to go? Let us know in the comme
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
-### More [Malaysia][malaysia]{:target="_blank"}
+## More [Malaysia][malaysia]{:target="_blank"}
 
 [Two-week stay on Langkawi island - what did we do?][langkawi]{:target="_blank"}
 

@@ -13,7 +13,7 @@ E-sports is huge in Korea and Seoul is arguably the Mecca of the phenomenon. For
 
 Information in English about events and tickets is a bit scarce, except for a few Reddit threads. So, this post is aimed to explain how we went about things, and hopefully be a guide to you if you want to attend an event yourself!
 
-### Gathering info
+## Gathering info
 
 Generally, when going to a (non-e) sports event, you look at the respective league’s calendar to see who is playing when and where, or you look at a specific team’s calendar if you know which team you want to see. There is no online league calendar of e-sports events, at least we couldn’t find it. This is probably due to the fact that there are multiple videogames, each with their own league(s). There is [Teamliquid][teamliquid]{:target="_blank"}, which has info on quite some events and games, but it doesn’t have everything. (The match we went to wasn’t on there.)
 
@@ -21,13 +21,13 @@ As a result, we had to gather information from various sources. We started by fi
 
 [AfreecaTV][afreecatv]{:target="_blank"} is huge. It is mainly an online streaming platform, like Twitch, but they also have their own stadium, the FreecUp Studio (see above), and their own e-sports team, the Afreeca Freecs (who play League of Legends). Nevertheless, we decided to buy tickets for the OGN E-sport Stadium, specifically for match 44 of the League of Legends Champions Korea (LCK) Spring 2018 league. This was convenient for us, because it was at walking distance from the Seoul World Cup Stadium, the 2002 FIFA World Cup stadium we planned on visiting that day. Other popular leagues, besides LCK, are GSL, SSL and ASL. These are all Starcraft II leagues, which is arguably the biggest e-sports game in Korea. The LCK match we were going to was between Team MVP and the ROX Tigers.
 
-### Buying tickets
+## Buying tickets
 
 You can buy tickets on Ticketlink directly. You do have to set up a PayCo account, but this shouldn’t be a problem, as everything is in English. However, we got multiple technical errors on both our phones and laptop, so we decided to just buy tickets at the venue. If you do buy tickets in advance, remember to bring your passport or ID when you pick them up. If you do not buy your tickets in advance, keep in mind some events do sell out fast (sometimes in minutes). However, since we didn’t really have any other option we decided to take the risk. Keep in mind that, when buying tickets either in advance or at the venue, you will have to specify which team you support. This way, you’ll be seated in the proper area with like-minded fans.
 
 {% include img-center.html path="/assets/img/seoul-e-sports-tickets.jpg" alt="Tickets for the e-sports match" %}
 
-### Getting there
+## Getting there
 
 As noted above, we walked to the OGN E-sport Stadium from the World Cup stadium. When taking the subway, we recommend getting off at the [Digital Media City station][digital media city station]{:target="_blank"}. Take exit 7 or 9 out of the station. The match started at 20:00, but we arrived quite early (at 18:00) to minimize the risk of it being sold out. Located in an office building. You see flags outside notifying you of e-sports. Inside there is a desk where you can buy or pick up your tickets. After we secured our tickets, we went to a nearby Starbucks to kill some time. The stadium is located in a business district, so there are plenty of restaurants and coffeeshops around to enjoy yourself. When sipping our coffee, we spotted Team MVP making their way to the stadium!
 
@@ -37,7 +37,7 @@ Around 19:15 we started to head back to the stadium, as the doors were set to op
 
 {% include img-center.html path="/assets/img/seoul-e-sports-food.jpg" alt="Haribo candy at the e-sports match" %}
 
-### The match
+## The match
 
 Then, we got onto the elevator to one of the highest floors. It’s just a regular office-building elevator, but when we got off we were suddenly in a completely different vibe. The stadium itself looked like a very large lecture hall and even though it wasn’t sold out, it was pretty crowded. 
 
@@ -53,7 +53,7 @@ The match was amazing, and truly something we had never experienced before. From
 
 If you really want to hear English casters when going to a match, you should visit one where the Tastosis duo, consisting of Tasteless (Nick Plott) and Artosis (Dan Stemkoski), are casting. They are two Americans who are very popular Starcraft II casters. Some fans go to matches for them, instead of for a specific team. They keep everyone updated on their Twitter accounts, which are [@CallMeTasteless][callmetasteless]{:target="_blank"} and [@Artosis][artosis]{:target="_blank"}. Look for a Global Starcraft II League (GSL) match for a good chance of having them as casters.
 
-### PC bangs
+## PC bangs
 
 Rather play yourself? You can try your best at one of Korea’s 25,000 so-called PC bangs. These are best described as internet-cafes for gaming. They are filled with gaming PCs, where you can play 24/7 for less than €2 an hour. Lots of Koreans, of all age-groups, do so. School-aged children and teenagers hang out with friends in the afternoon, while professional e-sporters come to train in the evening, and often stay all night. PC bangs and the related culture really are the backbone of the e-sports phenomenon in Korea. 
 

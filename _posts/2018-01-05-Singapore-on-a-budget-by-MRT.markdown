@@ -27,7 +27,7 @@ To even out the crowdedness of Sentosa, here’s another relaxing spot: the Chin
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
-### More [Singapore][singapore]{:target="_blank"}
+## More [Singapore][singapore]{:target="_blank"}
 
 [Places to eat in Singapore][singapore eat]{:target="_blank"}
 
