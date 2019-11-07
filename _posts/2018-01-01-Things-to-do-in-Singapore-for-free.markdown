@@ -101,5 +101,11 @@ Be sure to check out more of our visual experiences on  [Instagram][instagram]{:
 
 ## More [Singapore][singapore]{:target="_blank"}
 
+[What to do in Singapore: A 7-day itinerary][What to do in Singapore 7-day itinerary]{:target="_blank"}
+[Places to eat in Singapore][Places to eat in Singapore]{:target="_blank"}
+
 [instagram]: https://instagram.com/kipamojo
 [singapore]: https://kipamojo.world/tags.html#singapore
+
+[What to do in Singapore 7-day itinerary]: https://kipamojo.world/singapore/What-to-do-in-Singapore-A-7-day-itinerary/
+[Places to eat in Singapore]: https://kipamojo.world/singapore/Places-to-eat-in-Singapore/ 
