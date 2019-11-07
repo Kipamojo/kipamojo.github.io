@@ -166,7 +166,7 @@ Opening hours: daily 06.00-23.00
 
 You can easily spend an entire day in the Chinese Garden, but maybe there is a place you’d really want to revisit on your last day in Singapore. Maybe you want to walk one last time along the Marina Bay, see the Supertrees in the Gardens by the Bay one more time or just take a dip in the hotel swimming pool. Do whatever you feel like most on your last day in Singapore! 
 
-## Using the MRT
+## Using the MRT in Singapore
 
 Getting around Singapore by MRT is very easy. The MRT system is well-connected with all parts of the country and you can get everywhere. You can buy tickets at the machines at the MRT stations. The MRT offers unlimited ride passes for one (SGD 10), two (SGD 16) or three days (SGD 20). It’s also possible to buy an EZ-Link stored-value card, which we did. You can top up the EZ-Link card at the ticket machines with cash or by (credit) card. We felt it was very easy to travel with the EZ-Link card. You just have to tap the card when entering and exiting the MRT stations. We used Google Maps for directions and MRT routes and it was always accurate.  
 
