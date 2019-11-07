@@ -89,7 +89,7 @@ Singapore has a stunning Chinese Garden, which is absolutely worth going to even
 
 Opening hours: 06.00-23.00
 
-{% include img-center.html path="/assets/img/singapore-chinese-gardens.jpg" alt="Singapore Chinese Gardens" %}
+{% include img-center.html path="/assets/img/singapore-chinese-gardens.jpg" alt="Singapore Chinese Garden" %}
 
 ## Using the MRT in Singapore
 
