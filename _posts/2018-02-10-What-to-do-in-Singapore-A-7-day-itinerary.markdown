@@ -176,8 +176,9 @@ Be sure to check out more of our visual experiences on  [Instagram][instagram]{:
 
 ## More [Singapore][singapore]{:target="_blank"}
 
-[Things to do in Singapore for free][Free Things to do in Singapore]{:target="_blank"}
-[Places to eat in Singapore][Places to eat in Singapore]{:target="_blank"}
+[Things to do in Singapore for free][Free Things to do in Singapore]{:target="_blank"}    
+
+[Places to eat in Singapore][Places to eat in Singapore]{:target="_blank"}    
 
 [instagram]: https://instagram.com/kipamojo
 [singapore]: https://kipamojo.world/tags.html#singapore
