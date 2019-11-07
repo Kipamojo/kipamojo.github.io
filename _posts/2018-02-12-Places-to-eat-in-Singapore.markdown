@@ -42,7 +42,9 @@ If you're tired of Asian food and you're looking for a nice and affordable place
 
 Would you try any of these places to eat? Let us know in the comment section below! 
 
-Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
+Planning your stay in Singapore? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"}  
+
+Be sure to check out more of our daily visual experiences on [Instagram][instagram]{:target="_blank"}!
 
 ## More [Singapore][singapore]{:target="_blank"}
 
@@ -52,5 +54,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [instagram]: https://instagram.com/kipamojo
 [singapore]: https://kipamojo.world/tags.html#singapore
+[booking.com]: https://www.booking.com/s/35_6/joshsn24 
+
 [Free Things to do in Singapore]: https://kipamojo.world/singapore/Things-to-do-in-Singapore-for-free/
 [What to do in Singapore 7-day itinerary]: https://kipamojo.world/singapore/What-to-do-in-Singapore-A-7-day-itinerary/
