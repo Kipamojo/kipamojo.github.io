@@ -5,9 +5,9 @@ date:   2018-01-01 14:43:28 +0800
 categories: [Singapore]
 tags: Singapore
 permalink: /:categories/:title/
-image: "assets/img/baybynight.jpg"
-banner: "assets/img/baybynight-large.jpg"
-alt: "Marina Bay by night"
+image: "assets/img/singapore-marina-bay-skyline-night-banner.jpg"
+banner: "assets/img/singapore-marina-bay-skyline-night-banner-large.jpg"
+alt: "Singapore Marina Bay Skyline at Night"
 ---
 Singapore is regarded one of the most expensive countries in South East Asia, but it’s still a great place to visit for budget travelers. There are lots of free things to do in Singapore so keep on reading to find out what they are!
 
