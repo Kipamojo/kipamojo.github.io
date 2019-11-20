@@ -125,7 +125,13 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Malaysia][malaysia]{:target="_blank"}
 
+[Things to do in Langkawi: A summer getaway][langkawi]{:target="_blank"}
+
+[Things to do in Kuala Lumpur: A complete sightseeing guide][kuala lumpur]{:target="_blank"}
 
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [malaysia]: https://kipamojo.world/tags.html#malaysia 
+
+[langkawi]: https://kipamojo.world/malaysia/Things-to-do-in-Langkawi-A-summer-getaway/ 
+[kuala lumpur]: https://kipamojo.world/malaysia/Things-to-do-in-Kuala-Lumpur-A-complete-sightseeing-guide/ 

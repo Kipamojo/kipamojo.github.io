@@ -170,10 +170,16 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Malaysia][malaysia]{:target="_blank"}
 
+[Things to do in Langkawi: A summer getaway][langkawi]{:target="_blank"}
+
+[Things to do in George Town: A first-timer's guide to Penang][george town]{:target="_blank"}
 
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [malaysia]: https://kipamojo.world/tags.html#malaysia
+
+[langkawi]: https://kipamojo.world/malaysia/Things-to-do-in-Langkawi-A-summer-getaway/ 
+[george town]: https://kipamojo.world/malaysia/Things-to-do-in-George-Town-A-first-timers-guide-to-Penang/ 
 
 [tickets petronas]: https://www.petronastwintowers.com.my/tickets#ticket_price
 [tickets kl tower]: https://www.menarakl.com.my/index.php/online-ticketing
