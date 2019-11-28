@@ -9,7 +9,7 @@ banner: "assets/img/bangkok-photo-spots-banner-large.jpg"
 alt: "Bangkok photo spots - road traffic"
 ---
 
-The bustling city of Bangkok is the perfect place to take very nice photos. In this post we share our favorite photo spots in Bangkok and include their locations so you can easily find them. Click [here][blogpost]{:target="_blank"} to read about our Top 5 things to do in Bangkok.
+The bustling city of Bangkok is the perfect place to take very nice photos. In this post we share our favorite photography spots in Bangkok and include their locations so you can easily find them. Click [here][blogpost]{:target="_blank"} to read about our Top 5 things to do in Bangkok.
 
 ## Wat Arun
 

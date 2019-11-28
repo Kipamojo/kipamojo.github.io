@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Koh Yao Yai photo guide - including mapped locations"
+title:  "Koh Yao Yai photo spots - including mapped locations"
 date:   2018-07-29 01:00:00 +0200
 categories: [Thailand]
 tags:
@@ -11,7 +11,7 @@ banner: "assets/img/koh-yao-yai-thailand-beach-sunrise-banner-large.jpg"
 alt: "Sunrise at the beach in Koh Yao Yai, Thailand"
 ---
 
-The Thai island Koh Yao Yai is the perfect Instagrammable place to take those uncrowded tropical beach photos. In this post we’re sharing where you exactly have to go to take those perfect shots! [Click here to read about our stay and experiences on the island of Koh Yao Yai.][blog post]{:target="_blank"} 
+The Thai island Koh Yao Yai is the perfect island to take those uncrowded tropical beach photos for Instagram. In this post we’re sharing where you exactly have to go to take those perfect Instagram shots! [Click here to read about our tour around the Thai islands.][blog post]{:target="_blank"} 
 
 {% include img-center.html path="/assets/img/koh-yao-yai-thailand-palm-tree-forest-view.jpg" alt="View over a palm tree forest in Koh Yao Yai, Thailand" %}
 
@@ -79,7 +79,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [thailand]: https://kipamojo.world/tags.html#thailand 
 
-[blog post]: https://kipamojo.world/2018/07/27/What-to-do-and-see-in-Koh-Yao-Yai.html
+[blog post]: 
 
 
 
