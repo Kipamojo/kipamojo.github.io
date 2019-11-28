@@ -91,6 +91,10 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Thailand][thailand]{:target="_blank"}
 
+[Top 5 things to do in Bangkok: Bangkok's must-see attractions][top 5 bangkok]{:target="_blank"}
+
+[Bangkok photo spots - including mapped locations][photo spots bangkok]{:target="_blank"}
+
 [Thai island hopping itinerary: Phuket, Koh Yao Yai and Krabi][thai islands itinerary]{:target="_blank"}
 
 [Island hopping in Thailand: Tips for creating a Thai island hopping itinerary][island hopping tips]{:target="_blank"}
@@ -100,6 +104,9 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [thai islands itinerary]: https://kipamojo.world/thailand/Thai-island-hopping-itinerary-Phuket-Koh-Yao-Yai-and-Krabi/
 [island hopping tips]: https://kipamojo.world/thailand/Island-hopping-in-Thailand-Tips-for-creating-a-Thai-island-hopping-itinerary/
 [koh yao yai photo spots]: https://kipamojo.world/thailand/Koh-Yoa-Yai-photo-spots/
+
+[top 5 bangkok]: https://kipamojo.world/thailand/Top-5-things-to-do-in-Bangkok-Bangkoks-must-see-attractions/
+[photo spots bangkok]: https://kipamojo.world/thailand/Bangkok-photo-spots/
 
 [thailand]: https://kipamojo.world/tags.html#thailand
 [instagram]: https://instagram.com/kipamojo

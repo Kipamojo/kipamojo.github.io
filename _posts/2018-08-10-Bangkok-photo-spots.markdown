@@ -73,6 +73,10 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Thailand][thailand]{:target="_blank"}
 
+[Café hopping in Bangkok - Bangkok's best themed cafés][themed cafes bangkok]{:target="_blank"}
+
+[Top 5 things to do in Bangkok: Bangkok's must-see attractions][top 5 bangkok]{:target="_blank"}
+
 [Thai island hopping itinerary: Phuket, Koh Yao Yai and Krabi][thai islands itinerary]{:target="_blank"}
 
 [Island hopping in Thailand: Tips for creating a Thai island hopping itinerary][island hopping tips]{:target="_blank"}
@@ -83,7 +87,8 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [island hopping tips]: https://kipamojo.world/thailand/Island-hopping-in-Thailand-Tips-for-creating-a-Thai-island-hopping-itinerary/
 [koh yao yai photo spots]: https://kipamojo.world/thailand/Koh-Yoa-Yai-photo-spots/
 
-[top 5 bangkok]: 
+[themed cafes bangkok]: https://kipamojo.world/thailand/Cafe-hopping-in-Bangkok-Bangkoks-best-themed-cafes/
+[top 5 bangkok]: https://kipamojo.world/thailand/Top-5-things-to-do-in-Bangkok-Bangkoks-must-see-attractions/
 
 [thailand]: https://kipamojo.world/tags.html#thailand
 [instagram]: https://instagram.com/kipamojo
