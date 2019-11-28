@@ -29,7 +29,7 @@ The Unicorn Café is Bangkok’s most famous themed café. There is often a line
 
 ## Game Over Lounge
 
-The Game Over Lounge is a very fun café to hang out with friends at night. They have all kinds of board games to play as well as PlayStation,Xbox and PC games. We had dinner here (burgers!) and went for a few games of FIFA against each other. Mika was the big winner of the night (just kidding, Joop beat Mika bigtime…). There’s a fee per 2 hours of videogames, but if your bill reaches a certain amount, you get a free hour of game-time. When you’re with a friend or two, you’ll easily reach that amount with dinner and a drink. And we do recommend having dinner, because the food at the Game Over Lounge is pretty good. 
+The Game Over Lounge is a very fun café to hang out with friends at night. They have all kinds of board games to play as well as PlayStation, Xbox and PC games. We had dinner here (burgers!) and went for a few games of FIFA against each other. Mika was the big winner of the night (just kidding, Joop beat Mika bigtime…). There’s a fee per 2 hours of videogames, but if your bill reaches a certain amount, you get a free hour of game-time. When you’re with a friend or two, you’ll easily reach that amount with dinner and a drink. And we do recommend having dinner, because the food at the Game Over Lounge is pretty good. 
 
 {% include img-center.html path="/assets/img/bangkok-thailand-game-cafe-game-over-lounge.jpg" alt="Game café Game Over Lounge in Bangkok, Thailand" %}
 
