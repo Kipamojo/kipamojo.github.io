@@ -37,17 +37,24 @@ Key for determining in which order you’ll visit the islands, is how easy it is
 
 {% include img-center.html path="/assets/img/koh-yao-yai-thailand-beach-sunset-1.jpg" alt="Sunset at the beach in Koh Yao Yai, Thailand" %}
 
-We hope these four steps are helping you in making your own Thai island hopping itinerary. Make sure to check out our own island-hopping itinerary to see which islands we decided to visit in Thailand and whether we can recommend them! LINK 
+We hope these four steps are helping you in making your own Thai island hopping itinerary. Make sure to check out [our own island-hopping itinerary to see which islands we decided to visit in Thailand and whether we can recommend them!][thai islands itinerary]{:target="_blank"} 
 
 Which Thai islands are on your list? Let us know in the comments below!
 
-[Planning your stay on the Thai islands? Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"}
+Planning your stay on the Thai islands? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"}
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
 ## More [Thailand][thailand]{:target="_blank"}
 
+[Thai island hopping itinerary: Phuket, Koh Yao Yai and Krabi][thai islands itinerary]{:target="_blank"}
+
+[Koh Yao Yai photo spots - including mapped locations][koh yao yai photo spots]{:target="_blank"}
+
 [thailand]: https://kipamojo.world/tags.html#thailand
+
+[thai islands itinerary]: https://kipamojo.world/thailand/Thai-island-hopping-itinerary-Phuket-Koh-Yao-Yai-and-Krabi/
+[koh yao yai photo spots]: https://kipamojo.world/thailand/Koh-Yoa-Yai-photo-spots/
 
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916

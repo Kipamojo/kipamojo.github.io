@@ -13,7 +13,7 @@ alt: "Bangtao Beach in Phuket, Thailand"
 
 While we were in Thailand, we had to visit a few of the Thai islands. In two weeks we visited Phuket, Koh Yao Yai and Krabi. In this blog post, we will tell you all about our experiences on the islands in Thailand!
 
-If you have a hard time choosing which Thai islands you want to go to, make sure you read our blog post full with tips and advice on how to create a Thai island hopping itinerary. LINK
+If you have a hard time choosing which Thai islands you want to go to, make sure to read our [blog post full with tips and advice on how to create a Thai island hopping itinerary.][island hopping tips]{:target="_blank"}
 
 ## Phuket
 
@@ -89,8 +89,14 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Thailand][thailand]{:target="_blank"}
 
+[Island hopping in Thailand: Tips for creating a Thai island hopping itinerary][island hopping tips]{:target="_blank"}
+
+[Koh Yao Yai photo spots - including mapped locations][koh yao yai photo spots]{:target="_blank"}
+
 [thailand]: https://kipamojo.world/tags.html#thailand
+
+[island hopping tips]: https://kipamojo.world/thailand/Island-hopping-in-Thailand-Tips-for-creating-a-Thai-island-hopping-itinerary/
+[koh yao yai photo spots]: https://kipamojo.world/thailand/Koh-Yoa-Yai-photo-spots/
 
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
-

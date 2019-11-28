@@ -11,7 +11,7 @@ banner: "assets/img/koh-yao-yai-thailand-beach-sunrise-banner-large.jpg"
 alt: "Sunrise at the beach in Koh Yao Yai, Thailand"
 ---
 
-The Thai island Koh Yao Yai is the perfect island to take those uncrowded tropical beach photos for Instagram. In this post we’re sharing where you exactly have to go to take those perfect Instagram shots! [Click here to read about our tour around the Thai islands.][blog post]{:target="_blank"} 
+The Thai island Koh Yao Yai is the perfect island to take those uncrowded tropical beach photos for Instagram. In this post we’re sharing where you exactly have to go to take those perfect Instagram shots! [Click here to read about our tour around the Thai islands.][thai islands itinerary]{:target="_blank"} 
 
 {% include img-center.html path="/assets/img/koh-yao-yai-thailand-palm-tree-forest-view.jpg" alt="View over a palm tree forest in Koh Yao Yai, Thailand" %}
 
@@ -73,14 +73,13 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Thailand][thailand]{:target="_blank"}
 
+[Thai island hopping itinerary: Phuket, Koh Yao Yai and Krabi][thai islands itinerary]{:target="_blank"}
 
+[Island hopping in Thailand: Tips for creating a Thai island hopping itinerary][island hopping tips]{:target="_blank"}
 
 [instagram]: https://instagram.com/kipamojo
 [booking.com]: https://www.booking.com/s/11_6/joop9916
 [thailand]: https://kipamojo.world/tags.html#thailand 
 
-[blog post]: 
-
-
-
-
+[thai islands itinerary]: https://kipamojo.world/thailand/Thai-island-hopping-itinerary-Phuket-Koh-Yao-Yai-and-Krabi/
+[island hopping tips]: https://kipamojo.world/thailand/Island-hopping-in-Thailand-Tips-for-creating-a-Thai-island-hopping-itinerary/
