@@ -148,7 +148,12 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Hong Kong][hong kong]{:target="_blank"}
 
+[Hong Kong photo spots - including mapped locations][hong kong photo spots]{:target="_blank"}
 
+[Buying electronics in Hong Kong - our experiences and tips][electronics hong kong]{:target="_blank"}
+
+[hong kong photo spots]: https://kipamojo.world/hong-kong/Hong-Kong-photo-spots/ 
+[electronics hong kong]: https://kipamojo.world/hong-kong/Buying-electronics-in-Hong-Kong-our-experiences-and-tips/ 
 
 [instagram]: https://instagram.com/kipamojo
 [hong kong]: https://kipamojo.world/tags.html#hong-kong

@@ -51,6 +51,13 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Hong Kong][hong kong]{:target="_blank"}
 
+[Things to do in Hong Kong on a budget: Our complete itinerary][things to do hk]{:target="_blank"}
+
+[Hong Kong photo spots - including mapped locations][hong kong photo spots]{:target="_blank"}
+
+[things to do hk]: https://kipamojo.world/hong-kong/Things-to-do-in-Hong-Kong-on-a-budget-Our-complete-itinerary/ 
+[hong kong photo spots]: https://kipamojo.world/hong-kong/Hong-Kong-photo-spots/ 
+
 [hong kong]: https://kipamojo.world/tags.html#hong-kong
 
 [instagram]: https://instagram.com/kipamojo

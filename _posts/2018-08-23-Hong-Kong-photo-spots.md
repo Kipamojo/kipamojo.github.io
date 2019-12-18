@@ -11,7 +11,7 @@ banner: "assets/img/hong-kong-concrete-jungle-banner-large.jpg"
 alt: "Concrete Jungle in Hong Kong"
 ---
 
-Hong Kong has many amazing places to shoot photos. In this post, we share our favorite photography spots in Hong Kong and include their locations so you can easily find them. [Read our complete 10-day Hong Kong itinerary here.][things to do hk]{:target="_blank"} 
+Hong Kong has many amazing places to shoot photos. In this post, we share our favorite photography spots in Hong Kong and include their locations so you can easily find them. [Read our complete Hong Kong itinerary here.][things to do hk]{:target="_blank"} 
 
 ## Hong Kong Island
 
@@ -105,9 +105,12 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Hong Kong][hong kong]{:target="_blank"}
 
-[Things to do in Hong Kong on a budget: Our complete 10-day itinerary][things to do hk]{:target="_blank"}
+[Things to do in Hong Kong on a budget: Our complete itinerary][things to do hk]{:target="_blank"}
 
-[things to do hk]: 
+[Buying electronics in Hong Kong - our tips and experiences][electronics hong kong]{:target="_blank"}
+
+[things to do hk]: https://kipamojo.world/hong-kong/Things-to-do-in-Hong-Kong-on-a-budget-Our-complete-itinerary/
+[electronics hong kong]: https://kipamojo.world/hong-kong/Buying-electronics-in-Hong-Kong-our-experiences-and-tips/
 
 [instagram]: https://instagram.com/kipamojo
 [hong kong]: https://kipamojo.world/tags.html#hong-kong
