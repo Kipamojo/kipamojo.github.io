@@ -6,29 +6,252 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
 <url>
   <loc>https://kipamojo.world/</loc>
-  <lastmod>2018-01-01T07:56:19+00:00</lastmod>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://kipamojo.world/about/</loc>
-  <lastmod>2018-01-01T07:56:19+00:00</lastmod>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kipamojo.world/tags.html</loc>
-  <lastmod>2018-01-01T07:56:19+00:00</lastmod>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://kipamojo.world/tags</loc>
-  <lastmod>2018-01-01T07:56:19+00:00</lastmod>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://kipamojo.world/2018/01/01/Singapore-on-a-budget.html</loc>
-  <lastmod>2018-01-01T07:56:19+00:00</lastmod>
+  <loc>https://kipamojo.world/2019/04/01/Visiting-the-cherry-blossoms-in-the-Amsterdam-Forest.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
   <priority>0.80</priority>
 </url>
+<url>
+  <loc>https://kipamojo.world/2019/03/25/Instagrammable-spots-in-Canggu-Bali.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/03/18/Things-to-do-in-Canggu.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/03/11/Places-to-eat-in-Canggu.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/03/04/Visiting-the-tulip-fields-in-Lisse-the-Netherlands.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/02/25/How-to-get-to-Nusa-Penida-and-where-to-stay.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/02/18/Places-to-eat-in-Nusa-Penida.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/02/11/Things-to-do-in-Nusa-Penida.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/02/04/Things-to-do-in-Ubud-Bali.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/01/28/Places-to-eat-in-Ubud-Bali.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/01/21/Things-to-do-in-and-surrounding-Bondi-Beach.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2019/01/15/Best-photo-spots-of-the-Sydney-Opera-House.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/12/19/Visiting-the-Winter-Efteling.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/11/26/Places-to-eat-in-Sydney.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/11/18/Things-to-do-in-Sydney.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/11/12/10-Instagrammable-places-in-Brisbane.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/11/05/Things-to-do-in-Brisbane-Our-4-days-itinerary.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/10/04/E-sports-in-Seoul-Everything-you-need-to-know.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/10/01/Seoul's-abandoned-theme-park-Yongma-Land.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/09/27/Must-visit-Instagrammable-cafes-in-Seoul.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/09/24/Things-to-do-in-Seoul-Our-complete-itinerary.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/09/20/Pyeongchang-Winter-Olympic-Games-2018.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/09/17/Our-full-Kyoto-itinerary-part-two.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/09/13/Our-full-Kyoto-itinerary-part-one.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/09/10/The-best-photo-spots-of-Mt-Fuji.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/09/06/Snowboarding-in-Japan.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/09/03/Our-full-Tokyo-itineray-part-two.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/08/30/Our-full-Tokyo-itinerary-part-one.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/08/27/Buying-electronics-in-Hong-Kong-our-experience-and-tips.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/08/23/Hong-Kong-photo-spots.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/08/20/5-must-dos-in-hong-kong.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/2018/08/16/Things-to-do-in-Hong-Kong-our-complete-itinerary.html</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/malaysia/Celebrating-New-Years-Eve-in-Kuala-Lumpur-New-Years-Eve-abroad-on-a-budget/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/thailand/Bangkok-photo-spots/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/thailand/Top-5-things-to-do-in-Bangkok-Bangkoks-must-see-attractions/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/thailand/Cafe-hopping-in-Bangkok-Bangkoks-best-themed-cafes/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/thailand/Koh-Yoa-Yai-photo-spots/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/thailand/Island-hopping-in-Thailand-Tips-for-creating-a-Thai-island-hopping-itinerary/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/thailand/Thai-island-hopping-itinerary-Phuket-Koh-Yao-Yai-and-Krabi/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/malaysia/Things-to-do-in-Kuala-Lumpur-A-complete-sightseeing-guide/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/malaysia/Things-to-do-in-George-Town-A-first-timers-guide-to-Penang/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/malaysia/Things-to-do-in-Langkawi-A-summer-getaway/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/singapore/Places-to-eat-in-Singapore/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/singapore/What-to-do-in-Singapore-A-7-day-itinerary/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kipamojo.world/singapore/Things-to-do-in-Singapore-for-free/</loc>
+  <lastmod>2019-12-18T12:19:02+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
