@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Things to do in Hong Kong on a budget: Our complete 10-day itinerary"
+title:  "Things to do in Hong Kong on a budget: Our complete itinerary"
 date:   2018-08-16 12:00:00 +0200
 categories: [Hong-Kong]
 tags:
