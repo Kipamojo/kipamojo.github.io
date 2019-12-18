@@ -67,8 +67,6 @@ The Thai island Koh Yao Yai is the perfect island to take those uncrowded tropic
 
 Have you ever been to Koh Yao Yai or do you want to visit the island? Let us know in the comments below!
 
-Planning your stay in Koh Yao Yai? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"} 
-
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
 ## More [Thailand][thailand]{:target="_blank"}
@@ -78,7 +76,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [Island hopping in Thailand: Tips for creating a Thai island hopping itinerary][island hopping tips]{:target="_blank"}
 
 [instagram]: https://instagram.com/kipamojo
-[booking.com]: https://www.booking.com/s/11_6/joop9916
+
 [thailand]: https://kipamojo.world/tags.html#thailand 
 
 [thai islands itinerary]: https://kipamojo.world/thailand/Thai-island-hopping-itinerary-Phuket-Koh-Yao-Yai-and-Krabi/

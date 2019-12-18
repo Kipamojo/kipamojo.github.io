@@ -67,8 +67,6 @@ The bustling city of Bangkok is the perfect place to take very nice photos. In t
 
 Have you ever been to Bangkok? Let us know in the comments below!
 
-Planning your stay in Bangkok? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"}
-
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
 ## More [Thailand][thailand]{:target="_blank"}
@@ -92,5 +90,4 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [thailand]: https://kipamojo.world/tags.html#thailand
 [instagram]: https://instagram.com/kipamojo
-[booking.com]: https://www.booking.com/s/11_6/joop9916
 [blogpost]: https://kipamojo.world/2018/08/07/Top-5-things-to-do-in-Bangkok.html

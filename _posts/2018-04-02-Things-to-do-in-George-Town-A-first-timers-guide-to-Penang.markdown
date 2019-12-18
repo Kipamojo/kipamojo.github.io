@@ -117,8 +117,6 @@ We stayed in George Town for four days, which was perfect for our purpose of jus
 
 {% include img-center.html path="/assets/img/george-town-penang-unesco-world-heritage-site-3.jpg" alt="The UNESCO World Heritage Site in George Town, Penang" %}
 
-Planning your stay in George Town? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"} 
-
 Have you ever been to Penang or are you planning to go? Let us know in the comment section below! 
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
@@ -130,7 +128,6 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [Things to do in Kuala Lumpur: A complete sightseeing guide][kuala lumpur]{:target="_blank"}
 
 [instagram]: https://instagram.com/kipamojo
-[booking.com]: https://www.booking.com/s/11_6/joop9916
 [malaysia]: https://kipamojo.world/tags.html#malaysia 
 
 [langkawi]: https://kipamojo.world/malaysia/Things-to-do-in-Langkawi-A-summer-getaway/ 

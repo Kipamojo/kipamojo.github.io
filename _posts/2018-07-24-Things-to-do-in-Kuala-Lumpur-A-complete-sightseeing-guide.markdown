@@ -162,8 +162,6 @@ Public transport in Kuala Lumpur isn't as good as in other comparable large citi
 
 {% include img-center.html path="/assets/img/kuala-lumpur-monorail.jpg" alt="Monorail in Kuala Lumpur" %}
 
-Planning your stay in Kuala Lumpur? [Click to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"}
-
 Let us know in the comments if you've ever visited any of these places and which ones you'd still want to visit! 
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
@@ -175,7 +173,6 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [Things to do in George Town: A first-timer's guide to Penang][george town]{:target="_blank"}
 
 [instagram]: https://instagram.com/kipamojo
-[booking.com]: https://www.booking.com/s/11_6/joop9916
 [malaysia]: https://kipamojo.world/tags.html#malaysia
 
 [langkawi]: https://kipamojo.world/malaysia/Things-to-do-in-Langkawi-A-summer-getaway/ 

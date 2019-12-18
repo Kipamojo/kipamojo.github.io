@@ -117,8 +117,6 @@ We stayed in Langkawi for two weeks and hardly did anything else than relaxing a
 
 {% include img-center.html path="/assets/img/langkawi-island-beach-sunset-1.jpg" alt="Sunset at Pantai Tengah Beach in Langkawi" %}
 
-Planning your stay on Langkawi? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"} 
-
 Have you been to Langkawi or would you like to go? Let us know in the comment section below! 
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
@@ -130,7 +128,6 @@ Be sure to check out more of our visual experiences on  [Instagram][instagram]{:
 [Things to do in Kuala Lumpur: A complete sightseeing guide][kuala lumpur]{:target="_blank"}
 
 [instagram]: https://instagram.com/kipamojo
-[booking.com]: https://www.booking.com/s/11_6/joop9916
 [lassie]: https://www.langkawilassie.org.my/ 
 [malaysia]: https://kipamojo.world/tags.html#malaysia 
 

@@ -97,8 +97,6 @@ Getting around Singapore by MRT is very easy. The MRT system is well-connected w
 
 Have you ever been to Singapore and did you enjoy the city? Let us know in the comments below!
 
-Planning your stay in Singapore? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"}
-
 Be sure to check out more of our daily visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
 ## More [Singapore][singapore]{:target="_blank"}
@@ -108,7 +106,6 @@ Be sure to check out more of our daily visual experiences on  [Instagram][instag
 [Places to eat in Singapore][Places to eat in Singapore]{:target="_blank"}    
 
 [instagram]: https://instagram.com/kipamojo
-[booking.com]: https://www.booking.com/s/35_6/joshsn24 
 [singapore]: https://kipamojo.world/tags.html#singapore
 
 [What to do in Singapore 7-day itinerary]: https://kipamojo.world/singapore/What-to-do-in-Singapore-A-7-day-itinerary/

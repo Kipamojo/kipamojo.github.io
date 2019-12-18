@@ -85,8 +85,6 @@ ViVi the Coffee Place isn’t really a themed café, but it looks like it’s de
 
 Clearly, there are enough themed cafés to visit in Bangkok. The only thing missing is a Harry Potter themed one! Which one would you want to visit?
 
-Planning your stay in Bangkok? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"}
-
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
 ## More [Thailand][thailand]{:target="_blank"}
@@ -110,4 +108,4 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [thailand]: https://kipamojo.world/tags.html#thailand
 [instagram]: https://instagram.com/kipamojo
-[booking.com]: https://www.booking.com/s/11_6/joop9916
+

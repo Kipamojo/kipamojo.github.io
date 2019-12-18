@@ -83,8 +83,6 @@ Krabi Town is a nice and relaxed town. It’s not that big so everything is easi
 
 Which Thai islands have you been to or which ones are still on your list? Let us know in the comments below!
 
-Planning your stay in one of the Thai islands? [Click here to get a 10% cashback reward on Booking.com!][booking.com]{:target="_blank"}
-
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
 ## More [Thailand][thailand]{:target="_blank"}
@@ -99,4 +97,4 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [koh yao yai photo spots]: https://kipamojo.world/thailand/Koh-Yoa-Yai-photo-spots/
 
 [instagram]: https://instagram.com/kipamojo
-[booking.com]: https://www.booking.com/s/11_6/joop9916
+
