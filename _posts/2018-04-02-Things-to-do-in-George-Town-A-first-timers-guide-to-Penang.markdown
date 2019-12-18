@@ -127,8 +127,11 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Things to do in Kuala Lumpur: A complete sightseeing guide][kuala lumpur]{:target="_blank"}
 
+[Celebrating New Year's Eve in Kuala Lumpur: New Year's Eve abroad on a budget][kuala lumpur nye]{:target="_blank"}
+
 [instagram]: https://instagram.com/kipamojo
 [malaysia]: https://kipamojo.world/tags.html#malaysia 
 
 [langkawi]: https://kipamojo.world/malaysia/Things-to-do-in-Langkawi-A-summer-getaway/ 
 [kuala lumpur]: https://kipamojo.world/malaysia/Things-to-do-in-Kuala-Lumpur-A-complete-sightseeing-guide/ 
+[kuala lumpur nye]: https://kipamojo.world/malaysia/Celebrating-New-Years-Eve-in-Kuala-Lumpur-New-Years-Eve-abroad-on-a-budget/ 
