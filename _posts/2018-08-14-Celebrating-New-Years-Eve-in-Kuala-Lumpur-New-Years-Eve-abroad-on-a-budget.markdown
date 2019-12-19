@@ -15,7 +15,11 @@ Celebrating New Year's Eve abroad isn't always easy and takes a bit of planning 
 
 {% include embed-instagram.html id="BdYLG_KhiRp" maxwidth=400 %}
 
+## Kuala Lumpur: A New Year's budget destination
+
 Even though we planned our stay in Kuala Lumpur during the New Year's celebrations not more than two weeks in advance, we were able to find great flights and hotel deals. There are a few options of things to do in Kuala Lumpur on New Year's Eve. It's either a New Year's dinner at a restaurant or hotel, a party at a rooftop bar or hotel (or a combination of both dinner and party) or attending the New Year's Event at KLCC Park. We didn't feel like going all fancy and having dinner and partying all night so we opted for the New Year's Event at KLCC Park. The New Year's Event at KLCC Park is completely free of charge, which meant we didn't had to reserve any tickets in advance. 
+
+## The New Year's Event at KLCC Park
 
 The New Year's Event started at 9PM and included performances of various Malaysian artists and a fountain show. There were a lot of long breaks between the performances, which was a bit of a pity. Right before the clock turned 12, there was a countdown and the fireworks show started immediately at 12 o' clock. Being surrounded by tall buildings, KLCC Park wasn't the right spot to watch the fireworks though. Our view of the fireworkd was almost completely blocked by trees, which was a bit unfortunate. Luckily, they would sometimes light some fireworks in front of the Petronas Towers, so we were still able to get some good photos of both the Petronas Towers and the fireworks. 
 
