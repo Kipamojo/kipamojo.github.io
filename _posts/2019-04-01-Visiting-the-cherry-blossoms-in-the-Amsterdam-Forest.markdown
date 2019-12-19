@@ -2,14 +2,16 @@
 layout: post
 title:  "Visiting the cherry blossoms in the Amsterdam Forest"
 date:   2019-04-01 17:00:00 +0100
+categories: [Netherlands]
 tags:
     - "The Netherlands"
+permalink: /:categories/:title/
 image: "assets/img/cherry-blossom-park-amsterdam-forest-banner.jpg"
 banner: "assets/img/cherry-blossom-park-amsterdam-forest-banner-large.jpg"
 alt: "Cherry Blossom Park in the Amsterdam Forest"
 ---
  
-If you love cherry blossoms (who doesn’t!?), you should definitely check out the [cherry blossom park][cherry blossom park]{:target="_blank"} in the [Amsterdam Forest][amsterdam forest]{:target="_blank"}! In this post, we’ll explain when the cherry blossoms bloom and how to get to the park.
+If you love cherry blossoms (who doesn’t!?), you should definitely check out the cherry blossom park in the Amsterdam Forest! In this post, we’ll explain when the cherry blossoms bloom and how to get to Amsterdam Forest to see the cherry blossom trees.
  
 ## The cherry blossom park
  
@@ -17,7 +19,7 @@ The cherry blossom park is a beautiful area in the Amsterdam Forest, with 400 ch
 
 {% include img-center.html path="/assets/img/cherry-blossom-park-amsterdam-forest.jpg" alt="Cherry Blossom Park in the Amsterdam Forest" %}
  
-## The blooming period 
+## The blooming period of the cherry blossoms
 
 Cherry blossoms have a short blooming period and usually bloom in the early weeks of Spring. The cherry blossoms in the Amsterdam Forest bloom from the end of March until the start of April, but the exact period depends on the weather conditions. It usually lasts around two weeks. We visited the park on the 31st of March (in 2019), and the blossoms were in their peak bloom, although the wind was already blowing some blossoms of off the trees.
 
@@ -33,42 +35,36 @@ Of course, you can also just take photos of all the beautiful cherry blossom tre
 
 {% include img-center.html path="/assets/img/cherry-blossom-park-amsterdam-forest-couple.jpg" alt="Taking photos at the Cherry Blossom Park in the Amsterdam Forest" %}
  
-## How to get there
+## How to get to the Amsterdam Forest
  
 ### By car
  
-Even though it’s called the Amsterdam Forest, it’s not exactly in Amsterdam. The Amsterdam Forest is in [Amstelveen][amstelveen]{:target="_blank"}, which is a city nearby Amsterdam. We got to the Forest by car, which was a one-hour drive for us. From Amsterdam it’s a 20-30 minute drive. There are multiple small parking areas around the Forest and there’s also a large parking area at the main entrance. We parked our car at one of the small parking areas which was close to the cherry blossom park, click [here for the location][small parking area]{:target="_blank"}. The small parking areas are always free of charge. Click [here to see all the parking areas in the Amsterdam Forest][all parking areas]{:target="_blank"}.
+Even though it’s called the Amsterdam Forest, it’s not exactly in Amsterdam. The Amsterdam Forest is in Amstelveen, which is a city nearby Amsterdam. We got to the Forest by car, which was a one-hour drive for us. From Amsterdam it’s a 20-30 minute drive to the Amsterdam Forest, so it's actually pretty close. There are multiple small parking areas around the Forest and there’s also a large parking area at the main entrance. We parked our car at one of the small parking areas which was close to the cherry blossom park, click [here for the location][small parking area]{:target="_blank"}. The small parking areas are always free of charge. Click [here to see all the parking areas in the Amsterdam Forest][all parking areas]{:target="_blank"}.
  
-During the cherry blossom season there are signs indicating where to park your car to visit the cherry blossoms. These signs lead to the parking area at the [main entrance][main entrance]{:target="_blank"}. Parking at the main entrance is free on the weekends, and from Monday to Friday only the first three hours are free. After the first three hours it’s € 0,35 for every 15 minutes. Please note that the main entrance is not close to the cherry blossom park, so you'll have to walk a bit if you enter here.
+During the cherry blossom season there are signs indicating where to park your car to visit the cherry blossoms. These signs lead to the parking area at the main entrance. Parking at the main entrance is free on the weekends, and from Monday to Friday only the first three hours are free. After the first three hours it’s € 0,35 for every 15 minutes. Please note that the main entrance is not close to the cherry blossom park, so you'll have to walk a bit if you enter here.
  
 ### By public transport
  
-The easiest way to get to the cherry blossom park by public transport from Amsterdam, is to take the train from Amsterdam Central Station to Schiphol Airport. At Schiphol Airport take bus 186 heading to Amstelveen and get out at the Raadhuis/Dorpsstraat stop in Amstelveen. From here it’s a 10 minute walk to the cherry blossoms. Click [here to check the route][public transport route]{:target="_blank"}. 
+The easiest way to get to the cherry blossom park by public transport from Amsterdam, is to take the train from Amsterdam Central Station to Schiphol Airport. At Schiphol Airport take bus 186 heading to Amstelveen and get out at the Raadhuis/Dorpsstraat stop in Amstelveen. From here it’s a 10-minute walk to the cherry blossoms. Click [here to check the route][public transport route]{:target="_blank"}. 
 
 {% include img-center.html path="/assets/img/cherry-blossom-park-amsterdam-forest-tulips.jpg" alt="Taking photos at the Cherry Blossom Park in the Amsterdam Forest" %}
 
 Have you been to the cherry blossoms in the Amsterdam Forest or is it still on your bucket list? Let us know in the comments below!
 
-Planning your stay in Amsterdam? Click [here][booking.com]{:target="_blank"} to get a 10% cashback reward on Booking.com! 
-
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
 ## More [the Netherlands][the netherlands]{:target="_blank"}
 
-[Visiting the Winter Efteling][winter efteling]{:target="_blank"}
+[Day trip from Amsterdam: Visiting the Winter Efteling][winter efteling]{:target="_blank"}
 
-[Visiting the tulip fields in Lisse][tulip fields]{:target="_blank"}
+[Day trip from Amsterdam: Visiting the tulip fields in Lisse][tulip fields]{:target="_blank"}
 
 [instagram]: https://instagram.com/kipamojo 
-[booking.com]: https://www.booking.com/s/35_6/joshsn24
 
 [the netherlands]: https://kipamojo.world/tags.html#the-netherlands
-[winter efteling]: https://kipamojo.world/2018/12/19/Visiting-the-Winter-Efteling.html
-[tulip fields]: https://kipamojo.world/2019/03/04/Visiting-the-tulip-fields-in-Lisse-the-Netherlands.html
+[winter efteling]: 
+[tulip fields]: 
 
-[cherry blossom park]: https://goo.gl/maps/SkqhK5syoFm
-[amsterdam forest]: https://goo.gl/maps/pSPFcGP4rx72
-[amstelveen]: https://goo.gl/maps/oUFanrSL9Gr
 [small parking area]: https://goo.gl/maps/x42e2CKjGRp
 [all parking areas]: https://www.amsterdamsebos.nl/parkeren/
 [main entrance]: https://goo.gl/maps/pPFP8sM4j2P2

@@ -1,15 +1,19 @@
 ---
 layout: post
-title:  "Visiting the Winter Efteling"
+title:  "Day trip from Amsterdam: Visiting the Winter Efteling"
 date:   2018-12-19 12:00:00 +0100
+categories: [Netherlands]
 tags:
     - "The Netherlands"
+permalink: /:categories/:title/
 image: "assets/img/efteling-langnek-banner.jpg"
 banner: "assets/img/efteling-langnek-banner-large.jpg"
 alt: "Fairytale The Six Servants in the Efteling"
 ---
 
-The Netherlands’ most famous theme park is the [Efteling][efteling]{:target="_blank"}, in Kaatsheuvel. During the winter months, the Efteling is completely decorated in winter style and everything just feels cozy. The Efteling has its very own style and the experience is comparable to the Disney Land theme parks, but on a smaller scale. 
+The Netherlands’ most famous theme park is the Efteling, in Kaatsheuvel. During the winter months, the Efteling is completely decorated in winter style and everything just feels cozy. The Efteling has its very own style and the experience is comparable to the Disney Land theme parks, but on a smaller scale. If you're into theme parks, going to the Efteling is a must as it's truly a one of a kind experience!
+
+We would really recommend going to the Efteling in winter, as the Winter Efteling is just a special experience. However, the Efteling is open 365 days a year and it's always fun to visit the theme park. When visiting the Winter Efeling, make sure to dress in layers of warm clothes as you'll get cold walking outside the entire day. The Efteling is a perfect day trip from Amsterdam, as it takes less than two hours to get there by public transport! 
 
 The park is divided into five realms: Marerijk, Reizenrijk, Ruigrijk, Anderrijk and Fantasierijk. We share with you some of our favorite rides and landmarks of the realms. 
 
@@ -23,11 +27,11 @@ One of the most famous landmarks of the Efteling is the Fairytale Forest (*Sproo
 
 Most of the attractions in *Marerijk* are well-suitable for children. *Droomvlucht* is one of the oldest rides in the Efteling and is a must-go. It’s a dark ride through a beautiful dream world with fairies and magical creatures. *Villa Volta* is a cursed villa with a main room that appears to turn upside-down, and is also worth visiting. 
 
-{% include img-center.html path="/assets/img/efteling-draak.jpg" alt="The Dragon" %}
+{% include img-center.html path="/assets/img/efteling-draak.jpg" alt="The Dragon in the Winter Efteling" %}
 
 {% include caption.html text="The Dragon" size=15 %}
 
-{% include img-center.html path="/assets/img/efteling-roodkapje.jpg" alt="Little Red Riding Hood" %}
+{% include img-center.html path="/assets/img/efteling-roodkapje.jpg" alt="Little Red Riding Hood in the Winter Efteling" %}
 
 {% include caption.html text="Little Red Riding Hood" size=15 %}
 
@@ -61,17 +65,17 @@ Our favorite ride of *Anderrijk* is the *Fata Morgana*. The *Fata Morgana* is an
 
 The Efteling is huge so you’ll probably won’t make it to every ride you want to go to. Especially during the weekends, the park can be very crowded and the waiting times for rides long. Nevertheless, it’s absolutely worth it visiting the Efteling when you’re in the Netherlands. Even if you’re a roller coaster lover, don’t forget to go to a few dark rides as they’re so beautifully made in the Efteling. 
 
-{% include img-center.html path="/assets/img/efteling-doornroosje-kasteel.jpg" alt="The castle of Sleeping Beauty" %}
+{% include img-center.html path="/assets/img/efteling-doornroosje-kasteel.jpg" alt="The castle of Sleeping Beauty in the Winter Efteling" %}
 
 {% include caption.html text="The castle of Sleeping Beauty" size=15 %}
 
-## How to get there
+## How to get to the Efteling from Amsterdam
 
-The Efteling is located in [Kaatsheuvel][kaatsheuvel]{:target="_blank"}, a village in the South of the Netherlands. Getting to the Efteling by public transport from Amsterdam will take you about two hours. From Amsterdam Central Station take the train to ‘s-Hertogenbosch and from there the bus to the Efteling. By car, the journey from Amsterdam will take around 1.5 hours. 
+The Efteling is located in Kaatsheuvel, a village in the South of the Netherlands. Getting to the Efteling by public transport from Amsterdam will take you less than two hours. From Amsterdam Central Station take the train to ‘s-Hertogenbosch and from there the bus to the Efteling. By car, the journey from Amsterdam will take around 1.5 hours, but be aware of traffic. 
 
 Ticket prices:  
 Children younger than 4 years: free  
-Everyone else: € 38,-  
+Everyone else: € 42,-  
 Parking ticket: € 10,-  
 
 If you buy your tickets [online][tickets]{:target="_blank"} you get a € 2,- discount.  
@@ -79,20 +83,18 @@ You can often get tickets with discounts through promotions at Dutch supermarket
 
 Check the [website][opening times]{:target="_blank"} for opening times and the crowd calendar. 
 
-{% include img-center.html path="/assets/img/efteling-hans-en-grietje.jpg" alt="The candy house from Hansel and Gretel" %}
+{% include img-center.html path="/assets/img/efteling-hans-en-grietje.jpg" alt="The candy house from Hansel and Gretel in the Winter Efteling" %}
 
 {% include caption.html text="The candy house from the fairytale Hansel and Gretel" size=15 %}
 
 Have you been to the Efteling? Let us know in the comments below!
 
-Planning your stay in the Netherlands? Click [here][booking.com]{:target="_blank"} to get a 10% cashback reward on Booking.com! 
-
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+## More [the Netherlands][Netherlands]{:target="_blank"}
+
+[netherlands]: https://kipamojo.world/tags.html#the-netherlands 
 [instagram]: https://instagram.com/kipamojo 
-[booking.com]: https://www.booking.com/s/35_6/joshsn24
-[efteling]: https://goo.gl/maps/yhZRHooDCcy
-[kaatsheuvel]: https://goo.gl/maps/8iKJ1VUNxTG2
 [tickets]: https://www.efteling.com/en/park/tickets
 [opening times]: https://www.efteling.com/en/park/opening-hours
 
