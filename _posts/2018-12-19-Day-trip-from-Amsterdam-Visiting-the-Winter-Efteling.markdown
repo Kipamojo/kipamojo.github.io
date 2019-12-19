@@ -93,6 +93,13 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [the Netherlands][Netherlands]{:target="_blank"}
 
+[Day trip from Amsterdam: Visiting the tulip fields in and around Lisse][lisse tulip fields]{:target="_blank"}
+
+[Visiting the cherry blossoms in the Amsterdam Forest][amsterdam forest]{:target="_blank"}
+
+[lisse tulip fields]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-tulip-fields-in-and-around-Lisse/
+[amsterdam forest]: https://kipamojo.world/netherlands/Visiting-the-cherry-blossoms-in-the-Amsterdam-Forest/
+
 [netherlands]: https://kipamojo.world/tags.html#the-netherlands 
 [instagram]: https://instagram.com/kipamojo 
 [tickets]: https://www.efteling.com/en/park/tickets

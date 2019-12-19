@@ -51,10 +51,13 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Day trip from Amsterdam: Visiting the Winter Efteling][winter efteling]{:target="_blank"}
 
+[Visiting the cherry blossoms in the Amsterdam Forest][amsterdam forest]{:target="_blank"}
+
 [instagram]: https://instagram.com/kipamojo 
 
 [the netherlands]: https://kipamojo.world/tags.html#the-netherlands
-[winter efteling]: 
+[winter efteling]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-Winter-Efteling/
+[amsterdam forest]: https://kipamojo.world/netherlands/Visiting-the-cherry-blossoms-in-the-Amsterdam-Forest/
 
 [keukenhof website]: https://keukenhof.nl/
 [field lisse]: https://goo.gl/maps/GVUvxHJiTnw

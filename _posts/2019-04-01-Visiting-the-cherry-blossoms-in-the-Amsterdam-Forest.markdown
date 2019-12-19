@@ -62,8 +62,8 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [instagram]: https://instagram.com/kipamojo 
 
 [the netherlands]: https://kipamojo.world/tags.html#the-netherlands
-[winter efteling]: 
-[tulip fields]: 
+[winter efteling]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-Winter-Efteling/
+[tulip fields]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-tulip-fields-in-and-around-Lisse/
 
 [small parking area]: https://goo.gl/maps/x42e2CKjGRp
 [all parking areas]: https://www.amsterdamsebos.nl/parkeren/
