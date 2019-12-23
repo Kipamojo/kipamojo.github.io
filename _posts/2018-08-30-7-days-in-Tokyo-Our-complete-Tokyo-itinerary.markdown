@@ -191,10 +191,16 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Japan][japan]{:target="_blank"}
 
-[][snowboarding Japan]{:target="_blank"}
+[Snowboarding in Japan: Our experiences of ski resort Ishiuchi Maruyama][snowboarding japan]{:target="_blank"}
+
+[3 days in Kawaguchiko: The best photo spots of Mt. Fuji][mt.fuji photo spots]{:target="_blank"}
+
+[7 days in Kyoto: Our complete Kyoto itinerary][kyoto itinerary]{:target="_blank"}
 
 [japan]: https://kipamojo.world/tags#japan 
-[snowboarding japan]: 
+[snowboarding japan]: https://kipamojo.world/japan/Snowboarding-in-Japan-Our-experiences-of-ski-resort-Ishiuchi-Maruyama/
+[mt. fuji photo spots]: https://kipamojo.world/japan/3-days-in-Kawaguchiko-The-best-photo-spots-of-Mt-Fuji/
+[kyoto itinerary]: https://kipamojo.world/japan/7-days-in-Kyoto-Our-complete-Kyoto-itinerary/
 
 [instagram]: https://instagram.com/kipamojo
 
