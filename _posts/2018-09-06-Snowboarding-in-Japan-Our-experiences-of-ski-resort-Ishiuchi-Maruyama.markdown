@@ -55,7 +55,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [7 days in Tokyo: Our complete Tokyo itinerary][tokyo itinerary]{:target="_blank"}
 
-[3 days in Kawaguchiko: The best photo spots of Mt. Fuji][mt.fuji photo spots]{:target="_blank"}
+[3 days in Kawaguchiko: The best photo spots of Mt. Fuji][mt. fuji photo spots]{:target="_blank"}
 
 [7 days in Kyoto: Our complete Kyoto itinerary][kyoto itinerary]{:target="_blank"}
 

@@ -176,7 +176,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Snowboarding in Japan: Our experiences of ski resort Ishiuchi Maruyama][snowboarding japan]{:target="_blank"}
 
-[3 days in Kawaguchiko: The best photo spots of Mt. Fuji][mt.fuji photo spots]{:target="_blank"}
+[3 days in Kawaguchiko: The best photo spots of Mt. Fuji][mt. fuji photo spots]{:target="_blank"}
 
 [tokyo itinerary]: https://kipamojo.world/japan/7-days-in-Tokyo-Our-complete-Tokyo-itinerary/
 [snowboarding japan]: https://kipamojo.world/japan/Snowboarding-in-Japan-Our-experiences-of-ski-resort-Ishiuchi-Maruyama/
