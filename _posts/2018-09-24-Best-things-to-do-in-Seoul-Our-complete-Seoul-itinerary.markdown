@@ -11,7 +11,7 @@ banner: "assets/img/seoul-itinerary-banner-large.jpg"
 alt: "View over Seoul from Namsan Park"
 ---
 
-After the Olympics in Pyeongchang, we stayed in Seoul for a full week. We had a very good night, morning and afternoon rest (we were so exhausted) and headed out for some exploring. 
+In the winter of 2018, we stayed in Seoul for one week. We had a few things planned that week in Seoul, including some unique things like attending an esports event. Read on to find out about the best things to do in Seoul! 
 
 ## N Seoul Tower
 
@@ -37,13 +37,13 @@ Daily: 9:00-17:00/18:00 (depending on the time of the year)
 
 Bukchon Hanok Village is a traditional Korean neighborhood and is close to Gyeongbokgung, which makes it easy to combine a visit to both places. The neighborhood is full of traditional Korean houses and it’s very nice to walk through the narrow streets. You’ll also see many people in traditional Korean clothing: Hanok. 
 
-{% include img-center.html path="/assets/img/...jpg" alt="..." %}
+{% include img-center.html path="/assets/img/seoul-bukchon-hanok-village.jpg" alt="Bukchon Hanok Village in Seoul, Korea" %}
 
 ## Cheonggycheon
 
 As part of an urban renewal project completed in 2005 the Cheonggycheon stream, which was almost completely left dry, was restored. Cheonggycheon is a very popular place to stroll around with both tourists and locals. Even though you’re in the middle of a bustling city, walking along the stream is very calming. We actually knew this place from a scene in the Netflix series Sense 8. 
 
-{% include img-center.html path="/assets/img/...jpg" alt="..." %}
+{% include img-center.html path="/assets/img/seoul-cheonggycheon.jpg" alt="Cheonggycheon stream in Seoul, Korea" %}
 
 ## Shopping in Seoul 
 
@@ -65,15 +65,21 @@ Besides visiting the sights, we also wandered around some of the neighborhoods o
 
 ## Yongma Land
 
-{% include img-center.html path="/assets/img/...jpg" alt="..." %}
+Just outside the city center of Seoul, you'll find the abandoned theme park Yongma Land. As we had never been to an abandoned theme park before, we were dying to go! Our main reason for our visit to Yongma Land was to take some amazing and unique photos. Taking photos is one of the main things to do there, as the rides obviously don't work anymore. Read all the information about [our visit to Yongma Land and how to get there in our dedicated blog post][yongma land]{:target="_blank"}. 
+
+{% include img-center.html path="/assets/img/seoul-yongma-land.jpg" alt="Yongma Land in Seoul, Korea" %}
 
 ## Esports
 
-{% include img-center.html path="/assets/img/...jpg" alt="..." %}
+Esports are huge in Korea and there is always lots going on in the field of esports in Seoul. We were dying to see the esports buzz for ourselves and went looking if there was an esports event we could attend while we were in Seoul. Luckily for us, the League of Legends Champions Korea (LCK) Spring 2018 league was going on at our time of visit and we got tickets for match 44 of the league. Read everything about [gathering information and getting tickets for esports matches in Seoul in our dedicated blog post][esports seoul]{:target="_blank"}. 
+
+{% include img-center.html path="/assets/img/seoul-korea-esports-1.jpg" alt="LoL Esports in Seoul, Korea" %}
 
 ## Instagrammable cafes 
 
-{% include img-center.html path="/assets/img/...jpg" alt="..." %}
+Seoul is home to many cute and Instagrammable cafes and, as Mika really loves them, we decided to check a few out. Of course, we didn't have time to see all the Instagrammable cafes Seoul has to offer, so we saved a few for our next visit. Read about [the Instagrammable cafes in Seoul we visited and the ones we still want to visit in our dedicated blog post][seoul cafes]{:target="_blank"}. 
+
+{% include img-center.html path="/assets/img/seoul-instagrammable-cafe-dore-dore-food.jpg" alt="Rainbow cake at Instagrammable café Doré Doré in Seoul, Korea" %}
 
 ## Getting around Seoul 
 
@@ -87,7 +93,18 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Korea][korea]{:target="_blank"}
 
+[The Pyeongchang Winter Olympics 2018: Our experiences][winter olympics]{:target="_blank"}
 
+[Café hopping in Seoul: Seoul's most Instagrammable cafés][seoul cafes]{:target="_blank"}
+
+[Visiting Yongma Land: Everything you need to know about visiting Seoul's abandoned theme park][yongma land]{:target="_blank"}
+
+[Esports in Seoul: Everything you need to know about attending an esports event][esports seoul]{:target="_blank"}
+
+[winter olympics]: https://kipamojo.world/korea/The-Pyeongchang-Winter-Olympics-2018-Our-experiences/
+[seoul cafes]: https://kipamojo.world/korea/Cafe-hopping-in-Seoul-Seouls-most-Instagrammable-cafes/
+[yongma land]: https://kipamojo.world/korea/Visiting-Yongma-Land-Everything-you-need-to-know-about-visiting-Seouls-abandoned-theme-park/
+[esports seoul]: https://kipamojo.world/korea/Esports-in-Seoul-Everything-you-need-to-know-about-attending-an-esports-event/
 
 [korea]: https://kipamojo.world/tags.html#korea 
 

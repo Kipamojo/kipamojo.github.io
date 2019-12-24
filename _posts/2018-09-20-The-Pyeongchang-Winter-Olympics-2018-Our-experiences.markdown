@@ -73,7 +73,18 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Korea][korea]{:target="_blank"}
 
+[Best things to do in Seoul: Our complete Seoul itinerary][seoul itinerary]{:target="_blank"}
 
+[Café hopping in Seoul: Seoul's most Instagrammable cafés][seoul cafes]{:target="_blank"}
+
+[Visiting Yongma Land: Everything you need to know about visiting Seoul's abandoned theme park][yongma land]{:target="_blank"}
+
+[Esports in Seoul: Everything you need to know about attending an esports event][esports seoul]{:target="_blank"}
+
+[seoul itinerary]: https://kipamojo.world/korea/Best-things-to-do-in-Seoul-Our-complete-Seoul-itinerary/
+[seoul cafes]: https://kipamojo.world/korea/Cafe-hopping-in-Seoul-Seouls-most-Instagrammable-cafes/
+[yongma land]: https://kipamojo.world/korea/Visiting-Yongma-Land-Everything-you-need-to-know-about-visiting-Seouls-abandoned-theme-park/
+[esports seoul]: https://kipamojo.world/korea/Esports-in-Seoul-Everything-you-need-to-know-about-attending-an-esports-event/
 
 [korea]: https://kipamojo.world/tags.html#korea 
 
