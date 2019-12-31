@@ -124,7 +124,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [10 Most Instagrammable places in Brisbane][instagram brisbane]{:target="_blank"}
 
-[instagram brisbane]:  
+[instagram brisbane]: https://kipamojo.world/australia/10-Most-Instagrammable-places-in-Brisbane/ 
 
 [australia]: https://kipamojo.world/tags#australia  
 

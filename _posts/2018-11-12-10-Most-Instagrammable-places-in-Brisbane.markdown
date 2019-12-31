@@ -87,7 +87,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Things to do in Brisbane: Our 4-day itinerary][brisbane itinerary]{:target="_blank"}
 
-[brisbane itinerary]: 
+[brisbane itinerary]: https://kipamojo.world/2018/11/05/Things-to-do-in-Brisbane-Our-4-days-itinerary.html 
 
 [australia]: https://kipamojo.world/tags#australia  
 
