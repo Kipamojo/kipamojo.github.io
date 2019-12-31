@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5 places to eat on a budget in Sydney"
+title:  "5 places to eat in Sydney on a budget"
 date:   2018-11-26 12:00:00 +0100
 categories: [Australia]
 tags:
