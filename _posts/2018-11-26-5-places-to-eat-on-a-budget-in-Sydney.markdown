@@ -64,6 +64,6 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 [australia]: https://kipamojo.world/tags.html#australia
 [brisbane itinerary]: https://kipamojo.world/australia/Things-to-do-in-Brisbane-Our-4-days-itinerary/ 
 [instagrammable brisbane]: https://kipamojo.world/australia/10-Most-Instagrammable-places-in-Brisbane/ 
-[sydney itinerary]: 
+[sydney itinerary]: https://kipamojo.world/australia/Free-things-to-do-in-Sydney-Our-7-favorite-places/ 
 
 [instagram]: https://instagram.com/kipamojo 
