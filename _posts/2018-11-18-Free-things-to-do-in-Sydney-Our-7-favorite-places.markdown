@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Our 7 favorite places to visit in Sydney: Free things to do in Sydney"
+title:  "Free things to do in Sydney: Our 7 favorite places"
 date:   2018-11-18 20:00:00 +0100
 categories: [Australia]
 tags:
@@ -79,7 +79,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Things to do in Brisbane: Our 4-day itinerary][brisbane itinerary]{:target="_blank"}
 
-[10 Instagrammable places in Brisbane][instagrammable brisbane]{:target="_blank"}
+[10 Most Instagrammable places in Brisbane][instagrammable brisbane]{:target="_blank"}
 
 
 
