@@ -57,13 +57,19 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Things to do in Brisbane: Our 4-day itinerary][brisbane itinerary]{:target="_blank"}
 
-[10 Most Instagrammable places in Brisbane][instagrammable brisbane]{:target="_blank"}
+[10 Most Instagrammable places in Brisbane][brisbane instagram]{:target="_blank"}
 
 [Free things to do in Sydney: Our 7 favorite places][sydney itinerary]{:target="_blank"}
 
-[australia]: https://kipamojo.world/tags.html#australia
-[brisbane itinerary]: https://kipamojo.world/australia/Things-to-do-in-Brisbane-Our-4-days-itinerary/ 
-[instagrammable brisbane]: https://kipamojo.world/australia/10-Most-Instagrammable-places-in-Brisbane/ 
-[sydney itinerary]: https://kipamojo.world/australia/Free-things-to-do-in-Sydney-Our-7-favorite-places/ 
+[Best photo spots of the Sydney Opera House - including mapped locations][photo spots opera house]{:target="_blank"}
 
+[Things to do in and around Bondi Beach][bondi beach]{:target="_blank"}
+
+[brisbane itinerary]: https://kipamojo.world/australia/Things-to-do-in-Brisbane-Our-4-days-itinerary/ 
+[brisbane instagram]: https://kipamojo.world/australia/10-Most-Instagrammable-places-in-Brisbane/ 
+[sydney itinerary]: https://kipamojo.world/australia/Free-things-to-do-in-Sydney-Our-7-favorite-places/ 
+[photo spots opera house]: https://kipamojo.world/australia/Best-photo-spots-of-the-Sydney-Opera-House/
+[bondi beach]: https://kipamojo.world/australia/Things-to-do-in-and-around-Bondi-Beach/ 
+
+[australia]: https://kipamojo.world/tags.html#australia
 [instagram]: https://instagram.com/kipamojo 
