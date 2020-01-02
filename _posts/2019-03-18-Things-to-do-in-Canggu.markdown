@@ -35,17 +35,17 @@ We stayed close to [Echo Beach][echo beach]{:target="_blank"} in Canggu, but we 
 
 If you’re based in Canggu for your entire Bali trip, you could also rent a scooter and drive to the beautiful spots on the island. As we already did quite some sightseeing while we were staying in [Ubud][ubud]{:target="_blank"} and [Nusa Penida][nusa penida]{:target="_blank"}, we didn’t feel like renting a scooter and driving around even more. Instead, we just relaxed during our stay in Canggu. Click [here to read our things to do in Ubud][things ubud]{:target="_blank"} post for some sightseeing suggestions in Bali. These places are all reachable from Canggu, but it will take you a bit longer. 
 
-{% include img-center.html path="/assets/img/ubud-tegallalang-rice-terrace-2.jpg" alt="Tegallalang rice terraces in Ubud, Bali, Indonesia" %}
+{% include img-center.html path="/assets/img/bali-ubud-tegallalang-rice-terrace-2.jpg" alt="Tegallalang rice terraces in Ubud, Bali, Indonesia" %}
 
 ## Island (day) trips
 
 Bali’s surrounding islands are absolutely worth a visit. It’s possible to get to these islands on a day trip but considering staying a few days = on an island is also worth it. If you want to go on a day trip, it’s best to hire a driver who will pick you up from your hotel in Canggu and will drive you around the island once you get there. You can organize these trips at your hotel or at one of the tourist information huts on the street.
 
-{% include img-center.html path="/assets/img/nusa-penida-jetty-1.jpg" alt="Our arrival jetty in Nusa Penida, Bali, Indonesia" %}
+{% include img-center.html path="/assets/img/bali-nusa-penida-jetty-1.jpg" alt="Our arrival jetty in Nusa Penida, Bali, Indonesia" %}
 
 We spent a few days on the island of Nusa Penida and we can absolutely recommend going there! Click [here to read about the things to do and see in Nusa Penida][things nusa penida]{:target="_blank"}. 
 
-{% include img-center.html path="/assets/img/nusa-penida-dinosaur-head-1.jpg" alt="Dinosaur Head Cliff in Nusa Penida, Bali, Indonesia" %}
+{% include img-center.html path="/assets/img/bali-nusa-penida-dinosaur-head-kelingking-beach-1.jpg" alt="Dinosaur Head Cliff in Nusa Penida, Bali, Indonesia" %}
 
 ## How to get around Canggu
 
