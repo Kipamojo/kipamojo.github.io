@@ -91,7 +91,20 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Indonesia][indonesia]{:target="_blank"}
 
+[Things to do in Ubud, Bali: Most Instagrammable places in and around Ubud][things ubud]{:target="_blank"}
 
+[Best things to do in Nusa Penida - Including the most Instagrammable places in Nusa Penida][things nusa penida]{:target="_blank"}
+
+[Where to eat in Nusa Penida: 5 local places to eat in Nusa Penida][eat nusa penida]{:target="_blank"}
+
+[How to get to Nusa Penida and where to stay in Nusa Penida][stay nusa penida]{:target="_blank"}
+
+
+
+[things ubud]: https://kipamojo.world/indonesia/Things-to-do-in-Ubud-Bali-Most-Instagrammable-places-in-and-around-Ubud/ 
+[things nusa penida]: https://kipamojo.world/indonesia/Best-things-to-do-in-Nusa-Penida-Including-the-most-Instagrammable-places-in-Nusa-Penida/ 
+[eat nusa penida]: https://kipamojo.world/indonesia/Where-to-eat-in-Nusa-Penida-5-local-places-to-eat-in-Nusa-Penida/ 
+[stay nusa penida]: https://kipamojo.world/indonesia/How-to-get-to-Nusa-Penida-and-where-to-stay-in-Nusa-Penida/ 
 
 [instagram]: https://instagram.com/kipamojo 
 [indonesia]: https://kipamojo.world/tags.html#indonesia
