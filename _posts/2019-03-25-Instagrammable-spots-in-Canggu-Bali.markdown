@@ -25,7 +25,7 @@ One of our favorite spots is the pink garage door at the [Les Basics][les basics
  
 [Mad Pops][mad pops]{:target="_blank"} is a well-known spot in Bali among Instagrammers. Their neon-signed walls together with their colorful ice cream are the perfect combination for an Instagram photo. Pose in front of the wall with your scoops or get a close-up of your ice cream with the neon sign in the background.
 
-{% include embed-instagram-nocaption.html id="Bu-q03El4CV" maxwidth=400 %}
+{% include img-center.html path="/assets/img/canggu-eat-mad-pops.jpg" alt="Ice cream at Mad Pops in Canggu, Bali, Indonesia" %}
  
 ## Paletas Wey
  
