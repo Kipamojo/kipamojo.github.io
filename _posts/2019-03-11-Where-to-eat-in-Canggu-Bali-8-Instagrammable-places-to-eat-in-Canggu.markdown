@@ -15,7 +15,7 @@ Canggu truly is a foodie’s paradise. Wandering through the streets, you’ll s
  
 ## Monsieur Spoon
  
-[Monsieur Spoon][monsieur spoon]{:target="_blank"} is a French bakery and quickly became our favorite breakfast spot in Canggu. After traveling through Asia for so long, we were so happy to find French bakeries in Bali ([read about the French bakery in Ubud here][ubud eat]{:target="_blank"}). We missed freshly baked bread so much and Monsieur Spoon was the perfect place for our fresh bread fix. They serve delicious smoothies and yoghurt bowls as well. And let’s not forget their croissants and pain au chocolats, so good! We didn’t try their cakes and pies but they looked very yummy too. We came back here multiple times for breakfast. Monsieur Spoon has a large outdoor seating area, which looks very nice. The way the food is served looks great too, which makes Monsieur Spoon the perfect place to take your Instagram photos. 
+[Monsieur Spoon][monsieur spoon]{:target="_blank"} is a French bakery and quickly became our favorite breakfast spot in Canggu. After traveling through Asia for so long, we were so happy to find French bakeries in Bali ([read about the French bakery in Ubud here][eat ubud]{:target="_blank"}). We missed freshly baked bread so much and Monsieur Spoon was the perfect place for our fresh bread fix. They serve delicious smoothies and yoghurt bowls as well. And let’s not forget their croissants and pain au chocolats, so good! We didn’t try their cakes and pies but they looked very yummy too. We came back here multiple times for breakfast. Monsieur Spoon has a large outdoor seating area, which looks very nice. The way the food is served looks great too, which makes Monsieur Spoon the perfect place to take your Instagram photos. 
 
 {% include img-center.html path="/assets/img/bali-canggu-eat-monsieur-spoon-instagrammable-cafe.jpg" alt="Breakfast at Monsieur Spoon, an Instagrammable café in Canggu, Bali, Indonesia" %}
  
@@ -81,10 +81,28 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Indonesia][indonesia]{:target="_blank"}
 
+[Where to eat in Ubud, Bali: Reviewing 10 places to eat in Ubud][eat ubud]{:target="_blank"}
 
+[Things to do in Ubud, Bali: Most Instagrammable places in and around Ubud][things ubud]{:target="_blank"}
 
-[ubud eat]: 
-[things ubud]: 
+[Best things to do in Nusa Penida - Including the most Instagrammable places in Nusa Penida][things nusa penida]{:target="_blank"}
+
+[Where to eat in Nusa Penida: 5 local places to eat in Nusa Penida][eat nusa penida]{:target="_blank"}
+
+[How to get to Nusa Penida and where to stay in Nusa Penida][stay nusa penida]{:target="_blank"}
+
+[5 best things to do in and around Canggu, Bali][things canggu]{:target="_blank"}
+
+[7 fun Instagrammable places in Canggu, Bali][instagrammable places canggu]{:target="_blank"}
+
+[things canggu]: https://kipamojo.world/indonesia/5-best-things-to-do-in-and-around-Canggu-Bali/ 
+[instagrammable places canggu]: https://kipamojo.world/indonesia/7-fun-Instagrammable-places-in-Canggu-Bali/ 
+[eat ubud]: https://kipamojo.world/indonesia/Where-to-eat-in-Ubud-Bali-Reviewing-10-places-to-eat-in-Ubud/ 
+[things ubud]: https://kipamojo.world/indonesia/Things-to-do-in-Ubud-Bali-Most-Instagrammable-places-in-and-around-Ubud/ 
+[things nusa penida]: https://kipamojo.world/indonesia/Best-things-to-do-in-Nusa-Penida-Including-the-most-Instagrammable-places-in-Nusa-Penida/ 
+[eat nusa penida]: https://kipamojo.world/indonesia/Where-to-eat-in-Nusa-Penida-5-local-places-to-eat-in-Nusa-Penida/ 
+[stay nusa penida]: https://kipamojo.world/indonesia/How-to-get-to-Nusa-Penida-and-where-to-stay-in-Nusa-Penida/ 
+
 
 [indonesia]: https://kipamojo.world/tags.html#indonesia
 [instagram]: https://instagram.com/kipamojo 
