@@ -125,8 +125,15 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [How to get to Nusa Penida and where to stay in Nusa Penida][stay nusa penida]{:target="_blank"}
 
+[Where to eat in Canggu, Bali: 8 Instagrammable places to eat in Canggu][eat canggu]{:target="_blank"}
 
+[5 best things to do in and around Canggu, Bali][things canggu]{:target="_blank"}
 
+[7 fun Instagrammable places in Canggu, Bali][instagrammable places canggu]{:target="_blank"}
+
+[eat canggu]: https://kipamojo.world/indonesia/Where-to-eat-in-Canggu-Bali-8-Instagrammable-places-to-eat-in-Canggu/ 
+[things canggu]: https://kipamojo.world/indonesia/5-best-things-to-do-in-and-around-Canggu-Bali/ 
+[instagrammable places canggu]: https://kipamojo.world/indonesia/7-fun-Instagrammable-places-in-Canggu-Bali/ 
 [eat ubud]: https://kipamojo.world/indonesia/Where-to-eat-in-Ubud-Bali-Reviewing-10-places-to-eat-in-Ubud/ 
 [things ubud]: https://kipamojo.world/indonesia/Things-to-do-in-Ubud-Bali-Most-Instagrammable-places-in-and-around-Ubud/ 
 [eat nusa penida]: https://kipamojo.world/indonesia/Where-to-eat-in-Nusa-Penida-5-local-places-to-eat-in-Nusa-Penida/ 
