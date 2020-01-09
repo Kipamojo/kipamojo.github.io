@@ -31,7 +31,7 @@ You can find the best tulip fields in Creil and the surrounding villages. They a
  
 ### By car
  
-The tulip fields in Flevoland are best reached by car. The drive from Amsterdam to Creil takes about 1 hour and 15 minutes. Creil is close to the A6 highway. To see as many tulip fields as possible, we’d recommend driving north along the N712. If you turn at every corner, you can exactly drive around the fields. 
+The tulip fields in Flevoland are best reached by car. The drive from Amsterdam to Creil takes about 1 hour and 15 minutes. Creil is close to the A6 highway. To see as many tulip fields as possible, we’d recommend driving north along the N712. Turning at every corner takes you around all the fields! 
  
 ### By public transport
  
