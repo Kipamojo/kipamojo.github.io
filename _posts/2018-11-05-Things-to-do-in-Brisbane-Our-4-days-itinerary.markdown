@@ -122,7 +122,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [Australia][australia]{:target="_blank"}
 
-[10 Most Instagrammable places in Brisbane][brisbane instagram]{:target="_blank"}
+[10 Most Instagrammable places in Brisbane][instagram brisbane]{:target="_blank"}
 
 [Free things to do in Sydney: Our 7 favorite places][sydney itinerary]{:target="_blank"}
 
