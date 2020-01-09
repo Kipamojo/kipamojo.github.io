@@ -132,7 +132,7 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Things to do in and around Bondi Beach][bondi beach]{:target="_blank"}
 
-[brisbane instagram]: https://kipamojo.world/australia/10-Most-Instagrammable-places-in-Brisbane/ 
+[instagram brisbane]: https://kipamojo.world/australia/10-Most-Instagrammable-places-in-Brisbane/ 
 [sydney itinerary]: https://kipamojo.world/australia/Free-things-to-do-in-Sydney-Our-7-favorite-places/ 
 [sydney eat]: https://kipamojo.world/australia/5-places-to-eat-in-Sydney-on-a-budget/ 
 [photo spots opera house]: https://kipamojo.world/australia/Best-photo-spots-of-the-Sydney-Opera-House/
