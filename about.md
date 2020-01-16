@@ -14,6 +14,14 @@ Make sure to follow us on [Instagram][instagram]{:target="_blank"} for daily tra
 
 For business, press or collaboration enquiries please send an email to [kipamojo@gmail.com][email]{:target="_blank"}. 
 
+### Featured Articles
+
+[Travel Couple Inspiration: The Journeys of Joop & Mika - Magnificentworld.com][magnificent world]{:target="_blank"}
+
+[Why We Love Madrid - Travelcommunity.co][travelcommunity]{:target="_blank"}
+
+[magnificent world]: https://www.magnificentworld.com/travel-couple-inspiration-joop-mika/ 
+[travelcommunity]: https://travelcommunity.co/why-we-love-madrid/ 
 [instagram]: https://instagram.com/kipamojo
 [email]: mailto:kipamojo@gmail.com
 
