@@ -117,4 +117,4 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 
 [instagram]: https://instagram.com/kipamojo 
-[france]: 
+[france]: https://kipamojo.world/tags#france 
