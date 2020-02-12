@@ -51,7 +51,7 @@ In the center of the district you’ll find the Église Saint-Louis-des-Chartron
  
 All the historical buildings make for good backgrounds on photos. You’ll stumble upon many beautiful photo spots while wandering around the city. 
 
-[Read more about the best instagrammable places in Bordeaux.}[instagram bordeaux]{:target="_blank"}
+[Read more about the best instagrammable places in Bordeaux.][instagram bordeaux]{:target="_blank"}
  
 {% include img-center.html path="/assets/img/france-bordeaux-instagram-carrousel.jpg" alt="Instagrammable carrousel in Bordeaux, France" %}
 
