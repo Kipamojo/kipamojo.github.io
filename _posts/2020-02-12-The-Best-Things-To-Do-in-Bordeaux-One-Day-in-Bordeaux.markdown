@@ -11,7 +11,7 @@ banner: "assets/img/france-bordeaux-grand-theatre-banner-large.jpg"
 alt: "The Grand Theatre in Bourdeaux, France"
 ---
  
-We always visit Bordeaux during our summer holiday in Montalivet-les-Bains (LINK) and it quickly became one of our favorite cities in France. Bordeaux is famous for its wine, but luckily, as non-wine drinkers, the city has more to offer besides wine. Bordeaux is a beautiful city with many stunning 18th century buildings. There are lots of monuments to admire, 362 to be precise, and it’s really worth wandering around the historical city center. In this blog post, we’re sharing all the things to do in Bordeaux!
+We always visit Bordeaux during our summer holiday in Montalivet-les-Bains and it quickly became one of our favorite cities in France. Bordeaux is famous for its wine, but luckily, as non-wine drinkers, the city has more to offer besides wine. Bordeaux is a beautiful city with many stunning 18th century buildings. There are lots of monuments to admire, 362 to be precise, and it’s really worth wandering around the historical city center. In this blog post, we’re sharing all the things to do in Bordeaux!
  
 ## Sightseeing in Bordeaux
  
@@ -94,7 +94,7 @@ Bordeaux is well-connected to many French cities. There’s a high speed connect
  
 ### By car
 
-If you’re staying not too far away from Bordeaux, you can also consider visiting the city by car. We always visit Bordeaux while we’re on summer holiday at the Atlantic Coast (LINK) and drive almost 2 hours south east to Bordeaux.
+If you’re staying not too far away from Bordeaux, you can also consider visiting the city by car. We always visit Bordeaux while we’re on summer holiday at the Atlantic Coast and drive almost 2 hours south east to Bordeaux.
  
 #### Parking in Bordeaux
 
