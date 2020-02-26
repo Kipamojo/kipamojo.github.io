@@ -107,7 +107,7 @@ The shuttle bus drives daily from 10 July to 25 August from 09.00-13.00 and from
  
 ## Dune du Pilat
  
-Dune du Pilat is the highest sand dune in Europe and is absolutely a must-visit if you’re in the area. Watching the sunset from the top of the dune is truly magical. The views are stunning and the dune landscape is out of this world. We would really recommend going there during sunset. Bring some drinks and food and you’ll have the perfect evening! …Read more about Dune du Pilat in this blogpost… LINK
+Dune du Pilat is the highest sand dune in Europe and is absolutely a must-visit if you’re in the area. Watching the sunset from the top of the dune is truly magical. The views are stunning and the dune landscape is out of this world. We would really recommend going there during sunset. Bring some drinks and food and you’ll have the perfect evening! [Read more about Dune du Pilat in this blog post][dune du pilat]{:target="_blank"}. 
 
 {% include img-center.html path="/assets/img/france-dune-du-pilat-5.jpg" alt="Dune du Pilat, Arcachon Bay, South West France" %}
 
@@ -137,7 +137,18 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [France][france]{:target="_blank"}
 
+[10 Historical Sights You Can't Miss When Visiting Bordeaux][historical bordeaux]{:target="_blank"}
 
+[The Most Instagrammable Places in Bordeaux][insta bordeaux]{:target="_blank"}
+
+[The Best Things To Do in Bordeaux: One Day in Bordeaux][things to do bordeaux]{:target="_blank"}
+
+[Dune du Pilat: A Bucket List Destination in France][dune du pilat]{:target="_blank"}
+
+[historical bordeaux]: https://kipamojo.world/france/Historical-Sights-You-Cant-Miss-When-Visiting-Bordeaux/ 
+[insta bordeaux]: https://kipamojo.world/france/The-Most-Instagrammable-Places-in-Bordeaux/ 
+[things to do bordeaux]: https://kipamojo.world/france/The-Best-Things-To-Do-in-Bordeaux-One-Day-in-Bordeaux/ 
+[dune du pilat]: https://kipamojo.world/france/Dune-du-Pilat-A-Bucket-List-Destination-in-France/
 
 [instagram]: https://instagram.com/kipamojo 
 [france]: https://kipamojo.world/tags#france 
