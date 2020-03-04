@@ -42,7 +42,12 @@ The weather on the French West Coast can be stormy, even during summer. Even tho
 ### Bordeaux
 
 Our favorite thing to do when the weather is bad in Montalivet is drive to Bordeaux. Bordeaux is a two-hour drive and the weather is often completely different (less rain, at least). Bordeaux is a beautiful historic city with lots of things to see. 
-…*Click here for our blog posts about Bordeaux LINKS*…
+
+[10 Historical Sights You Can't Miss When Visiting Bordeaux][historical bordeaux]{:target="_blank"}
+
+[The Most Instagrammable Places in Bordeaux][instagram bordeaux]{:target="_blank"}
+
+[The Best Things to Do in Bordeaux][things bordeaux]{:target="_blank"}
 
 {% include img-center.html path="/assets/img/france-bordeaux-miroir-deau-2.jpg" alt="Miroir d'Eau in Bordeaux, France" %}
 
@@ -81,14 +86,16 @@ Hourtin Lake (or Lac d’Hourtin) is a lake in the Aquitaine region. The village
 ### Arcachon Bay
 
 Arcachon Bay (or Bassin d’Arcachon) is a huge saltwater lake connected to the Atlantic Ocean and is well-known for its oysters. The drive from Montalivet to Arcachon is a little less than 2 hours. The lake is surrounded by many pretty villages of which some are definitely worth checking out. It’s the perfect place for a day trip filled with activities. Consider spending a few days at the lake as there is so much to explore. 
-…*You can read all about Bassin d’Arcachon in this post LINK*…
+
+[Things to Do in Arcachon Bay: A One-Day Itinerary][things arcachon]{:target="_blank"}
 
 {% include img-center.html path="/assets/img/france-arcachon-observatoire-sainte-cecile-3.jpg" alt="Arcachon Bay from the Observatoire Sante Cecile in Arcachon, France" %}
 
 ### Dune du Pilat
 
 We saved the best for last. Dune du Pilat is an absolute must visit if you’re going to Montalivet or anywhere else in the Aquitaine region. Even though it’s not around the corner (it’s a nearly 2-hour drive), it’s so worth it. Dune du Pilat is the highest dune in Europe and it’s a unique place. If you're able to, you should go there for sunset. Bring your own drinks and snacks for a perfect evening. 
-…*Read all about Dune du Pilat in this post LINK*…
+
+[Dune du Pilat: A Bucket List Destination in France][dune du pilat]{:target="_blank"}
 
 {% include img-center.html path="/assets/img/france-dune-du-pilat-6.jpg" alt="Dune du Pilat in France" %}
 
@@ -149,7 +156,21 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 ## More [France][france]{:target="_blank"}
 
+[10 Historical Sights You Can't Miss When Visiting Bordeaux][historical bordeaux]{:target="_blank"}
 
+[The Most Instagrammable Places in Bordeaux][instagram bordeaux]{:target="_blank"}
+
+[The Best Things to Do in Bordeaux][things bordeaux]{:target="_blank"}
+
+[Things to Do in Arcachon Bay: A One-Day Itinerary][things arcachon]{:target="_blank"}
+
+[Dune du Pilat: A Bucket List Destination in France][dune du pilat]{:target="_blank"}
+
+[historical bordeaux]: https://kipamojo.world/france/Historical-Sights-You-Cant-Miss-When-Visiting-Bordeaux/
+[instagram bordeaux]: https://kipamojo.world/france/The-Most-Instagrammable-Places-in-Bordeaux/
+[things bordeaux]: https://kipamojo.world/france/The-Best-Things-To-Do-in-Bordeaux-One-Day-in-Bordeaux/
+[things arcachon]: https://kipamojo.world/france/Things-To-Do-in-Arcachon-Bay-A-One-Day-Itinerary/ 
+[dune du pilat]: https://kipamojo.world/france/Dune-du-Pilat-A-Bucket-List-Destination-in-France/
 
 [instagram]: https://instagram.com/kipamojo 
 [france]: https://kipamojo.world/tags#france 
