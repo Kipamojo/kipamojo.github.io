@@ -41,7 +41,7 @@ The weather on the French West Coast can be stormy, even during summer. Even tho
  
 ### Bordeaux
 
-Our favorite thing to do when the weather is bad in Montalivet is drive to Bordeaux. Bordeaux is a two-hour drive and the weather is often completely different (less rain, at least). Bordeaux is a beautiful historic city with lots of things to see. 
+Our favorite thing to do when the weather is bad in Montalivet is drive to Bordeaux. Bordeaux is less than a two-hour drive and the weather is often completely different (less rain, at least). Bordeaux is a beautiful historic city with lots of things to see. 
 
 [10 Historical Sights You Can't Miss When Visiting Bordeaux][historical bordeaux]{:target="_blank"}
 
