@@ -16,10 +16,13 @@ For business, press or collaboration enquiries please send an email to [kipamojo
 
 ### Featured Articles
 
+[De Volgers van Reizen & Reistips: Joop & Mika (Interview in Dutch)][reizenenreistips]{:target="_blank"}
+
 [Travel Couple Inspiration: The Journeys of Joop & Mika - Magnificentworld.com][magnificent world]{:target="_blank"}
 
 [Why We Love Madrid - Travelcommunity.co][travelcommunity]{:target="_blank"}
 
+[reizenenreistips]: https://www.reizen-en-reistips.nl/de-volgers-van-reizen-reistips-joop-en-mika/
 [magnificent world]: https://www.magnificentworld.com/travel-couple-inspiration-joop-mika/ 
 [travelcommunity]: https://travelcommunity.co/why-we-love-madrid/ 
 [instagram]: https://instagram.com/kipamojo
