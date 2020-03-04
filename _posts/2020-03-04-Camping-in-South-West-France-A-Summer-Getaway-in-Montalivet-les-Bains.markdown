@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Camping in South West France: A Summer Getaway in Montalivet-les-Bains"
-date:   2020-03-04 08:00:00 +0100
+date:   2020-03-04 07:00:00 +0100
 categories: [France]
 tags:
     - "France"
