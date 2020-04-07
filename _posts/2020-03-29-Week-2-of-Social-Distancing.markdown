@@ -63,9 +63,9 @@ Infections are still rising exponentially in the Netherlands. As of Sunday 29 Ma
 
 Overall, the second week of Social Distancing felt harder than the first week and that's also what I expected. I think it will get even harder in the upcoming weeks. Stay sane and stay safe, all! 
 
-Love, 
+Love,
 
-Mika 
+Mika
 
 Be sure to check out:
 - our daily life updates on [Instagram][instagram]{:target="_blank"}
