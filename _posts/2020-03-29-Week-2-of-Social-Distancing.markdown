@@ -88,4 +88,4 @@ Be sure to check out:
 [youtube video 3]: https://youtu.be/9Roy6cyNMdM 
 [week 1 sd]: https://kipamojo.world/netherlands/Week-1-of-Social-Distancing/
 
-[things to do self-isolation]: 
+[things to do self-isolation]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/

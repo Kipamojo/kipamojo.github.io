@@ -71,4 +71,4 @@ Be sure to check out:
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
 [kipamojo tiktok]: https://www.tiktok.com/@kipamojo 
 
-[things to do self-isolation]: 
+[things to do self-isolation]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
