@@ -4,7 +4,7 @@ title:  "Week 2 of Social Distancing"
 date:   2020-03-29 08:00:00 +0100
 categories: [Netherlands]
 tags:
-    - "The Netherlands"
+    - "Self-Isolation"
 permalink: /:categories/:title/
 image: "assets/img/kipamojo-dordrecht-home-week-2-sunset-banner.jpg"
 banner: "assets/img/kipamojo-dordrecht-home-week-2-sunset-banner-large.jpg"
@@ -72,10 +72,14 @@ Be sure to check out:
 - our [Stuck at Home vlog series on YouTube][kipamojo youtube]{:target="_blank"}
 - our [TikTok][kipamojo tiktok]{:target="_blank"}
 
-## More Personal Stories
+## More [Self-Isolation][self-isolation]{:target="_blank"}
 
 [Week 1 of Social Distancing][week 1 sd]{:target="_blank"}
 
+[Fun Things To Do at Home During Self-Isolation][things to do self-isolation]{:target="_blank"}
+
+
+[self-isolation]: https://kipamojo.world/tags.html#self-isolation 
 [instagram]: https://instagram.com/kipamojo 
 [precautions government]: https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/veelgestelde-vragen-over-de-aanpak-van-het-nieuwe-coronavirus-in-nederland 
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
@@ -83,3 +87,5 @@ Be sure to check out:
 [youtube video 2]: https://youtu.be/Hvxk9ZgFZDg 
 [youtube video 3]: https://youtu.be/9Roy6cyNMdM 
 [week 1 sd]: https://kipamojo.world/netherlands/Week-1-of-Social-Distancing/
+
+[things to do self-isolation]: 
