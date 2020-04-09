@@ -15,7 +15,7 @@ alt: "DIY Self-Isolation Board Game"
 
 Creating your own board game is a fun thing to do during self-isolation. It isn’t only fun to create the board game, but playing it with your quarantined roomies is just as fun (if not more). This blog post is a step-by-step guide to create your own board game. Check out our [DIY Board Game video][board game video]{:target="_blank"} for a visual guide. 
 
-VIDEO
+{% include youtube-video.html id="KH77Z_VqDUk" width="560" height="315" %}
 
 It’s a snake trail board game with drawing cards. On the drawing cards you will find different kinds of funny assignments. The assignments are all relevant to the current self-isolation situation. 
 
@@ -92,4 +92,4 @@ Don’t forget to check out our [YouTube video on how to create your own board g
 [instagram]: https://instagram.com/kipamojo 
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
 [kipamojo tiktok]: https://www.tiktok.com/@kipamojo 
-[board game video]: 
+[board game video]: https://youtu.be/KH77Z_VqDUk 
