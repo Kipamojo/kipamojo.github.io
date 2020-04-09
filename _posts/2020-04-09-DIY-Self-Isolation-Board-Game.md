@@ -27,6 +27,8 @@ What you need:
 - Scissors
 - Tape
 
+{% include img-center.html path="/assets/img/kipamojo-diy-board-game-4.jpg" alt="DIY Self-Isolation Board Game" %}
+
 ## The board
 
 Tape four sheets of paper together. I'm using thicker, colored paper, but you can use whatever kind of paper you have at home (yes, even paper from a notebook). Once the paper is taped together, turn it over. Use a pencil to draft the snake trail, if you make any mistakes you can still erase them. Draw a straight line every 4cm in the snake trail to create spaces. Write down ‘start’ at the first space and ‘end’ at the last space. Draw a question mark in every third space. Write ‘3 spaces forward’, ‘2 spaces back’, etc. in the blank spaces. You can mix things up. You can also leave some spaces blank, if you like to. 
@@ -38,6 +40,8 @@ Now the outline of the board is finished, you can make it look pretty with color
 ## The cards
 
 Grab four sheets of paper to create the cards. Fold the paper like this: 
+
+{% include img-center.html path="/assets/img/kipamojo-diy-board-game-5.jpg" alt="DIY Self-Isolation Board Game" %}
 
 Now you have eight rectangles. Cut along the folded lines to get eight cards from one sheet of paper. Do the same with the other three sheets of paper, so you will have 32 cards in total.
 
