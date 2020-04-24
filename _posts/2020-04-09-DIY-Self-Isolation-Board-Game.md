@@ -89,6 +89,8 @@ Don’t forget to check out our [YouTube video on how to create your own board g
 
 [Fun Things To Do at Home During Self-Isolation][things to do si]{:target="_blank"}
 
+[Flowers in Europe: Our Favorite Places to See Blossoms and Blooms][flowers europe]{:target="_blank"}
+
 [things to do si]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/ 
 [week 1 sd]: https://kipamojo.world/netherlands/Week-1-of-Social-Distancing/ 
 [week 2 sd]: https://kipamojo.world/netherlands/Week-2-of-Social-Distancing/ 
@@ -97,3 +99,4 @@ Don’t forget to check out our [YouTube video on how to create your own board g
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
 [kipamojo tiktok]: https://www.tiktok.com/@kipamojo 
 [board game video]: https://youtu.be/KH77Z_VqDUk 
+[flowers europe]: https://kipamojo.world/europe/Flowers-in-Europe-Our-Favorite-Places-to-See-Blossoms-and-Blooms/ 

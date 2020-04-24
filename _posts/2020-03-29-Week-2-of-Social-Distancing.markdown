@@ -78,6 +78,9 @@ Be sure to check out:
 
 [Fun Things To Do at Home During Self-Isolation][things to do self-isolation]{:target="_blank"}
 
+[Flowers in Europe: Our Favorite Places to See Blossoms and Blooms][flowers europe]{:target="_blank"}
+
+[How to Enjoy Spring From Home During Lockdown][spring lockdown]{:target="_blank"}
 
 [self-isolation]: https://kipamojo.world/tags.html#self-isolation 
 [instagram]: https://instagram.com/kipamojo 
@@ -87,5 +90,6 @@ Be sure to check out:
 [youtube video 2]: https://youtu.be/Hvxk9ZgFZDg 
 [youtube video 3]: https://youtu.be/9Roy6cyNMdM 
 [week 1 sd]: https://kipamojo.world/netherlands/Week-1-of-Social-Distancing/
-
 [things to do self-isolation]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
+[flowers europe]: https://kipamojo.world/europe/Flowers-in-Europe-Our-Favorite-Places-to-See-Blossoms-and-Blooms/ 
+[spring lockdown]: https://kipamojo.world/netherlands/How-to-Enjoy-Spring-From-Home-During-Lockdown/

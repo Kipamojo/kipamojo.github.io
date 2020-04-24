@@ -84,14 +84,13 @@ Be sure to check out:
 
 [Fun Things To Do at Home During Self-Isolation][things to do si]{:target="_blank"}
 
-[DIY Self-Isolation Board Game][diy board game]{:target="_blank"}
-
 [Flowers in Europe: Our Favorite Places to See Blossoms and Blooms][flowers europe]{:target="_blank"}
 
 [How to Enjoy Spring From Home During Lockdown][spring from home]{:target="_blank"}
 
+[Virtual Tour of the Tulip Fields in the Netherlands][virtual tulips]{:target="_blank"}
+
 [things to do si]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
-[diy board game]: https://kipamojo.world/netherlands/DIY-Self-Isolation-Board-Game/ 
 [flowers europe]: https://kipamojo.world/europe/Flowers-in-Europe-Our-Favorite-Places-to-See-Blossoms-and-Blooms/ 
 [spring from home]: https://kipamojo.world/netherlands/How-to-Enjoy-Spring-From-Home-During-Lockdown/ 
 [self-isolation]: https://kipamojo.world/tags.html#self-isolation 
@@ -99,3 +98,4 @@ Be sure to check out:
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
 [kipamojo tiktok]: https://www.tiktok.com/@kipamojo 
 
+[virtual tulips]: 

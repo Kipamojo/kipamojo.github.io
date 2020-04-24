@@ -15,6 +15,14 @@ alt: "Things To Do in Self-Isolation"
 
 Due to the social distancing precautions, everyone is spending way more time at home. There’s no need to get bored, because we created a list filled with fun things to do when stuck inside. These are perfect activities for having a good time while in self-isolation. 
 
+## DIY self-isolation board game
+
+We created our own self-isolation board game and you can do it too! It's very easy and so much fun to do. [In this step-by-guide we explain how you can create a board game yourself.][diy board game post]{:target="_blank"}  
+
+[Check out our video in which we create and play with our own board game.][diy board game video]{:target="_blank"}  
+
+{% include youtube-video.html id="KH77Z_VqDUk" width="560" height="315" %}
+
 ## Trying local snacks
 
 Whenever we travel, we love checking out foreign snacks that we've never seen before. Since travel isn't an option right now, why not check out the snacks section at your local supermarket. You're probably familiar with the typical snacks of your country, however, it's always fun to try out snacks. Why not pretend you're abroad and try out some "local" snacks, sweets and cookies you usually wouldn't buy!? 
@@ -67,6 +75,10 @@ Drawing is fun, and it's something everyone can learn with some practice. Watch 
 
 {% include img-center.html path="/assets/img/kipamojo-self-isolation-drawing.jpg" alt="Drawing in Self-Isolation" %}
 
+[Check out our speed drawing and photo editing video with our drawing tablet.][wacom video]{:target="_blank"} 
+
+{% include youtube-video.html id="tseIwfT4LUo" width="560" height="315" %}
+
 ## Read a book
 
 Being in self-isolation is the perfect time to get lost in a book. Just dedicate some time during the weekend to read. It's a great way to relax and to set your mind of the awful things that are happening in the world right now. 
@@ -92,9 +104,15 @@ Be sure to check out:
 
 [Week 2 of Social Distancing - Evaluating the past week and setting goals for the next][week 2 sd]{:target="_blank"}
 
+[Flowers in Europe: Our Favorite Places to See Blossoms and Blooms][flowers europe]{:target="_blank"}
+
+[How to Enjoy Spring From Home During Lockdown][spring lockdown]{:target="_blank"}
+
 [week 1 sd]: https://kipamojo.world/netherlands/Week-1-of-Social-Distancing/ 
 [week 2 sd]: https://kipamojo.world/netherlands/Week-2-of-Social-Distancing/ 
 [self-isolation]: https://kipamojo.world/tags.html#self-isolation 
+[flowers europe]: https://kipamojo.world/europe/Flowers-in-Europe-Our-Favorite-Places-to-See-Blossoms-and-Blooms/ 
+[spring lockdown]: https://kipamojo.world/netherlands/How-to-Enjoy-Spring-From-Home-During-Lockdown/
 [instagram]: https://instagram.com/kipamojo 
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
 [kipamojo tiktok]: https://www.tiktok.com/@kipamojo 
@@ -102,3 +120,6 @@ Be sure to check out:
 [instagram photos video]: https://youtu.be/Hvxk9ZgFZDg 
 [fort video]: https://youtu.be/9Roy6cyNMdM
 [dutch snacks video]: https://youtu.be/yIhu-gyuq_M 
+[diy board game post]: https://kipamojo.world/netherlands/DIY-Self-Isolation-Board-Game/
+[diy board game video]: https://youtu.be/KH77Z_VqDUk 
+[wacom video]: https://youtu.be/tseIwfT4LUo 

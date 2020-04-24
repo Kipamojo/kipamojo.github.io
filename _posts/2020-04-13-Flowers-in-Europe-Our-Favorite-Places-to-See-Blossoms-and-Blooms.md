@@ -177,18 +177,17 @@ Be sure to check out:
 
 ## More [Self-Isolation][self-isolation]{:target="_blank"}
 
-[Week 1 of Social Distancing - A Personal Story][week 1 sd]{:target="_blank"}
-
-[Week 2 of Social Distancing - Evaluating the past week and setting goals for the next][week 2 sd]{:target="_blank"}
-
 [Fun Things To Do at Home During Self-Isolation][things to do si]{:target="_blank"}
 
-[DIY Self-Isolation Board Game][diy board game]{:target="_blank"}
+[How to Enjoy Spring From Home During Lockdown][spring lockdown]{:target="_blank"}
 
-[week 1 sd]: https://kipamojo.world/netherlands/Week-1-of-Social-Distancing/ 
-[week 2 sd]: https://kipamojo.world/netherlands/Week-2-of-Social-Distancing/ 
+[Our Spring Photo Guide][spring photo guide]{:target="_blank"}
+
+[Virtual Tour of the Tulip Fields in the Netherlands][virtual tulips]{:target="_blank"}
+
 [things to do si]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
-[diy board game]: https://kipamojo.world/netherlands/DIY-Self-Isolation-Board-Game/ 
+[spring lockdown]: https://kipamojo.world/netherlands/How-to-Enjoy-Spring-From-Home-During-Lockdown/
+[spring photo guide]: https://kipamojo.world/netherlands/Our-Spring-Photo-Guide/
 [self-isolation]: https://kipamojo.world/tags.html#self-isolation 
 [instagram]: https://instagram.com/kipamojo 
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
@@ -197,3 +196,5 @@ Be sure to check out:
 [tulip fields lisse]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-tulip-fields-in-and-around-Lisse/ 
 [amsterdam forest]: https://kipamojo.world/netherlands/Visiting-the-cherry-blossoms-in-the-Amsterdam-Forest/ 
 [retiro park]: https://kipamojo.world/spain/A-Complete-Sightseeing-Guide-of-Retiro-Park-in-Madrid/ 
+
+[virtual tulips]: 

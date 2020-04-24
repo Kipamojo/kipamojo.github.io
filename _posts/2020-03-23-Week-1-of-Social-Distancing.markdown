@@ -63,12 +63,16 @@ Be sure to check out:
 
 [Fun Things To Do at Home During Self-Isolation][things to do self-isolation]{:target="_blank"}
 
-[week 2 sd]: https://kipamojo.world/netherlands/Week-2-of-Social-Distancing/ 
+[Flowers in Europe: Our Favorite Places to See Blossoms and Blooms][flowers europe]{:target="_blank"}
 
+[How to Enjoy Spring From Home During Lockdown][spring lockdown]{:target="_blank"}
+
+[week 2 sd]: https://kipamojo.world/netherlands/Week-2-of-Social-Distancing/ 
 [self-isolation]: https://kipamojo.world/tags.html#self-isolation 
 [instagram]: https://instagram.com/kipamojo 
 [precautions government]: https://www.rijksoverheid.nl/onderwerpen/coronavirus-covid-19/veelgestelde-vragen-over-de-aanpak-van-het-nieuwe-coronavirus-in-nederland 
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
 [kipamojo tiktok]: https://www.tiktok.com/@kipamojo 
-
 [things to do self-isolation]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
+[flowers europe]: https://kipamojo.world/europe/Flowers-in-Europe-Our-Favorite-Places-to-See-Blossoms-and-Blooms/ 
+[spring lockdown]: https://kipamojo.world/netherlands/How-to-Enjoy-Spring-From-Home-During-Lockdown/
