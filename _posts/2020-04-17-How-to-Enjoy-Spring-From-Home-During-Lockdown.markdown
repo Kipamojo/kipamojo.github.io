@@ -95,5 +95,4 @@ Be sure to check out:
 [instagram]: https://instagram.com/kipamojo 
 [kipamojo youtube]: https://www.youtube.com/channel/UC1k4_eUajFuNQSgSf1MiFXg 
 [kipamojo tiktok]: https://www.tiktok.com/@kipamojo 
-
-[virtual tulips]: 
+[virtual tulips]: https://kipamojo.world/netherlands/Virtual-Tour-of-the-Tulip-Fields-in-the-Netherlands/ 

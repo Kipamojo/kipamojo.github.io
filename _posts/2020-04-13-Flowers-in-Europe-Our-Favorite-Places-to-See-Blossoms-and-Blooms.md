@@ -196,5 +196,4 @@ Be sure to check out:
 [tulip fields lisse]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-tulip-fields-in-and-around-Lisse/ 
 [amsterdam forest]: https://kipamojo.world/netherlands/Visiting-the-cherry-blossoms-in-the-Amsterdam-Forest/ 
 [retiro park]: https://kipamojo.world/spain/A-Complete-Sightseeing-Guide-of-Retiro-Park-in-Madrid/ 
-
-[virtual tulips]: 
+[virtual tulips]: https://kipamojo.world/netherlands/Virtual-Tour-of-the-Tulip-Fields-in-the-Netherlands/ 
