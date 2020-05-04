@@ -175,6 +175,8 @@ Be sure to check out:
 - our [Stuck at Home vlog series on YouTube][kipamojo youtube]{:target="_blank"}
 - our [TikTok][kipamojo tiktok]{:target="_blank"}
 
+{% include embed-mailing-signup.html %}
+
 ## More [Self-Isolation][self-isolation]{:target="_blank"}
 
 [Fun Things To Do at Home During Self-Isolation][things to do si]{:target="_blank"}
