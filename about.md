@@ -14,6 +14,8 @@ Make sure to follow us on [Instagram][instagram]{:target="_blank"} for daily tra
 
 For business, press or collaboration enquiries please send an email to [kipamojo@gmail.com][email]{:target="_blank"}. 
 
+{% include embed-mailing-signup.html %}
+
 ### Featured Articles
 
 [Contribution to: Top Tips for Dealing with Social Isolation - A Single Step][asinglestep]{:target="_blank"}
