@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "10 Things We Love About Self-Isolation"
-date:   2020-05-04 09:00:00 +0100
+date:   2020-05-06 08:00:00 +0100
 categories: [Netherlands]
 tags:
     - "Self-Isolation"
