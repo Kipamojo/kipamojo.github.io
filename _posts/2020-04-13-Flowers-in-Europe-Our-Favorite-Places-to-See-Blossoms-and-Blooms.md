@@ -175,6 +175,8 @@ Be sure to check out:
 - our [Stuck at Home vlog series on YouTube][kipamojo youtube]{:target="_blank"}
 - our [TikTok][kipamojo tiktok]{:target="_blank"}
 
+{% include embed-mailing-signup.html %}
+
 ## More [Self-Isolation][self-isolation]{:target="_blank"}
 
 [Fun Things To Do at Home During Self-Isolation][things to do si]{:target="_blank"}
@@ -185,6 +187,9 @@ Be sure to check out:
 
 [Virtual Tour of the Tulip Fields in the Netherlands][virtual tulips]{:target="_blank"}
 
+[10 Things We Love About Self-Isolation][love si]{:target="_blank"}
+
+[love si]: https://kipamojo.world/netherlands/Things-We-Love-About-Self-Isolation/ 
 [things to do si]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
 [spring lockdown]: https://kipamojo.world/netherlands/How-to-Enjoy-Spring-From-Home-During-Lockdown/
 [spring photo guide]: https://kipamojo.world/netherlands/Our-Spring-Photo-Guide/

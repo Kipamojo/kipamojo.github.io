@@ -87,6 +87,8 @@ Clearly, there are enough themed cafés to visit in Bangkok. The only thing miss
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Thailand][thailand]{:target="_blank"}
 
 [Top 5 things to do in Bangkok: Bangkok's must-see attractions][top 5 bangkok]{:target="_blank"}

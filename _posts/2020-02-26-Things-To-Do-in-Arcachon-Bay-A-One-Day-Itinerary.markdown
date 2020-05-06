@@ -135,6 +135,8 @@ Have you ever been to Arcachon Bay or would you love to go there? Let us know in
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [France][france]{:target="_blank"}
 
 [10 Historical Sights You Can't Miss When Visiting Bordeaux][historical bordeaux]{:target="_blank"}
@@ -145,6 +147,12 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Dune du Pilat: A Bucket List Destination in France][dune du pilat]{:target="_blank"}
 
+[The Most Instagrammable Places in South West France][sw france insta]{:target="_blank"}
+
+[Camping in South West France: A Summer Getaway in Montalivet-les-Bain][camping sw france]{:target="_blank"}
+
+[camping sw france]: https://kipamojo.world/france/Camping-in-South-West-France-A-Summer-Getaway-in-Montalivet-les-Bains/ 
+[sw france insta]: https://kipamojo.world/france/The-Most-Instagrammable-Places-in-South-West-France/ 
 [historical bordeaux]: https://kipamojo.world/france/Historical-Sights-You-Cant-Miss-When-Visiting-Bordeaux/ 
 [insta bordeaux]: https://kipamojo.world/france/The-Most-Instagrammable-Places-in-Bordeaux/ 
 [things to do bordeaux]: https://kipamojo.world/france/The-Best-Things-To-Do-in-Bordeaux-One-Day-in-Bordeaux/ 

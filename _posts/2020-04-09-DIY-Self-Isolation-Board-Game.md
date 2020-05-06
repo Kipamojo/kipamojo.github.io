@@ -81,6 +81,8 @@ Don’t forget to check out our [YouTube video on how to create your own board g
 - our [Stuck at Home vlog series on YouTube][kipamojo youtube]{:target="_blank"}
 - our [TikTok][kipamojo tiktok]{:target="_blank"}
 
+{% include embed-mailing-signup.html %}
+
 ## More [Self-Isolation][self-isolation]{:target="_blank"}
 
 [Week 1 of Social Distancing - A Personal Story][week 1 sd]{:target="_blank"}
@@ -91,6 +93,9 @@ Don’t forget to check out our [YouTube video on how to create your own board g
 
 [Flowers in Europe: Our Favorite Places to See Blossoms and Blooms][flowers europe]{:target="_blank"}
 
+[10 Things We Love About Self-Isolation][love si]{:target="_blank"}
+
+[love si]: https://kipamojo.world/netherlands/Things-We-Love-About-Self-Isolation/ 
 [things to do si]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/ 
 [week 1 sd]: https://kipamojo.world/netherlands/Week-1-of-Social-Distancing/ 
 [week 2 sd]: https://kipamojo.world/netherlands/Week-2-of-Social-Distancing/ 

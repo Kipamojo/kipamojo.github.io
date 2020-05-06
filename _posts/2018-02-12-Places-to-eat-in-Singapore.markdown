@@ -44,6 +44,8 @@ Would you try any of these places to eat? Let us know in the comment section bel
 
 Be sure to check out more of our daily visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Singapore][singapore]{:target="_blank"}
 
 [Things to do in Singapore for free][Free Things to do in Singapore]{:target="_blank"}    

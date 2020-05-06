@@ -43,6 +43,8 @@ Which Thai islands are on your list? Let us know in the comments below!
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Thailand][thailand]{:target="_blank"}
 
 [Thai island hopping itinerary: Phuket, Koh Yao Yai and Krabi][thai islands itinerary]{:target="_blank"}

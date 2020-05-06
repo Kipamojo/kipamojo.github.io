@@ -69,6 +69,8 @@ Have you ever been to the tulip fields in the Netherlands, or is it still on you
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [the Netherlands][the netherlands]{:target="_blank"}
 
 [Day trip from Amsterdam: Visiting the Winter Efteling][winter efteling]{:target="_blank"}
@@ -77,10 +79,16 @@ Be sure to check out more of our visual experiences on [Instagram][instagram]{:t
 
 [Day trip from Amsterdam: Visiting the tulip fields in and around Lisse][tulips lisse]{:target="_blank"}
 
+[Virtual Tour of the Tulip Fields in the Netherlands][virtual tour tulip fields]{:target="_blank"}
+
+[Tulip Fields in the Netherlands - A Photo Guide With Locations][tulips photo guide]{:target="_blank"}
+
 [the netherlands]: https://kipamojo.world/tags.html#the-netherlands
 [winter efteling]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-Winter-Efteling/
 [amsterdam forest]: https://kipamojo.world/netherlands/Visiting-the-cherry-blossoms-in-the-Amsterdam-Forest/
 [tulips lisse]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-tulip-fields-in-and-around-Lisse/ 
+[virtual tour tulip fields]: https://kipamojo.world/netherlands/Virtual-Tour-of-the-Tulip-Fields-in-the-Netherlands/ 
+[tulips photo guide]: https://kipamojo.world/netherlands/Tulip-Fields-in-the-Netherlands-A-Photo-Guide/ 
  
 [instagram]: https://instagram.com/kipamojo 
 [tulip festival]: https://tulpenfestival.nl/en/activities/ 

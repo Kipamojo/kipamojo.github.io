@@ -166,6 +166,8 @@ Let us know in the comments if you've ever visited any of these places and which
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Malaysia][malaysia]{:target="_blank"}
 
 [Things to do in Langkawi: A summer getaway][langkawi]{:target="_blank"}

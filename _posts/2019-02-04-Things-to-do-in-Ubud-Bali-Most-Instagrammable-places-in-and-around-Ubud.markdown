@@ -123,6 +123,8 @@ Are any of these places in Ubud on your bucket list or have you been there alrea
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Indonesia][indonesia]{:target="_blank"}
 
 [Where to eat in Ubud, Bali: Reviewing 10 places to eat in Ubud][eat ubud]{:target="_blank"}

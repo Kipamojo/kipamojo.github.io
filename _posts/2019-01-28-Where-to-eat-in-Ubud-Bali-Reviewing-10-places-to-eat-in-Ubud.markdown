@@ -89,6 +89,8 @@ Which of these places would you like to try on your next trip to Ubud, Bali? Let
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Indonesia][indonesia]{:target="_blank"}
 
 [Things to do in Ubud, Bali: Most Instagrammable places in and around Ubud][things ubud]{:target="_blank"}

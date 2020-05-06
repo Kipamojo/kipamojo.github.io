@@ -98,6 +98,8 @@ Be sure to check out:
 - our [Stuck at Home vlog series on YouTube][kipamojo youtube]{:target="_blank"}
 - our [TikTok][kipamojo tiktok]{:target="_blank"}
 
+{% include embed-mailing-signup.html %}
+
 ## More [Self-Isolation][self-isolation]{:target="_blank"}
 
 [Week 1 of Social Distancing - A Personal Story][week 1 sd]{:target="_blank"}
@@ -108,6 +110,9 @@ Be sure to check out:
 
 [How to Enjoy Spring From Home During Lockdown][spring lockdown]{:target="_blank"}
 
+[10 Things We Love About Self-Isolation][love si]{:target="_blank"}
+
+[love si]: https://kipamojo.world/netherlands/Things-We-Love-About-Self-Isolation/ 
 [week 1 sd]: https://kipamojo.world/netherlands/Week-1-of-Social-Distancing/ 
 [week 2 sd]: https://kipamojo.world/netherlands/Week-2-of-Social-Distancing/ 
 [self-isolation]: https://kipamojo.world/tags.html#self-isolation 

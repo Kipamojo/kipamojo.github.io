@@ -47,17 +47,25 @@ Have you been to the tulip fields in the Netherlands or is it still on your buck
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [the Netherlands][the netherlands]{:target="_blank"}
 
 [Day trip from Amsterdam: Visiting the Winter Efteling][winter efteling]{:target="_blank"}
 
 [Visiting the cherry blossoms in the Amsterdam Forest][amsterdam forest]{:target="_blank"}
 
+[Where to find the best tulip fields in the Netherlands][best tulip fields]{:target="_blank"}
+
+[Virtual Tour of the Tulip Fields in the Netherlands][virtual tour tulip fields]{:target="_blank"}
+
 [instagram]: https://instagram.com/kipamojo 
 
 [the netherlands]: https://kipamojo.world/tags.html#the-netherlands
 [winter efteling]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-Winter-Efteling/
 [amsterdam forest]: https://kipamojo.world/netherlands/Visiting-the-cherry-blossoms-in-the-Amsterdam-Forest/
+[best tulip fields]: https://kipamojo.world/netherlands/Where-to-find-the-best-tulip-fields-in-the-Netherlands/ 
+[virtual tour tulip fields]: https://kipamojo.world/netherlands/Virtual-Tour-of-the-Tulip-Fields-in-the-Netherlands/ 
 
 [keukenhof website]: https://keukenhof.nl/
 [field lisse]: https://goo.gl/maps/GVUvxHJiTnw

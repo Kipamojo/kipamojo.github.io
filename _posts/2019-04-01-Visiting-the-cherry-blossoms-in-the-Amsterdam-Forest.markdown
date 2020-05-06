@@ -53,17 +53,25 @@ Have you been to the cherry blossoms in the Amsterdam Forest or is it still on y
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [the Netherlands][the netherlands]{:target="_blank"}
 
 [Day trip from Amsterdam: Visiting the Winter Efteling][winter efteling]{:target="_blank"}
 
 [Day trip from Amsterdam: Visiting the tulip fields in Lisse][tulip fields]{:target="_blank"}
 
+[Where to find the best tulip fields in the Netherlands][best tulip fields]{:target="_blank"}
+
+[Virtual Tour of the Tulip Fields in the Netherlands][virtual tour tulip fields]{:target="_blank"}
+
 [instagram]: https://instagram.com/kipamojo 
 
 [the netherlands]: https://kipamojo.world/tags.html#the-netherlands
 [winter efteling]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-Winter-Efteling/
 [tulip fields]: https://kipamojo.world/netherlands/Day-trip-from-Amsterdam-Visiting-the-tulip-fields-in-and-around-Lisse/
+[best tulip fields]: https://kipamojo.world/netherlands/Where-to-find-the-best-tulip-fields-in-the-Netherlands/ 
+[virtual tour tulip fields]: https://kipamojo.world/netherlands/Virtual-Tour-of-the-Tulip-Fields-in-the-Netherlands/ 
 
 [small parking area]: https://goo.gl/maps/x42e2CKjGRp
 [all parking areas]: https://www.amsterdamsebos.nl/parkeren/

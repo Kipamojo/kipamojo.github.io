@@ -51,6 +51,8 @@ Did you ever go snowboarding in Japan or is it on your list? Let us know in the 
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Japan][japan]{:target="_blank"}
 
 [7 days in Tokyo: Our complete Tokyo itinerary][tokyo itinerary]{:target="_blank"}

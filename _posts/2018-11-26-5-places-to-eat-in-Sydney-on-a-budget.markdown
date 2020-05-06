@@ -53,6 +53,8 @@ Have you been to any of these places or do you have more recommendations in Sydn
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Australia][australia]{:target="_blank"}
 
 [Things to do in Brisbane: Our 4-day itinerary][brisbane itinerary]{:target="_blank"}

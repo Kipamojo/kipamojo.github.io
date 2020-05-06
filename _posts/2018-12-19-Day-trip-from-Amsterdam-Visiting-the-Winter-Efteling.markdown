@@ -91,6 +91,8 @@ Have you been to the Efteling? Let us know in the comments below!
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [the Netherlands][Netherlands]{:target="_blank"}
 
 [Day trip from Amsterdam: Visiting the tulip fields in and around Lisse][lisse tulip fields]{:target="_blank"}

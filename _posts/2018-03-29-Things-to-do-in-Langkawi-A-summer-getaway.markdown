@@ -121,6 +121,8 @@ Have you been to Langkawi or would you like to go? Let us know in the comment se
 
 Be sure to check out more of our visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Malaysia][malaysia]{:target="_blank"}
 
 [Things to do in George Town: A first-timer's guide to Penang][george town]{:target="_blank"}

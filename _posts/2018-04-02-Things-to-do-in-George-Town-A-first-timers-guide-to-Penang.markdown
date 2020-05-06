@@ -121,6 +121,8 @@ Have you ever been to Penang or are you planning to go? Let us know in the comme
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Malaysia][malaysia]{:target="_blank"}
 
 [Things to do in Langkawi: A summer getaway][langkawi]{:target="_blank"}

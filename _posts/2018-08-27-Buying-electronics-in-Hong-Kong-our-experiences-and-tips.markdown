@@ -49,6 +49,8 @@ Did you ever buy electronics abroad and what was your experience? Let us know in
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Hong Kong][hong kong]{:target="_blank"}
 
 [Things to do in Hong Kong on a budget: Our complete itinerary][things to do hk]{:target="_blank"}

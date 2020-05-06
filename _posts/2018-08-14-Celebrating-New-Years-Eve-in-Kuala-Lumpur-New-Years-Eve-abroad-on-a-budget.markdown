@@ -37,6 +37,8 @@ Where is your favorite place to celebrate New Year's? Let us know in the comment
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Malaysia][malaysia]{:target="_blank"}
 
 [Things to do in Langkawi: A summer getaway][langkawi]{:target="_blank"}

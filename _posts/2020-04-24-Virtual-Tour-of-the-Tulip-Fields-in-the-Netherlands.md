@@ -32,6 +32,8 @@ In case you're still craving more tulip fields, the Keukenhof offers virtual tou
 
 We hope you've enjoyed our virtual tour of the tulip fields and we hope we've inspired you to plan a trip to the tulip fields next spring. Don't forget to check out our other blogs for all the ins and outs on the tulip fields (blooming periods, purpose of the fields, how to get to there and more). 
 
+[Tulip Fields in the Netherlands - A Photo Guide With Locations][tulips photo guide]{:target="_blank"} 
+
 [Where to find the best tulip fields in the Netherlands][best tulip fields]{:target="_blank"} 
 
 [Day trip from Amsterdam: Visiting the tulip fields in and around Lisse][tulip fields lisse]{:target="_blank"}
@@ -45,6 +47,8 @@ Be sure to check out:
 - our [Stuck at Home vlog series on YouTube][kipamojo youtube]{:target="_blank"}
 - our [TikTok][kipamojo tiktok]{:target="_blank"}
 
+{% include embed-mailing-signup.html %}
+
 ## More [Self-Isolation][self-isolation]{:target="_blank"}
 
 [Fun Things To Do at Home During Self-Isolation][things to do si]{:target="_blank"}
@@ -55,6 +59,9 @@ Be sure to check out:
 
 [Our Spring Photo Guide][spring photo guide]{:target="_blank"}
 
+[10 Things We Love About Self-Isolation][love si]{:target="_blank"}
+
+[love si]: https://kipamojo.world/netherlands/Things-We-Love-About-Self-Isolation/ 
 [things to do si]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
 [diy board game]: https://kipamojo.world/netherlands/DIY-Self-Isolation-Board-Game/ 
 [flowers europe]: https://kipamojo.world/europe/Flowers-in-Europe-Our-Favorite-Places-to-See-Blossoms-and-Blooms/ 
@@ -69,3 +76,4 @@ Be sure to check out:
 [tulip fields drone]: https://youtu.be/dKwEkIujCbQ 
 [tulip fields vlog]: https://youtu.be/ruMfR8ES6KU 
 [keukenhof virtual tour]: https://www.youtube.com/playlist?list=PLXmB70ZilxL5ssMcQeyWlBnH3ns7IJsxD 
+[tulips photo guide]: https://kipamojo.world/netherlands/Tulip-Fields-in-the-Netherlands-A-Photo-Guide/ 

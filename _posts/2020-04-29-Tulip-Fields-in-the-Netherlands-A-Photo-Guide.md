@@ -80,6 +80,8 @@ Don’t forget to check out:
 - our daily life updates on [Instagram][instagram]{:target="_blank"}
 - our [TikTok][kipamojo tiktok]{:target="_blank"}
 
+{% include embed-mailing-signup.html %}
+
 ## More [Self-Isolation][self-isolation]{:target="_blank"}
 
 [Fun Things To Do at Home During Self-Isolation][things to do si]{:target="_blank"}
@@ -90,6 +92,9 @@ Don’t forget to check out:
 
 [Our Spring Photo Guide][spring photo guide]{:target="_blank"}
 
+[10 Things We Love About Self-Isolation][love si]{:target="_blank"}
+
+[love si]: https://kipamojo.world/netherlands/Things-We-Love-About-Self-Isolation/ 
 [things to do si]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
 [flowers europe]: https://kipamojo.world/europe/Flowers-in-Europe-Our-Favorite-Places-to-See-Blossoms-and-Blooms/ 
 [spring from home]: https://kipamojo.world/netherlands/How-to-Enjoy-Spring-From-Home-During-Lockdown/ 

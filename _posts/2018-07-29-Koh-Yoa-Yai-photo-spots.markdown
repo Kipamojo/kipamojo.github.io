@@ -69,6 +69,8 @@ Have you ever been to Koh Yao Yai or do you want to visit the island? Let us kno
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Thailand][thailand]{:target="_blank"}
 
 [Thai island hopping itinerary: Phuket, Koh Yao Yai and Krabi][thai islands itinerary]{:target="_blank"}

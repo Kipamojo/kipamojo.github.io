@@ -67,6 +67,8 @@ Have you seen Mt. Fuji in real life or would you love to see it? Let us know in 
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Japan][japan]{:target="_blank"}
 
 [7 days in Tokyo: Our complete Tokyo itinerary][tokyo itinerary]{:target="_blank"}

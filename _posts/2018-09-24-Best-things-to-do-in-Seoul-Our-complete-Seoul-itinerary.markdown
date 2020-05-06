@@ -91,6 +91,8 @@ Have you ever been to Seoul? Let us know in the comments below!
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Korea][korea]{:target="_blank"}
 
 [The Pyeongchang Winter Olympics 2018: Our experiences][winter olympics]{:target="_blank"}

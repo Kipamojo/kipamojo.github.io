@@ -107,6 +107,8 @@ Have you ever been to South West France or are we inspiring you to visit? Let us
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [France][france]{:target="_blank"}
 
 [Camping in South West France: A Summer Getaway in Montalivet-les-Bains][camping france]{:target="_blank"}

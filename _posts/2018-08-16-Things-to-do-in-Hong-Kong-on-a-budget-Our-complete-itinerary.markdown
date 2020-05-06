@@ -146,6 +146,8 @@ Have you ever been to Hong Kong or would you like to visit? Let us know in the c
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Hong Kong][hong kong]{:target="_blank"}
 
 [Hong Kong photo spots - including mapped locations][hong kong photo spots]{:target="_blank"}

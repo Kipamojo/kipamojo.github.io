@@ -71,6 +71,8 @@ Have you ever been to the Olympic Games? Let us know in the comments below!
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Korea][korea]{:target="_blank"}
 
 [Best things to do in Seoul: Our complete Seoul itinerary][seoul itinerary]{:target="_blank"}

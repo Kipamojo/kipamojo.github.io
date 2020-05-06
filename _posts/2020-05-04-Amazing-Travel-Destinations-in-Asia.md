@@ -187,6 +187,9 @@ Be sure to check out:
 
 [Virtual Tour of the Tulip Fields in the Netherlands][virtual tulips]{:target="_blank"}
 
+[10 Things We Love About Self-Isolation][love si]{:target="_blank"}
+
+[love si]: https://kipamojo.world/netherlands/Things-We-Love-About-Self-Isolation/ 
 [things to do si]: https://kipamojo.world/netherlands/Fun-Things-To-Do-at-Home-During-Self-Isolation/
 [flowers europe]: https://kipamojo.world/europe/Flowers-in-Europe-Our-Favorite-Places-to-See-Blossoms-and-Blooms/ 
 [spring photo guide]: https://kipamojo.world/netherlands/Our-Spring-Photo-Guide/ 

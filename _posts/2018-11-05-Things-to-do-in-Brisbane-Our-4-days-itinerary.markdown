@@ -120,6 +120,8 @@ Have you ever been in Brisbane? Let us know your thoughts about Brisbane in the 
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Australia][australia]{:target="_blank"}
 
 [10 Most Instagrammable places in Brisbane][instagram brisbane]{:target="_blank"}

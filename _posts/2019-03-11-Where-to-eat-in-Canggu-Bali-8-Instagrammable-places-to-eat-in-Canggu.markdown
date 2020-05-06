@@ -79,6 +79,8 @@ Have you been to any of these places, or do you have more food recommendations f
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Indonesia][indonesia]{:target="_blank"}
 
 [Where to eat in Ubud, Bali: Reviewing 10 places to eat in Ubud][eat ubud]{:target="_blank"}

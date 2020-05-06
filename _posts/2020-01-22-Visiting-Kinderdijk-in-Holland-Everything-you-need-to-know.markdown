@@ -64,6 +64,8 @@ Is Kinderdijk on your bucket list? Let us know in the comments below!
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [the Netherlands][the netherlands]{:target="_blank"}
 
 [Day trip from Amsterdam: Visiting the Winter Efteling][winter efteling]{:target="_blank"}

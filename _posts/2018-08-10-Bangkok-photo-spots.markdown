@@ -69,6 +69,8 @@ Have you ever been to Bangkok? Let us know in the comments below!
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Thailand][thailand]{:target="_blank"}
 
 [Café hopping in Bangkok - Bangkok's best themed cafés][themed cafes bangkok]{:target="_blank"}

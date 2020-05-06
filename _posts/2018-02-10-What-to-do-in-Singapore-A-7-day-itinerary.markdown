@@ -174,6 +174,8 @@ Are you planning on visiting Singapore? Let us know in the comment section below
 
 Be sure to check out more of our daily visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Singapore][singapore]{:target="_blank"}
 
 [Things to do in Singapore for free][Free Things to do in Singapore]{:target="_blank"}    

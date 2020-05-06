@@ -120,6 +120,8 @@ Have we convinced you to visit Retiro Park in Madrid? Let us know in the comment
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Spain][spain]{:target="_blank"}
 
 

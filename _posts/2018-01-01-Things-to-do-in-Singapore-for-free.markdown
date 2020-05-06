@@ -99,6 +99,8 @@ Have you ever been to Singapore and did you enjoy the city? Let us know in the c
 
 Be sure to check out more of our daily visual experiences on  [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Singapore][singapore]{:target="_blank"}
 
 [What to do in Singapore: A 7-day itinerary][What to do in Singapore 7-day itinerary]{:target="_blank"}   
