@@ -250,6 +250,8 @@ Have you ever been to Madrid or would you love to visit this amazing city? Let u
 
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Spain][spain]{:target="_blank"}
 
 [A Complete Sightseeing Guide of Retiro Park in Madrid][retiro park blog]{:target="_blank"}
