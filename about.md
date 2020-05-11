@@ -18,6 +18,8 @@ For business, press or collaboration enquiries please send an email to [kipamojo
 
 ### Featured Articles
 
+[Interview: Joop en Mika van Travelblog Kipamojo onder de Loep (Interview in Dutch)][interview traveljunks]{:target="_blank"}
+
 [Contribution to: Top Tips for Dealing with Social Isolation - A Single Step][asinglestep]{:target="_blank"}
 
 [Travel-influencers Mika en Joop: 'Het voelt gek om onze reisfoto's nu te delen, dus pakken we het anders aan' - indebuurt.nl (Interview in Dutch)][indebuurt]{:target="_blank"}
@@ -28,6 +30,7 @@ For business, press or collaboration enquiries please send an email to [kipamojo
 
 [Why We Love Madrid - Travel Community][travelcommunity]{:target="_blank"}
 
+[interview traveljunks]: https://www.traveljunks.nl/interview/travelblog-kipamojo-bloggers/ 
 [asinglestep]: https://www.asinglestep.co.uk/resources-and-inspiration/top-tips-for-dealing-with-social-isolation/ 
 [indebuurt]: https://indebuurt.nl/dordrecht/dordtenaren/dordtenaar-van-de-week/travel-influencers-mika-en-joop-het-voelt-gek-om-onze-reisfotos-nu-te-delen-dus-pakken-we-het-anders-aan~107137/
 [reizenenreistips]: https://www.reizen-en-reistips.nl/de-volgers-van-reizen-reistips-joop-en-mika/
