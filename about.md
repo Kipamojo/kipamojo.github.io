@@ -18,18 +18,21 @@ For business, press or collaboration enquiries please send an email to [kipamojo
 
 ### Featured Articles
 
-[Interview: Joop en Mika van Travelblog Kipamojo onder de Loep (Interview in Dutch)][interview traveljunks]{:target="_blank"}
+[5 Places You Can't Miss When Visiting Madrid - Guest Blog at Tourist Katta][tourist katta]{:target="_blank"}
+
+[Interview: Joop en Mika van Travelblog Kipamojo onder de Loep - Interview with Traveljunks in Dutch][interview traveljunks]{:target="_blank"}
 
 [Contribution to: Top Tips for Dealing with Social Isolation - A Single Step][asinglestep]{:target="_blank"}
 
-[Travel-influencers Mika en Joop: 'Het voelt gek om onze reisfoto's nu te delen, dus pakken we het anders aan' - indebuurt.nl (Interview in Dutch)][indebuurt]{:target="_blank"}
+[Travel-influencers Mika en Joop: 'Het voelt gek om onze reisfoto's nu te delen, dus pakken we het anders aan' - Interview with indebuurt.nl in Dutch][indebuurt]{:target="_blank"}
 
-[De Volgers van Reizen & Reistips: Joop & Mika - Reizen & Reistips (Interview in Dutch)][reizenenreistips]{:target="_blank"}
+[De Volgers van Reizen & Reistips: Joop & Mika - Interview with Reizen & Reistips in Dutch][reizenenreistips]{:target="_blank"}
 
-[Travel Couple Inspiration: The Journeys of Joop & Mika - Magnificent World][magnificent world]{:target="_blank"}
+[Travel Couple Inspiration: The Journeys of Joop & Mika - Interview with Magnificent World][magnificent world]{:target="_blank"}
 
-[Why We Love Madrid - Travel Community][travelcommunity]{:target="_blank"}
+[Why We Love Madrid - Guest Blog at Travel Community][travelcommunity]{:target="_blank"}
 
+[tourist katta]: https://www.touristkatta.com/read_story_more_page/5-Places-You-Can%E2%80%99t-Miss-When-Visiting-Madrid/73/27 
 [interview traveljunks]: https://www.traveljunks.nl/interview/travelblog-kipamojo-bloggers/ 
 [asinglestep]: https://www.asinglestep.co.uk/resources-and-inspiration/top-tips-for-dealing-with-social-isolation/ 
 [indebuurt]: https://indebuurt.nl/dordrecht/dordtenaren/dordtenaar-van-de-week/travel-influencers-mika-en-joop-het-voelt-gek-om-onze-reisfotos-nu-te-delen-dus-pakken-we-het-anders-aan~107137/
@@ -38,5 +41,3 @@ For business, press or collaboration enquiries please send an email to [kipamojo
 [travelcommunity]: https://travelcommunity.co/why-we-love-madrid/ 
 [instagram]: https://instagram.com/kipamojo
 [email]: mailto:kipamojo@gmail.com
-
-
