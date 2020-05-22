@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "All Things To Do at Lake Bled"
-date:   2020-05-26 08:00:00 +0200
+date:   2020-05-22 08:00:00 +0200
 categories: [Slovenia]
 tags:
     - "Slovenia"
