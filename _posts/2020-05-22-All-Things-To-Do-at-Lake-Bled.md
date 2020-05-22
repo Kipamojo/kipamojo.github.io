@@ -156,4 +156,4 @@ Be sure to check out:
 [trail start mala osojnica 2]: https://goo.gl/maps/tcNFb4j3BXExjg4o7 
 [zup prevozi]: http://www.zup-prevozi.eu/en/prices.html 
 
-[slovenia]: 
+[slovenia]: https://kipamojo.world/tags.html#slovenia 
