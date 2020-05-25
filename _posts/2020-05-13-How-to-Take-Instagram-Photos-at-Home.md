@@ -5,7 +5,6 @@ date:   2020-05-13 08:00:00 +0200
 categories: [Netherlands]
 tags:
     - "Self-Isolation"
-    - "The Netherlands"
 permalink: /:categories/:title/
 image: "assets/img/kipamojo-instagram-home-banner.jpg"
 banner: "assets/img/kipamojo-instagram-home-banner-large.jpg"

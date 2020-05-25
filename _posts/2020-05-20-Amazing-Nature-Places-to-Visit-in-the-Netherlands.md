@@ -5,7 +5,7 @@ date:   2020-05-20 08:00:00 +0200
 categories: [Netherlands]
 tags:
     - "Self-Isolation"
-    - "Netherlands"
+    - "The Netherlands"
 permalink: /:categories/:title/
 image: "assets/img/netherlands-nature-alde-feanen-banner.webp"
 banner: "assets/img/netherlands-nature-alde-feanen-banner-large.webp"
