@@ -93,6 +93,8 @@ We hope we’ve inspired you to watch the sunset in Madrid! We’d love to know 
  
 Be sure to check out more of our visual experiences on [Instagram][instagram]{:target="_blank"}!
 
+{% include embed-mailing-signup.html %}
+
 ## More [Spain][spain]{:target="_blank"}
 
 [All Things To Do in Madrid: A Complete Sightseeing Guide][things to do madrid]{:target="_blank"}
