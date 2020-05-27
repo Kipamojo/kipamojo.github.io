@@ -33,7 +33,7 @@ It’s not hard to reach the gorge from Lake Bled. It’s about an hour walk to 
 
 Admission fee:  
 Adults: €10  
-Students: €6 (I always use my student card to get discounts, it still works even though I’m not a student anymore!)  
+Students: €7 (I always use my student card to get discounts, it still works even though I’m not a student anymore!)  
  
 Check [this website for current prices and opening hours][vintgar gorge website]{:target="_blank"}. 
 
@@ -42,8 +42,8 @@ Check [this website for current prices and opening hours][vintgar gorge website]
 The Bled Castle is located on top of a hill overlooking the lake. Getting there requires climbing a lot of stairs as it’s pretty high up. The castle itself is very picturesque. There is a café, a restaurant, a few souvenir shops and a museum. The most impressive part of the castle is the view over the lake, which is stunning! I went there on a Sunday afternoon and it was pretty crowded with lots of groups. Fortunately, there was still plenty of space to soak up the views and get some good photos.
  
 Admission fee:  
-Adults: €11  
-Students: €7  
+Adults: €13  
+Students: €8,50  
  
 Check [this website for current prices and opening hours][bled castle website]{:target="_blank"}. 
 
@@ -150,7 +150,7 @@ Be sure to check out:
 
 [ifeelslovenia]: https://www.slovenia.info/en/plan-your-trip/all-you-need-to-know-about-coronavirus 
 [vintgar gorge website]: http://www.vintgar.si/?lang=en
-[bled castle website]: http://www.blejski-grad.si/en/price-list
+[bled castle website]: http://www.blejski-grad.si/en/opening-hours 
 [bled island website]: http://www.blejskiotok.si/pricelist 
 [trail start mala osojnica 1]: https://goo.gl/maps/ZapS3Q66tAUVgpVs7 
 [trail start mala osojnica 2]: https://goo.gl/maps/tcNFb4j3BXExjg4o7 
