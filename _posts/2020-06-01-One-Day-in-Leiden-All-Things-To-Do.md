@@ -6,8 +6,8 @@ categories: [Netherlands]
 tags:
     - "The Netherlands"
 permalink: /:categories/:title/
-image: "assets/img/netherlands-leiden-view-banner.webp"
-banner: "assets/img/netherlands-leiden-view-banner-large.webp"
+image: "assets/img/netherlands-leiden-view-banner.jpg"
+banner: "assets/img/netherlands-leiden-view-banner-large.jpg"
 alt: "View over Leiden in the Netherlands"
 ---
 
