@@ -6,8 +6,8 @@ categories: [World]
 tags:
     - "Self-Isolation"
 permalink: /:categories/:title/
-image: "assets/img/travel-inspiration-nusa-penida-langkawi-perhentian-islands-banner.webp"
-banner: "assets/img/travel-inspiration-nusa-penida-langkawi-perhentian-islands-banner-large.webp"
+image: "assets/img/travel-inspiration-nusa-penida-langkawi-perhentian-islands-banner.jpg"
+banner: "assets/img/travel-inspiration-nusa-penida-langkawi-perhentian-islands-banner-large.jpg"
 alt: "Post-Lockdown Travel Inspiration - Tropical Beaches"
 ---
 
